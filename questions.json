@@ -5,11 +5,31 @@
     "difficulty": "recall",
     "question": "Care este ordinea crescătoare corectă a rigidității elastomerilor după priză?",
     "options": [
-      { "id": "A", "text": "Polisulfuri < Siliconi de condensare < Siliconi de adiție < Polieteri", "correct": true },
-      { "id": "B", "text": "Polieteri < Siliconi de adiție < Siliconi de condensare < Polisulfuri", "correct": false },
-      { "id": "C", "text": "Siliconi de adiție < Polisulfuri < Polieteri < Siliconi de condensare", "correct": false },
-      { "id": "D", "text": "Polisulfuri < Polieteri < Siliconi de condensare < Siliconi de adiție", "correct": false },
-      { "id": "E", "text": "Siliconi de condensare < Polisulfuri < Siliconi de adiție < Polieteri", "correct": false }
+      {
+        "id": "A",
+        "text": "Polisulfuri < Siliconi de condensare < Siliconi de adiție < Polieteri",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Polieteri < Siliconi de adiție < Siliconi de condensare < Polisulfuri",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Siliconi de adiție < Polisulfuri < Polieteri < Siliconi de condensare",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Polisulfuri < Polieteri < Siliconi de condensare < Siliconi de adiție",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Siliconi de condensare < Polisulfuri < Siliconi de adiție < Polieteri",
+        "correct": false
+      }
     ],
     "explanation": "Ordinea crescătoare a rigidității este: Polisulfuri < Siliconi de condensare < Siliconi de adiție < Polieteri. Polieterii sunt cei mai rigizi, ceea ce face dezinserția dificilă de pe câmpuri retentive.",
     "source": "5. Suport curs 5_NE_T.pdf — Elastomeri / Rigiditate"
@@ -20,11 +40,31 @@
     "difficulty": "recall",
     "question": "Care este ordinea descrescătoare corectă a rezistenței la rupere a elastomerilor?",
     "options": [
-      { "id": "A", "text": "Polisulfuri > Sil de adiție > Sil de condensare > Polieteri", "correct": true },
-      { "id": "B", "text": "Polieteri > Sil de adiție > Sil de condensare > Polisulfuri", "correct": false },
-      { "id": "C", "text": "Sil de adiție > Polisulfuri > Polieteri > Sil de condensare", "correct": false },
-      { "id": "D", "text": "Sil de condensare > Polisulfuri > Sil de adiție > Polieteri", "correct": false },
-      { "id": "E", "text": "Polisulfuri > Polieteri > Sil de adiție > Sil de condensare", "correct": false }
+      {
+        "id": "A",
+        "text": "Polisulfuri > Sil de adiție > Sil de condensare > Polieteri",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Polieteri > Sil de adiție > Sil de condensare > Polisulfuri",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Sil de adiție > Polisulfuri > Polieteri > Sil de condensare",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sil de condensare > Polisulfuri > Sil de adiție > Polieteri",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Polisulfuri > Polieteri > Sil de adiție > Sil de condensare",
+        "correct": false
+      }
     ],
     "explanation": "Polisulfurile, fiind mai puțin rigide, au cea mai mare rezistență la rupere. Polieterii, fiind cei mai rigizi, au cea mai redusă rezistență la rupere.",
     "source": "5. Suport curs 5_NE_T.pdf — Elastomeri / Rezistența la rupere"
@@ -35,11 +75,31 @@
     "difficulty": "application",
     "question": "Pentru duplicarea modelelor principale (proteze scheletate, aparate ortodontice mobilizabile) materialele indicate sunt:",
     "options": [
-      { "id": "A", "text": "Variantele chitoase (tip 0-putty și 1-heavy bodied) — siliconi", "correct": true },
-      { "id": "B", "text": "Polieteri fluizi în tehnica dublului amestec", "correct": false },
-      { "id": "C", "text": "Pasta ZOE", "correct": false },
-      { "id": "D", "text": "Alginat în portamprente standard", "correct": false },
-      { "id": "E", "text": "Agar-agar reversibil", "correct": false }
+      {
+        "id": "A",
+        "text": "Variantele chitoase (tip 0-putty și 1-heavy bodied) — siliconi",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Polieteri fluizi în tehnica dublului amestec",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Pasta ZOE",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Alginat în portamprente standard",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Agar-agar reversibil",
+        "correct": false
+      }
     ],
     "explanation": "Pentru duplicarea modelelor principale se folosesc variantele chitoase tip 0 (putty) și 1 (heavy bodied) — siliconi.",
     "source": "5. Suport curs 5_NE_T.pdf — Elastomeri / Indicații / Duplicarea modelelor"
@@ -50,11 +110,31 @@
     "difficulty": "conceptual",
     "question": "Cerința corectă privind rezistența mecanică a elastomerilor este:",
     "options": [
-      { "id": "A", "text": "Suficientă pentru a nu se rupe la dezinserția din zonele retentive, dar nu exagerată pentru a diminua deformarea permanentă", "correct": true },
-      { "id": "B", "text": "Maximă posibilă, indiferent de consecințe", "correct": false },
-      { "id": "C", "text": "Minimă, pentru a permite o desprindere ușoară", "correct": false },
-      { "id": "D", "text": "Egală cu cea a materialelor rigide (gips, ZOE)", "correct": false },
-      { "id": "E", "text": "Influențată doar de temperatura camerei", "correct": false }
+      {
+        "id": "A",
+        "text": "Suficientă pentru a nu se rupe la dezinserția din zonele retentive, dar nu exagerată pentru a diminua deformarea permanentă",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Maximă posibilă, indiferent de consecințe",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Minimă, pentru a permite o desprindere ușoară",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Egală cu cea a materialelor rigide (gips, ZOE)",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Influențată doar de temperatura camerei",
+        "correct": false
+      }
     ],
     "explanation": "Rezistența mecanică trebuie să fie suficientă pentru a evita ruperea, dar nu exagerată — o rezistență mare poate presupune o deformare permanentă mare în cursul dezinserției.",
     "source": "5. Suport curs 5_NE_T.pdf — Elastomeri / Rezistența la rupere"
@@ -65,11 +145,31 @@
     "difficulty": "recall",
     "question": "Timpul de priză al alginatelor este de:",
     "options": [
-      { "id": "A", "text": "1-4,5 minute", "correct": true },
-      { "id": "B", "text": "8-30 minute", "correct": false },
-      { "id": "C", "text": "30-60 minute", "correct": false },
-      { "id": "D", "text": "20-25 minute", "correct": false },
-      { "id": "E", "text": "Sub 30 secunde", "correct": false }
+      {
+        "id": "A",
+        "text": "1-4,5 minute",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "8-30 minute",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "30-60 minute",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "20-25 minute",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Sub 30 secunde",
+        "correct": false
+      }
     ],
     "explanation": "Timpul de priză al alginatelor este de 1-4,5 minute, cu un timp de preparare de aproximativ 1 minut.",
     "source": "5. Suport curs 5_NE_T.pdf — Alginate / Proprietăți"
@@ -80,11 +180,31 @@
     "difficulty": "recall",
     "question": "Conform clasificării ISO 1998, gipsul Tipul IV reprezintă:",
     "options": [
-      { "id": "A", "text": "Extradur, cu dilatare redusă (sintetic)", "correct": true },
-      { "id": "B", "text": "Ipsos pentru amprente (nu stomatologie)", "correct": false },
-      { "id": "C", "text": "Gips normal (alabastru)", "correct": false },
-      { "id": "D", "text": "Gips dur", "correct": false },
-      { "id": "E", "text": "Extradur, cu dilatare crescută (masă de ambalat)", "correct": false }
+      {
+        "id": "A",
+        "text": "Extradur, cu dilatare redusă (sintetic)",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Ipsos pentru amprente (nu stomatologie)",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Gips normal (alabastru)",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Gips dur",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Extradur, cu dilatare crescută (masă de ambalat)",
+        "correct": false
+      }
     ],
     "explanation": "Tipul IV ISO 1998 corespunde gipsului extradur cu dilatare redusă (sintetic), folosit pentru modele de lucru cu bonturi mobilizabile, precizie mare.",
     "source": "6. Suport curs 6_Materiale_NE_T.pdf — Gipsuri / Clasificare ISO"
@@ -95,11 +215,31 @@
     "difficulty": "recall",
     "question": "Temperatura de tranziție solid-solid (T de înmuiere) a cerurilor dentare este de aproximativ:",
     "options": [
-      { "id": "A", "text": "32°C", "correct": true },
-      { "id": "B", "text": "55°C", "correct": false },
-      { "id": "C", "text": "65-90°C", "correct": false },
-      { "id": "D", "text": "100-150°C", "correct": false },
-      { "id": "E", "text": "37°C", "correct": false }
+      {
+        "id": "A",
+        "text": "32°C",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "55°C",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "65-90°C",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "100-150°C",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "37°C",
+        "correct": false
+      }
     ],
     "explanation": "Temperatura de tranziție solid-solid (T de înmuiere) este de 32°C, iar T de topire este de aproximativ 55°C. Tranziția este responsabilă de transformarea cerii în material modelabil.",
     "source": "7. Suport curs 7_Materiale_NE_T.pdf — Ceruri / Proprietăți fizice"
@@ -110,11 +250,31 @@
     "difficulty": "recall",
     "question": "Masele de ambalat pe bază de fosfați se folosesc până la temperatura de aproximativ:",
     "options": [
-      { "id": "A", "text": "1200°C", "correct": true },
-      { "id": "B", "text": "900°C", "correct": false },
-      { "id": "C", "text": "1400°C", "correct": false },
-      { "id": "D", "text": "700°C", "correct": false },
-      { "id": "E", "text": "600°C", "correct": false }
+      {
+        "id": "A",
+        "text": "1200°C",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "900°C",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "1400°C",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "700°C",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "600°C",
+        "correct": false
+      }
     ],
     "explanation": "Masele de ambalat pe bază de fosfați se folosesc până la 1200°C și sunt cele mai utilizate astăzi. Sulfații se folosesc până la 900°C, iar silicații peste 1400°C.",
     "source": "8. Suport curs 8_NE_T.pdf — Mase fosfați"
@@ -125,11 +285,31 @@
     "difficulty": "recall",
     "question": "Materialele termorezistente din compoziția maselor de ambalat reprezintă aproximativ:",
     "options": [
-      { "id": "A", "text": "55-75% din compoziție", "correct": true },
-      { "id": "B", "text": "20% din compoziție", "correct": false },
-      { "id": "C", "text": "10% din compoziție", "correct": false },
-      { "id": "D", "text": "Peste 90% din compoziție", "correct": false },
-      { "id": "E", "text": "30-40% din compoziție", "correct": false }
+      {
+        "id": "A",
+        "text": "55-75% din compoziție",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "20% din compoziție",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "10% din compoziție",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Peste 90% din compoziție",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "30-40% din compoziție",
+        "correct": false
+      }
     ],
     "explanation": "Materialele termorezistente (silice polimorfe) reprezintă 55-75%, lianții ~20%, restul fiind materiale de adaos.",
     "source": "8. Suport curs 8_NE_T.pdf — Compoziție mase de ambalat"
@@ -140,11 +320,31 @@
     "difficulty": "recall",
     "question": "Rezistența maximă a unui model din gips se obține după:",
     "options": [
-      { "id": "A", "text": "Aproximativ 7 zile prin desicare", "correct": true },
-      { "id": "B", "text": "30 minute de la turnare", "correct": false },
-      { "id": "C", "text": "24 ore", "correct": false },
-      { "id": "D", "text": "1 oră", "correct": false },
-      { "id": "E", "text": "Imediat după priza completă", "correct": false }
+      {
+        "id": "A",
+        "text": "Aproximativ 7 zile prin desicare",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "30 minute de la turnare",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "24 ore",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "1 oră",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Imediat după priza completă",
+        "correct": false
+      }
     ],
     "explanation": "Rezistența maximă apare după 7 zile prin desicare — pierderea excesului de apă determină precipitarea urmelor de dihidrat dizolvat, cimentând cristalele de gips.",
     "source": "6. Suport curs 6_Materiale_NE_T.pdf — Gipsuri / Factori proprietăți mecanice"
@@ -155,11 +355,31 @@
     "difficulty": "recall",
     "question": "Ceara Carnauba este o ceară:",
     "options": [
-      { "id": "A", "text": "Vegetală, provenită de la palmieri din Brazilia și Venezuela", "correct": true },
-      { "id": "B", "text": "Animală, obținută de la albine", "correct": false },
-      { "id": "C", "text": "Minerală, obținută din petrol", "correct": false },
-      { "id": "D", "text": "Sintetică, cu interval de topire 37-63°C", "correct": false },
-      { "id": "E", "text": "Sintetică, similară polietilenicei", "correct": false }
+      {
+        "id": "A",
+        "text": "Vegetală, provenită de la palmieri din Brazilia și Venezuela",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Animală, obținută de la albine",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Minerală, obținută din petrol",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sintetică, cu interval de topire 37-63°C",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Sintetică, similară polietilenicei",
+        "correct": false
+      }
     ],
     "explanation": "Ceara Carnauba este vegetală, provine de la palmieri din Brazilia/Venezuela, cenușiu-verzuie, dură, tenace, cu interval de topire 65-90°C.",
     "source": "7. Suport curs 7_Materiale_NE_T.pdf — Ceruri / Ceara vegetală"
@@ -170,11 +390,31 @@
     "difficulty": "recall",
     "question": "Substanța reactivă în reacția de priză a maselor de ambalat pe bază de silicați este:",
     "options": [
-      { "id": "A", "text": "Silicea hidratată Si(OH)₄, transformată ulterior în gel în prezența MgO", "correct": true },
-      { "id": "B", "text": "Sulfatul de calciu dihidratat", "correct": false },
-      { "id": "C", "text": "Fosfatul de amoniu dihidrogenat", "correct": false },
-      { "id": "D", "text": "Acidul alginic", "correct": false },
-      { "id": "E", "text": "Tetraetilortosilicatul în mediu alcalin", "correct": false }
+      {
+        "id": "A",
+        "text": "Silicea hidratată Si(OH)₄, transformată ulterior în gel în prezența MgO",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Sulfatul de calciu dihidratat",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Fosfatul de amoniu dihidrogenat",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Acidul alginic",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Tetraetilortosilicatul în mediu alcalin",
+        "correct": false
+      }
     ],
     "explanation": "La silicați, substanța reactivă este silicea hidratată Si(OH)₄, obținută din reacția etilsilicat + apă + soluție acidă alcool etilic; legarea pulberii se face prin transformarea silicei hidratate în gel în prezența MgO.",
     "source": "8. Suport curs 8_NE_T.pdf — Mase silicați / Reacția de priză"
@@ -185,11 +425,31 @@
     "difficulty": "application",
     "question": "Pentru o lucrare protetică fixă pe câmp protetic retentiv, alegerea unui silicon de adiție în varianta chitoasă este INCORECTĂ pentru că:",
     "options": [
-      { "id": "A", "text": "Materialul rigid este greu de îndepărtat din zone retentive, cu risc de fractură a modelului", "correct": true },
-      { "id": "B", "text": "Are contracție de priză foarte mare", "correct": false },
-      { "id": "C", "text": "Are dezinfecție dificilă datorită hidrofiliei", "correct": false },
-      { "id": "D", "text": "Are timp de priză prea lung (peste 30 minute)", "correct": false },
-      { "id": "E", "text": "Reacționează cu sulful din câmpul protetic", "correct": false }
+      {
+        "id": "A",
+        "text": "Materialul rigid este greu de îndepărtat din zone retentive, cu risc de fractură a modelului",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Are contracție de priză foarte mare",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Are dezinfecție dificilă datorită hidrofiliei",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Are timp de priză prea lung (peste 30 minute)",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Reacționează cu sulful din câmpul protetic",
+        "correct": false
+      }
     ],
     "explanation": "Siliconii de adiție sunt materiale rigide (varianta chitoasă foarte rigidă), greu de îndepărtat din zone retentive — risc de deformare permanentă sau fractura modelului la dezinserție.",
     "source": "5. Suport curs 5_NE_T.pdf — Elastomeri / Tehnica de spălare cu creare de spațiu"
@@ -200,11 +460,31 @@
     "difficulty": "application",
     "question": "Pentru lucrările integral ceramice (tipare pentru ardere directă a ceramicii), masele de ambalat indicate sunt:",
     "options": [
-      { "id": "A", "text": "Mase refractare pe bază de fosfați", "correct": true },
-      { "id": "B", "text": "Mase pe bază de sulfați", "correct": false },
-      { "id": "C", "text": "Mase pe bază de alginat", "correct": false },
-      { "id": "D", "text": "Gipsuri Tipul II", "correct": false },
-      { "id": "E", "text": "Rășini epoxidice", "correct": false }
+      {
+        "id": "A",
+        "text": "Mase refractare pe bază de fosfați",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mase pe bază de sulfați",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Mase pe bază de alginat",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Gipsuri Tipul II",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Rășini epoxidice",
+        "correct": false
+      }
     ],
     "explanation": "Pentru lucrări integral ceramice se folosesc variante ale maselor pe bază de fosfați (refractare), rezistente la T foarte înalte. Sulfații sunt limitați la 900°C și nu rezistă.",
     "source": "8. Suport curs 8_NE_T.pdf — Mase refractare ceramică"
@@ -215,11 +495,31 @@
     "difficulty": "application",
     "question": "Depunerea galvanică a metalelor pentru modele este CONTRAINDICATĂ pentru amprentele cu:",
     "options": [
-      { "id": "A", "text": "Alginat", "correct": true },
-      { "id": "B", "text": "Silicon de adiție", "correct": false },
-      { "id": "C", "text": "Silicon de condensare", "correct": false },
-      { "id": "D", "text": "Polisulfuri", "correct": false },
-      { "id": "E", "text": "Vinil-polieteri", "correct": false }
+      {
+        "id": "A",
+        "text": "Alginat",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Silicon de adiție",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Silicon de condensare",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Polisulfuri",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Vinil-polieteri",
+        "correct": false
+      }
     ],
     "explanation": "Galvanoplastia este contraindicată pentru amprentele cu alginat. Pentru polieteri se depun numai ioni de Ag (soluții alcaline) deoarece sunt incompatibili cu soluțiile acide.",
     "source": "6. Suport curs 6_Materiale_NE_T.pdf — Galvanoplastie / Contraindicații"
@@ -230,11 +530,31 @@
     "difficulty": "recall",
     "question": "Care dintre următoarele afirmații despre siliconii de adiție sunt corecte?",
     "options": [
-      { "id": "A", "text": "Sunt materiale hidrofobe, cu dezinfecție facilă.", "correct": true },
-      { "id": "B", "text": "Au contracție de priză foarte redusă (stabilitate dimensională bună).", "correct": true },
-      { "id": "C", "text": "Au priză prin modificări de temperatură (reversibilă).", "correct": false },
-      { "id": "D", "text": "Sunt incompatibili cu portamprentele metalice.", "correct": false },
-      { "id": "E", "text": "Conțin acid alginic ca liant principal.", "correct": false }
+      {
+        "id": "A",
+        "text": "Sunt materiale hidrofobe, cu dezinfecție facilă.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Au contracție de priză foarte redusă (stabilitate dimensională bună).",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Au priză prin modificări de temperatură (reversibilă).",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sunt incompatibili cu portamprentele metalice.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Conțin acid alginic ca liant principal.",
+        "correct": false
+      }
     ],
     "explanation": "Siliconii de adiție sunt hidrofobi (dezinfecție facilă) și au contracție de priză redusă (bună stabilitate dimensională). Priza este chimică, ireversibilă. Sunt compatibili cu portamprentele metalice.",
     "source": "5. Suport curs 5_NE_T.pdf — Siliconi de adiție"
@@ -245,11 +565,31 @@
     "difficulty": "recall",
     "question": "Privind clasificarea elastomerilor după consistență, care dintre afirmații sunt corecte?",
     "options": [
-      { "id": "A", "text": "Tipul 0 (putty) are aproximativ 75% umplutură inertă.", "correct": true },
-      { "id": "B", "text": "Tipul 3 (light bodied) are aproximativ 30% umplutură inertă.", "correct": true },
-      { "id": "C", "text": "Tipul 1 corespunde variantei regular (medie).", "correct": false },
-      { "id": "D", "text": "Tipul 0 corespunde variantei fluide pentru injectare.", "correct": false },
-      { "id": "E", "text": "Tipul 3 este cel mai rigid după priză.", "correct": false }
+      {
+        "id": "A",
+        "text": "Tipul 0 (putty) are aproximativ 75% umplutură inertă.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Tipul 3 (light bodied) are aproximativ 30% umplutură inertă.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Tipul 1 corespunde variantei regular (medie).",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Tipul 0 corespunde variantei fluide pentru injectare.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Tipul 3 este cel mai rigid după priză.",
+        "correct": false
+      }
     ],
     "explanation": "Tipul 0 (putty/chituri) ~75% umplutură inertă; Tipul 1 = heavy bodied; Tipul 2 = regular; Tipul 3 = light bodied ~30% umplutură (cel mai fluid).",
     "source": "5. Suport curs 5_NE_T.pdf — Clasificare conform consistenței"
@@ -260,11 +600,31 @@
     "difficulty": "recall",
     "question": "Care sunt dezavantajele polieterilor ca materiale de amprentă?",
     "options": [
-      { "id": "A", "text": "Foarte greu de desinserat din cavitatea orală (rigizi)", "correct": true },
-      { "id": "B", "text": "Dezinfecția dificilă datorită imbibiției", "correct": true },
-      { "id": "C", "text": "Contracție de priză foarte mare", "correct": false },
-      { "id": "D", "text": "Acuratețe redusă în prezența umidității", "correct": false },
-      { "id": "E", "text": "Priză reversibilă prin modificări de temperatură", "correct": false }
+      {
+        "id": "A",
+        "text": "Foarte greu de desinserat din cavitatea orală (rigizi)",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Dezinfecția dificilă datorită imbibiției",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Contracție de priză foarte mare",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Acuratețe redusă în prezența umidității",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Priză reversibilă prin modificări de temperatură",
+        "correct": false
+      }
     ],
     "explanation": "Polieterii sunt foarte rigizi (greu de desinserat din CO, rezistență la rupere redusă) și au dezinfecție dificilă din cauza imbibiției (sunt hidrofili). Contracția de priză este redusă, iar acuratețea este foarte bună chiar cu umiditate ușoară.",
     "source": "5. Suport curs 5_NE_T.pdf — Polieteri / Dezavantaje"
@@ -275,11 +635,31 @@
     "difficulty": "application",
     "question": "Pentru amprenta rapoartelor ocluzale, care dintre următoarele sunt indicate?",
     "options": [
-      { "id": "A", "text": "Variantele fluide (tip 3) aplicate direct pe suprafețele ocluzale", "correct": true },
-      { "id": "B", "text": "Polieteri sau siliconi de adiție sub formă de cartuș cu pistol, cu timp de priză foarte scurt (1,5-3 min)", "correct": true },
-      { "id": "C", "text": "Variantele chitoase tip 0 și 1 ca material unic", "correct": false },
-      { "id": "D", "text": "Alginatul în portamprentă individuală", "correct": false },
-      { "id": "E", "text": "Pasta ZOE rigidă", "correct": false }
+      {
+        "id": "A",
+        "text": "Variantele fluide (tip 3) aplicate direct pe suprafețele ocluzale",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Polieteri sau siliconi de adiție sub formă de cartuș cu pistol, cu timp de priză foarte scurt (1,5-3 min)",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Variantele chitoase tip 0 și 1 ca material unic",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Alginatul în portamprentă individuală",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Pasta ZOE rigidă",
+        "correct": false
+      }
     ],
     "explanation": "Pentru amprenta ocluziei se folosesc variantele fluide (tip 3), polieteri sau siliconi de adiție în cartuș cu pistol (timp scurt 1,5-3 min). Variantele chitoase sunt contraindicate pentru că pot devia mandibula din IM.",
     "source": "5. Suport curs 5_NE_T.pdf — Indicații / Amprenta rapoartelor ocluzale"
@@ -290,11 +670,31 @@
     "difficulty": "recall",
     "question": "Care dintre următoarele afirmații despre alginate sunt corecte?",
     "options": [
-      { "id": "A", "text": "Acidul alginic se prepară dintr-o plantă marină.", "correct": true },
-      { "id": "B", "text": "Reacția de priză este ireversibilă.", "correct": true },
-      { "id": "C", "text": "Au priză prin modificări ale temperaturii.", "correct": false },
-      { "id": "D", "text": "Alginatul de calciu este solubil în apă.", "correct": false },
-      { "id": "E", "text": "Sunt materiale hidrofobe.", "correct": false }
+      {
+        "id": "A",
+        "text": "Acidul alginic se prepară dintr-o plantă marină.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Reacția de priză este ireversibilă.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Au priză prin modificări ale temperaturii.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Alginatul de calciu este solubil în apă.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Sunt materiale hidrofobe.",
+        "correct": false
+      }
     ],
     "explanation": "Acidul alginic provine dintr-o plantă marină, iar reacția este ireversibilă (chimică). Alginatul de calciu este INSOLUBIL în apă, iar alginatele sunt foarte hidrofile.",
     "source": "5. Suport curs 5_NE_T.pdf — Alginate / Compoziție"
@@ -305,11 +705,31 @@
     "difficulty": "application",
     "question": "Privind compatibilitatea alginatului cu materialele de model, care afirmații sunt corecte?",
     "options": [
-      { "id": "A", "text": "Modelele se realizează numai din gips.", "correct": true },
-      { "id": "B", "text": "Turnarea modelului trebuie făcută în maxim 30 de minute (risc sinereză în aer).", "correct": true },
-      { "id": "C", "text": "Modelele galvanice sunt indicate prioritar.", "correct": false },
-      { "id": "D", "text": "Amprentele se pot păstra săptămâni întregi în atmosferă uscată.", "correct": false },
-      { "id": "E", "text": "Imersia în apă timp îndelungat asigură stabilitate dimensională.", "correct": false }
+      {
+        "id": "A",
+        "text": "Modelele se realizează numai din gips.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Turnarea modelului trebuie făcută în maxim 30 de minute (risc sinereză în aer).",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Modelele galvanice sunt indicate prioritar.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Amprentele se pot păstra săptămâni întregi în atmosferă uscată.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Imersia în apă timp îndelungat asigură stabilitate dimensională.",
+        "correct": false
+      }
     ],
     "explanation": "Alginatele se toarnă numai cu gips, în max 30 min, în atmosferă cu umiditate 100% (șervet umed/pungi ermetice). Galvanoplastia este contraindicată; aerul uscat produce sinereză, apa produce imbibiție.",
     "source": "5. Suport curs 5_NE_T.pdf — Alginate / Compatibilitate"
@@ -320,11 +740,31 @@
     "difficulty": "application",
     "question": "Pentru amprentele realizate cu siliconi de adiție, care sunt afirmațiile corecte privind dezinfecția?",
     "options": [
-      { "id": "A", "text": "Imersia în soluție dezinfectantă timp de 30 minute este permisă (sunt hidrofobi).", "correct": true },
-      { "id": "B", "text": "Turnarea modelului nu se face înainte de 30 minute (încheierea contracției de priză).", "correct": true },
-      { "id": "C", "text": "Se preferă spray-erea 10 min datorită imbibiției.", "correct": false },
-      { "id": "D", "text": "Trebuie turnate imediat după dezinfecție pentru a evita deformările.", "correct": false },
-      { "id": "E", "text": "Sunt incompatibile cu glutaraldehida.", "correct": false }
+      {
+        "id": "A",
+        "text": "Imersia în soluție dezinfectantă timp de 30 minute este permisă (sunt hidrofobi).",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Turnarea modelului nu se face înainte de 30 minute (încheierea contracției de priză).",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Se preferă spray-erea 10 min datorită imbibiției.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Trebuie turnate imediat după dezinfecție pentru a evita deformările.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Sunt incompatibile cu glutaraldehida.",
+        "correct": false
+      }
     ],
     "explanation": "Siliconii de adiție sunt hidrofobi — imersie 30 min este sigură. Turnarea NU se face înainte de 30 min (încheierea contracției). Pot fi păstrați mult timp în atmosferă.",
     "source": "5. Suport curs 5_NE_T.pdf — Dezinfecție / Siliconi de adiție"
@@ -335,11 +775,31 @@
     "difficulty": "application",
     "question": "Pentru amprentele realizate cu polieteri sau alginate, dezinfecția adecvată constă în:",
     "options": [
-      { "id": "A", "text": "Spray-erea cu soluție dezinfectantă", "correct": true },
-      { "id": "B", "text": "Menținerea amprentei în pungă timp de 10 minute", "correct": true },
-      { "id": "C", "text": "Imersia 30 minute fără riscuri dimensionale", "correct": false },
-      { "id": "D", "text": "Imersia 24 ore în soluție de hipoclorit", "correct": false },
-      { "id": "E", "text": "Lăsarea liberă în aer uscat pentru 1 oră", "correct": false }
+      {
+        "id": "A",
+        "text": "Spray-erea cu soluție dezinfectantă",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Menținerea amprentei în pungă timp de 10 minute",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Imersia 30 minute fără riscuri dimensionale",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Imersia 24 ore în soluție de hipoclorit",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Lăsarea liberă în aer uscat pentru 1 oră",
+        "correct": false
+      }
     ],
     "explanation": "Polieterii și alginatele sunt hidrofile/foarte hidrofile — imersia ar produce imbibiție. Se folosește spray-ere și menținere în pungă 10 min.",
     "source": "5. Suport curs 5_NE_T.pdf — Dezinfecție / Polieteri și Alginat"
@@ -350,11 +810,31 @@
     "difficulty": "recall",
     "question": "Care dintre următoarele afirmații despre compoziția și clasificarea gipsurilor sunt corecte?",
     "options": [
-      { "id": "A", "text": "Componenta de bază este sulfatul de calciu dihidratat.", "correct": true },
-      { "id": "B", "text": "Alfa-semihidratul corespunde gipsului dur și extradur.", "correct": true },
-      { "id": "C", "text": "Beta-semihidratul corespunde gipsului dur (Tip III).", "correct": false },
-      { "id": "D", "text": "Tipul I ISO este folosit pentru modele de lucru de mare precizie.", "correct": false },
-      { "id": "E", "text": "Tipul V are dilatare redusă, similar Tipului IV.", "correct": false }
+      {
+        "id": "A",
+        "text": "Componenta de bază este sulfatul de calciu dihidratat.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Alfa-semihidratul corespunde gipsului dur și extradur.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Beta-semihidratul corespunde gipsului dur (Tip III).",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Tipul I ISO este folosit pentru modele de lucru de mare precizie.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Tipul V are dilatare redusă, similar Tipului IV.",
+        "correct": false
+      }
     ],
     "explanation": "Sulfatul de calciu dihidratat este componenta de bază. Alfa-semihidratul = gips dur/extradur; beta-semihidratul = alabastru/amprentă. Tipul I = ipsos pentru amprente (nu stomatologie); Tipul V = extradur cu dilatare crescută (masă de ambalat).",
     "source": "6. Suport curs 6_Materiale_NE_T.pdf — Gipsuri / Compoziție și clasificare ISO"
@@ -365,11 +845,31 @@
     "difficulty": "application",
     "question": "Privind factorii controlați de tehnician care influențează reacția de priză a gipsului, care afirmații sunt corecte?",
     "options": [
-      { "id": "A", "text": "Creșterea temperaturii grăbește priza prin grăbirea dizolvării.", "correct": true },
-      { "id": "B", "text": "Creșterea proporției de apă încetinește priza prin dispersarea nucleilor de cristalizare.", "correct": true },
-      { "id": "C", "text": "Tehnicianul controlează concentrația de nuclei de cristalizare din pulbere.", "correct": false },
-      { "id": "D", "text": "Tehnicianul adaugă borax ca inhibitor.", "correct": false },
-      { "id": "E", "text": "Tehnicianul adaugă sulfat de potasiu ca accelerator.", "correct": false }
+      {
+        "id": "A",
+        "text": "Creșterea temperaturii grăbește priza prin grăbirea dizolvării.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Creșterea proporției de apă încetinește priza prin dispersarea nucleilor de cristalizare.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Tehnicianul controlează concentrația de nuclei de cristalizare din pulbere.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Tehnicianul adaugă borax ca inhibitor.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Tehnicianul adaugă sulfat de potasiu ca accelerator.",
+        "correct": false
+      }
     ],
     "explanation": "Tehnicianul controlează T, proporția de apă și timpul de mixare. Concentrația nucleilor și adaosurile (sulfat K accelerator, borax inhibitor) sunt controlate de producător.",
     "source": "6. Suport curs 6_Materiale_NE_T.pdf — Factori care influențează priza"
@@ -380,11 +880,31 @@
     "difficulty": "recall",
     "question": "Care dintre următoarele afirmații despre gipsul Tipul II (alabastru) sunt corecte?",
     "options": [
-      { "id": "A", "text": "Provine din beta-semihidrat de Ca, are structură poroasă.", "correct": true },
-      { "id": "B", "text": "Are timp de priză 8-30 (60) minute.", "correct": true },
-      { "id": "C", "text": "Are coeficient de dilatare de 0,05-0,10%.", "correct": false },
-      { "id": "D", "text": "Este indicat pentru modele de lucru cu bonturi mobilizabile.", "correct": false },
-      { "id": "E", "text": "Are durabilitate de 2,5-10 ori mai mare decât gipsul normal.", "correct": false }
+      {
+        "id": "A",
+        "text": "Provine din beta-semihidrat de Ca, are structură poroasă.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Are timp de priză 8-30 (60) minute.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Are coeficient de dilatare de 0,05-0,10%.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Este indicat pentru modele de lucru cu bonturi mobilizabile.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Are durabilitate de 2,5-10 ori mai mare decât gipsul normal.",
+        "correct": false
+      }
     ],
     "explanation": "Tipul II (alabastru/β-semihidrat) este moale/poros, timp priză 8-30 min, dilatare 0,3%. Dilatarea 0,05-0,10% și durabilitate mărită caracterizează gipsul extradur (IV)/dur (III).",
     "source": "6. Suport curs 6_Materiale_NE_T.pdf — Gipsuri / Tipul II"
@@ -395,11 +915,31 @@
     "difficulty": "recall",
     "question": "Privind rășinile epoxidice ca material pentru modele, care afirmații sunt corecte?",
     "options": [
-      { "id": "A", "text": "Contracția de priză este între 0,03%-0,3%.", "correct": true },
-      { "id": "B", "text": "Au grad de toxicitate ridicat (pot determina alergii).", "correct": true },
-      { "id": "C", "text": "Au duritate superioară gipsului extradur.", "correct": false },
-      { "id": "D", "text": "Au stabilitate dimensională după priză superioară gipsurilor extradure.", "correct": false },
-      { "id": "E", "text": "Au rezistență la compresiune inferioară gipsurilor.", "correct": false }
+      {
+        "id": "A",
+        "text": "Contracția de priză este între 0,03%-0,3%.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Au grad de toxicitate ridicat (pot determina alergii).",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Au duritate superioară gipsului extradur.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Au stabilitate dimensională după priză superioară gipsurilor extradure.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Au rezistență la compresiune inferioară gipsurilor.",
+        "correct": false
+      }
     ],
     "explanation": "Rășinile epoxidice au contracție 0,03-0,3%, toxicitate ridicată. Duritatea este REDUSĂ; stabilitatea dimensională după priză este mai REDUSĂ decât a gipsurilor extradure; rezistența la compresiune este SUPERIOARĂ gipsurilor.",
     "source": "6. Suport curs 6_Materiale_NE_T.pdf — Rășini epoxidice"
@@ -410,11 +950,31 @@
     "difficulty": "recall",
     "question": "Privind depunerea galvanică a metalelor pentru modele, care afirmații sunt corecte?",
     "options": [
-      { "id": "A", "text": "Stabilitate dimensională foarte bună a modelului obținut.", "correct": true },
-      { "id": "B", "text": "Stratul metalic depus este de 0,5-1 mm.", "correct": true },
-      { "id": "C", "text": "Metalul depus prezintă fenomenul de îmbătrânire în timp.", "correct": false },
-      { "id": "D", "text": "Se folosește tensiune de 50-100V.", "correct": false },
-      { "id": "E", "text": "Tehnica este indicată pentru amprentele de alginat.", "correct": false }
+      {
+        "id": "A",
+        "text": "Stabilitate dimensională foarte bună a modelului obținut.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Stratul metalic depus este de 0,5-1 mm.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Metalul depus prezintă fenomenul de îmbătrânire în timp.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Se folosește tensiune de 50-100V.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Tehnica este indicată pentru amprentele de alginat.",
+        "correct": false
+      }
     ],
     "explanation": "Galvanoplastia: stabilitate dimensională foarte bună, strat 0,5-1 mm, NU prezintă îmbătrânire. Tensiunea este de 2,8-6V (nu 50-100V). Alginatele sunt contraindicate.",
     "source": "6. Suport curs 6_Materiale_NE_T.pdf — Galvanoplastie"
@@ -425,11 +985,31 @@
     "difficulty": "recall",
     "question": "Privind ceara parafinică, care afirmații sunt corecte?",
     "options": [
-      { "id": "A", "text": "Este o ceară minerală obținută din petrol.", "correct": true },
-      { "id": "B", "text": "Are interval de topire 50-70°C.", "correct": true },
-      { "id": "C", "text": "Este o ceară vegetală tenace.", "correct": false },
-      { "id": "D", "text": "Are interval de topire 100-150°C.", "correct": false },
-      { "id": "E", "text": "Provine de la albine.", "correct": false }
+      {
+        "id": "A",
+        "text": "Este o ceară minerală obținută din petrol.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Are interval de topire 50-70°C.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Este o ceară vegetală tenace.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Are interval de topire 100-150°C.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Provine de la albine.",
+        "correct": false
+      }
     ],
     "explanation": "Ceara parafinică este minerală, din petrol, cu interval 50-70°C. Intervalul 100-150°C este al cerii polietilenice (sintetice); 60-70°C este al cerii de albine; ceara vegetală tenace este Carnauba (65-90°C).",
     "source": "7. Suport curs 7_Materiale_NE_T.pdf — Ceara parafinică"
@@ -440,11 +1020,31 @@
     "difficulty": "conceptual",
     "question": "Privind fluajul cerurilor dentare, care afirmații sunt corecte?",
     "options": [
-      { "id": "A", "text": "Reprezintă capacitatea de curgere a cerii.", "correct": true },
-      { "id": "B", "text": "Este maxim la temperatura de topire.", "correct": true },
-      { "id": "C", "text": "Este maxim la temperatura camerei.", "correct": false },
-      { "id": "D", "text": "Este independent de compoziția cerii.", "correct": false },
-      { "id": "E", "text": "Este indicat la temperatura camerei pentru o adaptare bună.", "correct": false }
+      {
+        "id": "A",
+        "text": "Reprezintă capacitatea de curgere a cerii.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Este maxim la temperatura de topire.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Este maxim la temperatura camerei.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Este independent de compoziția cerii.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Este indicat la temperatura camerei pentru o adaptare bună.",
+        "correct": false
+      }
     ],
     "explanation": "Fluajul = capacitatea de curgere, dependent direct de T, compoziție și forța de deformare. Este MAXIM la T de topire și CONTRAINDICAT la T camerei (cerurile trebuie nedeformabile).",
     "source": "7. Suport curs 7_Materiale_NE_T.pdf — Ceruri / Fluajul"
@@ -455,11 +1055,31 @@
     "difficulty": "conceptual",
     "question": "Privind modulul de elasticitate al cerurilor și folosirea lor în machetare, care afirmații sunt corecte?",
     "options": [
-      { "id": "A", "text": "Pentru zona cervicală se folosește ceară dură.", "correct": true },
-      { "id": "B", "text": "Pentru restul suprafețelor machetei se folosește ceară moale.", "correct": true },
-      { "id": "C", "text": "Ceara moale păstrează zona cervicală nealterată la ambalare.", "correct": false },
-      { "id": "D", "text": "Modulul de elasticitate este direct proporțional cu temperatura.", "correct": false },
-      { "id": "E", "text": "Valorile modulului sunt mai mari decât la ceramică sau metale.", "correct": false }
+      {
+        "id": "A",
+        "text": "Pentru zona cervicală se folosește ceară dură.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Pentru restul suprafețelor machetei se folosește ceară moale.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Ceara moale păstrează zona cervicală nealterată la ambalare.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Modulul de elasticitate este direct proporțional cu temperatura.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Valorile modulului sunt mai mari decât la ceramică sau metale.",
+        "correct": false
+      }
     ],
     "explanation": "Pentru zona cervicală (importantă pentru retenția coroanei pe bont) se folosește ceară dură; pentru restul machetei — ceară moale (preia presiunile la ambalare). Modulul depinde INVERS proporțional de T, valori reduse față de alte materiale.",
     "source": "7. Suport curs 7_Materiale_NE_T.pdf — Modulul de elasticitate"
@@ -470,11 +1090,31 @@
     "difficulty": "recall",
     "question": "Privind proprietățile fizice ale cerurilor dentare, care afirmații sunt corecte?",
     "options": [
-      { "id": "A", "text": "Coeficientul de dilatare termică este foarte mare (~320 ppm/°C).", "correct": true },
-      { "id": "B", "text": "Conductivitatea termică este scăzută.", "correct": true },
-      { "id": "C", "text": "Au un singur punct unic de topire, bine definit.", "correct": false },
-      { "id": "D", "text": "Coeficientul de dilatare este de aproximativ 14 ppm/°C.", "correct": false },
-      { "id": "E", "text": "Conductivitatea termică ridicată permite încălzire/răcire uniformă.", "correct": false }
+      {
+        "id": "A",
+        "text": "Coeficientul de dilatare termică este foarte mare (~320 ppm/°C).",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Conductivitatea termică este scăzută.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Au un singur punct unic de topire, bine definit.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Coeficientul de dilatare este de aproximativ 14 ppm/°C.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Conductivitatea termică ridicată permite încălzire/răcire uniformă.",
+        "correct": false
+      }
     ],
     "explanation": "Cerurile au coeficient mare de dilatare (320 ppm/°C vs 14 la ceramică) și conductivitate termică scăzută (împiedică încălzirea/răcirea uniformă, generând stres rezidual). Nu există un punct unic de topire, ci un interval.",
     "source": "7. Suport curs 7_Materiale_NE_T.pdf — Proprietăți fizice"
@@ -485,11 +1125,31 @@
     "difficulty": "application",
     "question": "Care dintre următoarele sunt indicații ale maselor plastice ca material de machetare?",
     "options": [
-      { "id": "A", "text": "Machete pentru dispozitive corono-radiculare, coroane parțiale, inlay-uri", "correct": true },
-      { "id": "B", "text": "Tije pentru canalele de turnare (principale și secundare)", "correct": true },
-      { "id": "C", "text": "Amprente preliminare ale edentatului total", "correct": false },
-      { "id": "D", "text": "Material de bază pentru modele de studiu", "correct": false },
-      { "id": "E", "text": "Material refractar pentru ambalarea machetelor", "correct": false }
+      {
+        "id": "A",
+        "text": "Machete pentru dispozitive corono-radiculare, coroane parțiale, inlay-uri",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Tije pentru canalele de turnare (principale și secundare)",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Amprente preliminare ale edentatului total",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Material de bază pentru modele de studiu",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Material refractar pentru ambalarea machetelor",
+        "correct": false
+      }
     ],
     "explanation": "Masele plastice (rășini polimerice prefabricate) se folosesc pentru machete DCR, coroane parțiale, inlay-uri, tije pentru canale de turnare. NU sunt materiale de amprentă sau de model.",
     "source": "7. Suport curs 7_Materiale_NE_T.pdf — Mase plastice / Indicații"
@@ -500,11 +1160,31 @@
     "difficulty": "recall",
     "question": "Privind reglile generale de manipulare a maselor de ambalat, care afirmații sunt corecte?",
     "options": [
-      { "id": "A", "text": "Pentru ambalarea în vacuum se utilizează material cu timp de priză prelungit (20-25 min).", "correct": true },
-      { "id": "B", "text": "Pentru piese turnate din aliaje nobile pe bază de Ag-Pd, nu se folosesc mase cu adaosuri de grafit.", "correct": true },
-      { "id": "C", "text": "Flaconul cu pulbere se păstrează deschis pentru aerare.", "correct": false },
-      { "id": "D", "text": "Masele pe bază de sulfați sunt indicate pentru aliajele Ni-Cr.", "correct": false },
-      { "id": "E", "text": "Vacuum-malaxorul este opțional, fără efect asupra calității.", "correct": false }
+      {
+        "id": "A",
+        "text": "Pentru ambalarea în vacuum se utilizează material cu timp de priză prelungit (20-25 min).",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Pentru piese turnate din aliaje nobile pe bază de Ag-Pd, nu se folosesc mase cu adaosuri de grafit.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Flaconul cu pulbere se păstrează deschis pentru aerare.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Masele pe bază de sulfați sunt indicate pentru aliajele Ni-Cr.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Vacuum-malaxorul este opțional, fără efect asupra calității.",
+        "correct": false
+      }
     ],
     "explanation": "Vacuum-ul cere timp de priză prelungit (20-25 min); grafitul contaminează aliajele Ag-Pd. Flaconul se păstrează ermetic închis (masele sunt hidrofile). Sulfații NU se folosesc pentru Ni-Cr (T limită 900°C). Vacuum-malaxorul este OBLIGATORIU.",
     "source": "8. Suport curs 8_NE_T.pdf — Reguli de manipulare"
@@ -515,11 +1195,31 @@
     "difficulty": "recall",
     "question": "Privind lianții maselor de ambalat, care corespondențe sunt corecte?",
     "options": [
-      { "id": "A", "text": "Semihidrat de sulfat de Ca → MA sulfați", "correct": true },
-      { "id": "B", "text": "Tetraetil ortosilicat → MA silicați", "correct": true },
-      { "id": "C", "text": "Fosfat de amoniu dihidrogenat → MA sulfați", "correct": false },
-      { "id": "D", "text": "Acid alginic → MA alginat", "correct": false },
-      { "id": "E", "text": "Acid stearic → MA ceramice", "correct": false }
+      {
+        "id": "A",
+        "text": "Semihidrat de sulfat de Ca → MA sulfați",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Tetraetil ortosilicat → MA silicați",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Fosfat de amoniu dihidrogenat → MA sulfați",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Acid alginic → MA alginat",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Acid stearic → MA ceramice",
+        "correct": false
+      }
     ],
     "explanation": "Lianții: semihidrat de Ca pentru sulfați, tetraetil ortosilicat pentru silicați, fosfat de amoniu dihidrogenat pentru fosfați. Nu există MA pe bază de alginat sau ceramic cu acid stearic.",
     "source": "8. Suport curs 8_NE_T.pdf — Lianți"
@@ -530,11 +1230,31 @@
     "difficulty": "application",
     "question": "Privind indicațiile maselor de ambalat pe bază de sulfați, care afirmații sunt corecte?",
     "options": [
-      { "id": "A", "text": "Tip 1 (expansiune termică) — lucrări turnate din aliaje nobile de Au", "correct": true },
-      { "id": "B", "text": "Tip 3 — turnarea bazelor metalice ale protezelor scheletate din aliaje Au și tipare pentru proteze acrilice", "correct": true },
-      { "id": "C", "text": "Lucrări din aliaje Ni-Cr (PT peste 1200°C)", "correct": false },
-      { "id": "D", "text": "Lucrări integral ceramice", "correct": false },
-      { "id": "E", "text": "Tipare pentru aliaje Ti", "correct": false }
+      {
+        "id": "A",
+        "text": "Tip 1 (expansiune termică) — lucrări turnate din aliaje nobile de Au",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Tip 3 — turnarea bazelor metalice ale protezelor scheletate din aliaje Au și tipare pentru proteze acrilice",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Lucrări din aliaje Ni-Cr (PT peste 1200°C)",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Lucrări integral ceramice",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Tipare pentru aliaje Ti",
+        "correct": false
+      }
     ],
     "explanation": "Sulfații se folosesc pentru aliaje nobile de Au (sub 900°C). Tip 1 = expansiune termică (Au turnat); Tip 2 = higroscopică (inlay/coroane); Tip 3 = baze proteze scheletate Au + tipare proteze acrilice. Ni-Cr și Ti cer fosfați; ceramica cere mase refractare.",
     "source": "8. Suport curs 8_NE_T.pdf — Mase sulfați / Indicații"
@@ -545,11 +1265,31 @@
     "difficulty": "conceptual",
     "question": "Cauzele scăderii rezistenței la compresiune a maselor de ambalat sunt:",
     "options": [
-      { "id": "A", "text": "Creșterea procentului de silice (necesar pentru o dilatare mare)", "correct": true },
-      { "id": "B", "text": "Creșterea porozității masei (necesară pentru evacuarea gazelor)", "correct": true },
-      { "id": "C", "text": "Folosirea vacuum-malaxorului", "correct": false },
-      { "id": "D", "text": "Reducerea raportului A:P", "correct": false },
-      { "id": "E", "text": "Adăugarea de grafit ca agent reductor", "correct": false }
+      {
+        "id": "A",
+        "text": "Creșterea procentului de silice (necesar pentru o dilatare mare)",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Creșterea porozității masei (necesară pentru evacuarea gazelor)",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Folosirea vacuum-malaxorului",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Reducerea raportului A:P",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Adăugarea de grafit ca agent reductor",
+        "correct": false
+      }
     ],
     "explanation": "Rezistența scade prin creșterea silicei (împiedică înlănțuirea cristalelor de dihidrat) și creșterea porozității. Vacuum-malaxorul reduce porozitatea; grafitul este agent reductor pentru acuratețe.",
     "source": "8. Suport curs 8_NE_T.pdf — Mase sulfați / Stabilitate"
@@ -560,11 +1300,31 @@
     "difficulty": "recall",
     "question": "Privind dilatarea maselor de ambalat pe bază de sulfați, care valori sunt corecte?",
     "options": [
-      { "id": "A", "text": "Expansiunea de priză: +0,1+0,6%", "correct": true },
-      { "id": "B", "text": "Dilatarea termică: +0,6+1,2%", "correct": true },
-      { "id": "C", "text": "Dilatarea totală a masei: +10+15%", "correct": false },
-      { "id": "D", "text": "Expansiunea higroscopică: -1,6-1,7%", "correct": false },
-      { "id": "E", "text": "Toate dilatările au valori negative (contracție)", "correct": false }
+      {
+        "id": "A",
+        "text": "Expansiunea de priză: +0,1+0,6%",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Dilatarea termică: +0,6+1,2%",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Dilatarea totală a masei: +10+15%",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Expansiunea higroscopică: -1,6-1,7%",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Toate dilatările au valori negative (contracție)",
+        "correct": false
+      }
     ],
     "explanation": "Sulfați: expansiune de priză 0,1-0,6%; higroscopică 0,3-2%; termică 0,6-1,2%; totală 1,5-2,5% (compensează contracția aliajelor Au de -1,6/-1,7%). Toate valorile sunt pozitive (dilatare).",
     "source": "8. Suport curs 8_NE_T.pdf — Mase sulfați / Dilatare"
@@ -575,11 +1335,31 @@
     "difficulty": "conceptual",
     "question": "Privind variantele de obținere a expansiunii higroscopice la masele de ambalat, care afirmații sunt corecte?",
     "options": [
-      { "id": "A", "text": "Imersia este cea mai eficientă variantă.", "correct": true },
-      { "id": "B", "text": "Căptușirea pereților interni ai cuvetei cu material poros îmbibat este cea mai utilizată.", "correct": true },
-      { "id": "C", "text": "Încălzirea uscată a tiparului produce expansiune higroscopică.", "correct": false },
-      { "id": "D", "text": "Imersia în uleiuri vegetale generează cea mai mare expansiune.", "correct": false },
-      { "id": "E", "text": "Expansiunea higroscopică este independentă de contactul cu apa.", "correct": false }
+      {
+        "id": "A",
+        "text": "Imersia este cea mai eficientă variantă.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Căptușirea pereților interni ai cuvetei cu material poros îmbibat este cea mai utilizată.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Încălzirea uscată a tiparului produce expansiune higroscopică.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Imersia în uleiuri vegetale generează cea mai mare expansiune.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Expansiunea higroscopică este independentă de contactul cu apa.",
+        "correct": false
+      }
     ],
     "explanation": "Expansiunea higroscopică se obține prin contactul cu apa: imersie (cea mai eficientă), adaos măsurat sau căptușirea cuvetei (cea mai utilizată). Încălzirea uscată produce dilatare TERMICĂ, nu higroscopică.",
     "source": "8. Suport curs 8_NE_T.pdf — Mase sulfați / Expansiunea higroscopică"
@@ -590,11 +1370,31 @@
     "difficulty": "recall",
     "question": "Privind masele de ambalat pe bază de silicați, care afirmații sunt corecte?",
     "options": [
-      { "id": "A", "text": "Se utilizează peste 1400°C.", "correct": true },
-      { "id": "B", "text": "Sunt extrem de dificile de utilizat, cu cost ridicat.", "correct": true },
-      { "id": "C", "text": "Au porozitate redusă, cu risc de explozie.", "correct": true },
-      { "id": "D", "text": "Sunt cele mai ieftine mase de ambalat disponibile.", "correct": false },
-      { "id": "E", "text": "Au rezistență mecanică foarte mare la preparare.", "correct": false }
+      {
+        "id": "A",
+        "text": "Se utilizează peste 1400°C.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Sunt extrem de dificile de utilizat, cu cost ridicat.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Au porozitate redusă, cu risc de explozie.",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Sunt cele mai ieftine mase de ambalat disponibile.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Au rezistență mecanică foarte mare la preparare.",
+        "correct": false
+      }
     ],
     "explanation": "Silicații se folosesc peste 1400°C, dar sunt dificil de utilizat: cost ridicat, porozitate redusă (risc explozie), rezistență mecanică scăzută la preparare (A:P mic). NU sunt ieftini sau ușori — sunt cei mai dificili.",
     "source": "8. Suport curs 8_NE_T.pdf — Mase silicați"
@@ -605,11 +1405,31 @@
     "difficulty": "recall",
     "question": "Care dintre următoarele afirmații despre masele de ambalat pe bază de fosfați sunt corecte?",
     "options": [
-      { "id": "A", "text": "Sunt cele mai utilizate astăzi.", "correct": true },
-      { "id": "B", "text": "Pulberea conține silice (cristobalit și/sau cuarț) ~80%.", "correct": true },
-      { "id": "C", "text": "Reactivitatea chimică este mică — nu contaminează aliajul.", "correct": true },
-      { "id": "D", "text": "Liantul este semihidratul de sulfat de Ca.", "correct": false },
-      { "id": "E", "text": "Sunt limitate la temperaturi sub 900°C.", "correct": false }
+      {
+        "id": "A",
+        "text": "Sunt cele mai utilizate astăzi.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Pulberea conține silice (cristobalit și/sau cuarț) ~80%.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Reactivitatea chimică este mică — nu contaminează aliajul.",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Liantul este semihidratul de sulfat de Ca.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Sunt limitate la temperaturi sub 900°C.",
+        "correct": false
+      }
     ],
     "explanation": "Fosfații sunt cei mai utilizați (până la 1200°C), cu silice ~80% și liant MgO + fosfat de amoniu dihidrogenat (NU semihidrat de Ca, care este pentru sulfați). Reactivitate mică, nu contaminează aliajul.",
     "source": "8. Suport curs 8_NE_T.pdf — Mase fosfați"
@@ -620,11 +1440,31 @@
     "difficulty": "conceptual",
     "question": "Privind utilizarea soluției speciale (silice coloidală) în locul apei la masele pe bază de fosfați, care afirmații sunt corecte?",
     "options": [
-      { "id": "A", "text": "Mărește considerabil dilatarea de priză și cea termică (cu ~2%).", "correct": true },
-      { "id": "B", "text": "Crește rezistența la compresiune.", "correct": true },
-      { "id": "C", "text": "Cantitățile mari de lichid special reduc porozitatea — necesită canale de evacuare a gazelor.", "correct": true },
-      { "id": "D", "text": "Reduce dilatarea totală a masei.", "correct": false },
-      { "id": "E", "text": "Elimină complet nevoia de încălzire a tiparului.", "correct": false }
+      {
+        "id": "A",
+        "text": "Mărește considerabil dilatarea de priză și cea termică (cu ~2%).",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Crește rezistența la compresiune.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Cantitățile mari de lichid special reduc porozitatea — necesită canale de evacuare a gazelor.",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Reduce dilatarea totală a masei.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Elimină complet nevoia de încălzire a tiparului.",
+        "correct": false
+      }
     ],
     "explanation": "Soluția specială (silice coloidală) mărește dilatarea de priză și termică (+2%), crește rezistența la compresiune. Dezavantaj: cantități mari reduc porozitatea — necesare canale de evacuare. Încălzirea tiparului rămâne necesară.",
     "source": "8. Suport curs 8_NE_T.pdf — Mase fosfați / Proprietăți"
@@ -635,11 +1475,31 @@
     "difficulty": "conceptual",
     "question": "Privind raportul apă:pulbere (A:P) al maselor de ambalat, care afirmații sunt corecte?",
     "options": [
-      { "id": "A", "text": "Creșterea raportului A:P crește porozitatea și reduce rezistența.", "correct": true },
-      { "id": "B", "text": "Reducerea raportului A:P duce la acumulare de gaze și fisurarea (defecte aciculare).", "correct": true },
-      { "id": "C", "text": "Respectarea riguroasă a raportului A:P este obligatorie.", "correct": true },
-      { "id": "D", "text": "Raportul A:P nu influențează expansiunea de priză sau termică.", "correct": false },
-      { "id": "E", "text": "Reducerea drastică a apei elimină necesitatea evacuării gazelor.", "correct": false }
+      {
+        "id": "A",
+        "text": "Creșterea raportului A:P crește porozitatea și reduce rezistența.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Reducerea raportului A:P duce la acumulare de gaze și fisurarea (defecte aciculare).",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Respectarea riguroasă a raportului A:P este obligatorie.",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Raportul A:P nu influențează expansiunea de priză sau termică.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Reducerea drastică a apei elimină necesitatea evacuării gazelor.",
+        "correct": false
+      }
     ],
     "explanation": "Raportul A:P trebuie respectat strict: A:P crescut = porozitate mare, rezistență scăzută; A:P redus = acumulare gaze, fisuri aciculare. La fosfați, A:P crescut reduce dilatarea de priză și termică.",
     "source": "8. Suport curs 8_NE_T.pdf — Reguli de manipulare"
@@ -650,11 +1510,31 @@
     "difficulty": "recall",
     "question": "Privind condițiile impuse maselor de ambalat, care afirmații sunt corecte?",
     "options": [
-      { "id": "A", "text": "Stabilitatea formei la temperaturi peste 1000°C (materiale refractare).", "correct": true },
-      { "id": "B", "text": "Rezistență la compresiune (la împingerea metalului topit în tipar).", "correct": true },
-      { "id": "C", "text": "Echilibru între acuratețe și porozitate (gazele trebuie evacuate).", "correct": true },
-      { "id": "D", "text": "Compensarea contracției aliajului prin dilatarea masei.", "correct": true },
-      { "id": "E", "text": "Reactivitate chimică ridicată cu materialul machetei.", "correct": false }
+      {
+        "id": "A",
+        "text": "Stabilitatea formei la temperaturi peste 1000°C (materiale refractare).",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Rezistență la compresiune (la împingerea metalului topit în tipar).",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Echilibru între acuratețe și porozitate (gazele trebuie evacuate).",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Compensarea contracției aliajului prin dilatarea masei.",
+        "correct": true
+      },
+      {
+        "id": "E",
+        "text": "Reactivitate chimică ridicată cu materialul machetei.",
+        "correct": false
+      }
     ],
     "explanation": "Condiții: stabilitate la T înalte (refractare), rezistență la compresiune, echilibru acuratețe/porozitate, compensarea contracției aliajului. Reactivitatea chimică ridicată ar contamina aliajul — este nedorită.",
     "source": "8. Suport curs 8_NE_T.pdf — Condiții impuse"
@@ -665,11 +1545,31 @@
     "difficulty": "conceptual",
     "question": "Privind reducerea riscului de formare a stresului rezidual în machetele de ceară, care afirmații sunt corecte?",
     "options": [
-      { "id": "A", "text": "Se evită sculptarea cerii la T mult mai joase decât T de topire.", "correct": true },
-      { "id": "B", "text": "Picurarea cerii pe machetă se face în cantități mici.", "correct": true },
-      { "id": "C", "text": "Supraîncălzirea (arderea) cerii este total contraindicată.", "correct": true },
-      { "id": "D", "text": "Timpul între finalizarea machetei și ambalare se reduce la maxim (sub 30 minute).", "correct": true },
-      { "id": "E", "text": "Macheta trebuie expusă la soare pentru uniformizare.", "correct": false }
+      {
+        "id": "A",
+        "text": "Se evită sculptarea cerii la T mult mai joase decât T de topire.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Picurarea cerii pe machetă se face în cantități mici.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Supraîncălzirea (arderea) cerii este total contraindicată.",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Timpul între finalizarea machetei și ambalare se reduce la maxim (sub 30 minute).",
+        "correct": true
+      },
+      {
+        "id": "E",
+        "text": "Macheta trebuie expusă la soare pentru uniformizare.",
+        "correct": false
+      }
     ],
     "explanation": "Reducerea stresului rezidual: modelare cu instrumente la 37°C (nu T joase), picurare cantități mici, evitarea supraîncălzirii, ambalare sub 30 min. Expunerea la soare este total CONTRAINDICATĂ — eliberează stresul rezidual.",
     "source": "7. Suport curs 7_Materiale_NE_T.pdf — Stres rezidual"
@@ -680,11 +1580,31 @@
     "difficulty": "recall",
     "question": "Care dintre următoarele sunt componente ale cerii dentare?",
     "options": [
-      { "id": "A", "text": "Ceară naturală (minerală, vegetală, animală)", "correct": true },
-      { "id": "B", "text": "Ceară sintetică (polietilenică, polioxietilenglicolică)", "correct": true },
-      { "id": "C", "text": "Rășini naturale (dammar, sandarac)", "correct": true },
-      { "id": "D", "text": "Uleiuri, grăsimi (acid stearic), gume, coloranți", "correct": true },
-      { "id": "E", "text": "Sulfat de calciu dihidratat ca liant principal", "correct": false }
+      {
+        "id": "A",
+        "text": "Ceară naturală (minerală, vegetală, animală)",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Ceară sintetică (polietilenică, polioxietilenglicolică)",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Rășini naturale (dammar, sandarac)",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Uleiuri, grăsimi (acid stearic), gume, coloranți",
+        "correct": true
+      },
+      {
+        "id": "E",
+        "text": "Sulfat de calciu dihidratat ca liant principal",
+        "correct": false
+      }
     ],
     "explanation": "Compoziția cerii dentare: ceară naturală/sintetică, rășini naturale, uleiuri, grăsimi, gume, coloranți. Sulfatul de calciu este componenta gipsurilor, nu a cerurilor.",
     "source": "7. Suport curs 7_Materiale_NE_T.pdf — Ceruri / Compoziție"
@@ -695,11 +1615,31 @@
     "difficulty": "recall",
     "question": "Privind condițiile impuse materialelor pentru modele, care afirmații sunt corecte?",
     "options": [
-      { "id": "A", "text": "Stabilitatea formei și a volumului (model ușor mai mare decât câmpul protetic).", "correct": true },
-      { "id": "B", "text": "Fidelitate — particule mici, vâscozitate fluidă în momentul aplicării.", "correct": true },
-      { "id": "C", "text": "Rezistență la tracțiune și compresiune (inserții-dezinserții repetate).", "correct": true },
-      { "id": "D", "text": "Stabilitate chimică (inerte față de materialele de amprentă).", "correct": true },
-      { "id": "E", "text": "Reactivitate chimică ridicată cu materialele de amprentă.", "correct": false }
+      {
+        "id": "A",
+        "text": "Stabilitatea formei și a volumului (model ușor mai mare decât câmpul protetic).",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Fidelitate — particule mici, vâscozitate fluidă în momentul aplicării.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Rezistență la tracțiune și compresiune (inserții-dezinserții repetate).",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Stabilitate chimică (inerte față de materialele de amprentă).",
+        "correct": true
+      },
+      {
+        "id": "E",
+        "text": "Reactivitate chimică ridicată cu materialele de amprentă.",
+        "correct": false
+      }
     ],
     "explanation": "Materialele de model trebuie să fie stabile formal/volumetric, fidele (particule mici, fluiditate), rezistente mecanic, inerte chimic. Reactivitatea chimică ridicată ar provoca lipirea modelului de amprentă — este nedorită.",
     "source": "6. Suport curs 6_Materiale_NE_T.pdf — Condiții impuse"
@@ -710,11 +1650,31 @@
     "difficulty": "application",
     "question": "Pentru priza omogenă a unui silicon de adiție, materialul NU trebuie să intre în contact cu:",
     "options": [
-      { "id": "A", "text": "Mănuși de latex", "correct": true },
-      { "id": "B", "text": "Sulf și polisulfuri", "correct": true },
-      { "id": "C", "text": "Materiale pe bază de eugenol", "correct": true },
-      { "id": "D", "text": "Anestezice topice tip gel/spray (lidocaină)", "correct": true },
-      { "id": "E", "text": "Mănuși de polietilenă/vinil", "correct": false }
+      {
+        "id": "A",
+        "text": "Mănuși de latex",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Sulf și polisulfuri",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Materiale pe bază de eugenol",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Anestezice topice tip gel/spray (lidocaină)",
+        "correct": true
+      },
+      {
+        "id": "E",
+        "text": "Mănuși de polietilenă/vinil",
+        "correct": false
+      }
     ],
     "explanation": "Pentru priza omogenă a siliconilor de adiție trebuie evitat contactul cu latex, sulf, polisulfuri, ulei/glicerol, eugenol, acrilate, anestezice topice. Mănușile de polietilenă/vinil sunt alternativa recomandată față de latex.",
     "source": "5. Suport curs 5_NE_T.pdf — Mod de utilizare"
@@ -725,11 +1685,31 @@
     "difficulty": "recall",
     "question": "Privind materialele de adaos din masele de ambalat pe bază de sulfați, care corespondențe sunt corecte?",
     "options": [
-      { "id": "A", "text": "Borax = inhibitor de priză", "correct": true },
-      { "id": "B", "text": "Sulfat de Na = accelerator de priză", "correct": true },
-      { "id": "C", "text": "Acid boric, NaCl, KCl, LiCl = modifică expansiunea termică", "correct": true },
-      { "id": "D", "text": "Cu, grafit = agenți reductori pentru acuratețe", "correct": true },
-      { "id": "E", "text": "Acid alginic = liant principal", "correct": false }
+      {
+        "id": "A",
+        "text": "Borax = inhibitor de priză",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Sulfat de Na = accelerator de priză",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Acid boric, NaCl, KCl, LiCl = modifică expansiunea termică",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Cu, grafit = agenți reductori pentru acuratețe",
+        "correct": true
+      },
+      {
+        "id": "E",
+        "text": "Acid alginic = liant principal",
+        "correct": false
+      }
     ],
     "explanation": "Adaosurile în MA sulfați: borax (inhibitor), sulfat de Na (accelerator), acid boric/NaCl/KCl/LiCl (modifică expansiunea termică), Cu/grafit (reductori — acuratețe). Acidul alginic este componenta alginatelor.",
     "source": "8. Suport curs 8_NE_T.pdf — Mase sulfați / Adaosuri"
@@ -740,13 +1720,1783 @@
     "difficulty": "application",
     "question": "Privind temperatura tiparului în momentul turnării, care valori sunt corecte?",
     "options": [
-      { "id": "A", "text": "Aliaje de aur: 700-750°C", "correct": true },
-      { "id": "B", "text": "Aliaje paladiu-argint: 730-815°C", "correct": true },
-      { "id": "C", "text": "Aliaje nenobile: 815-900°C", "correct": true },
-      { "id": "D", "text": "Creșterea T tiparului este lentă, în 1-2 ore în funcție de tipul masei.", "correct": true },
-      { "id": "E", "text": "T tiparului pentru aliaje de aur depășește 1500°C.", "correct": false }
+      {
+        "id": "A",
+        "text": "Aliaje de aur: 700-750°C",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Aliaje paladiu-argint: 730-815°C",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Aliaje nenobile: 815-900°C",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Creșterea T tiparului este lentă, în 1-2 ore în funcție de tipul masei.",
+        "correct": true
+      },
+      {
+        "id": "E",
+        "text": "T tiparului pentru aliaje de aur depășește 1500°C.",
+        "correct": false
+      }
     ],
     "explanation": "T tiparului la turnare: aur 700-750°C, Pd-Ag 730-815°C, nenobile 815-900°C; T crește lent în 1-2 ore. Aurul nu cere T peste 1500°C (este aliaj nobil cu PT moderat).",
     "source": "8. Suport curs 8_NE_T.pdf — Temperatura tiparului"
+  },
+  {
+    "id": 51,
+    "topic": "Elastomeri",
+    "difficulty": "recall",
+    "question": "Care este ordinea descrescătoare corectă a deformării permanente a elastomerilor?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Polisulfuri > Polieteri > Sil condensare > Sil adiție",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Sil adiție > Sil condensare > Polieteri > Polisulfuri",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Polieteri > Polisulfuri > Sil adiție > Sil condensare",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Polisulfuri > Sil adiție > Sil condensare > Polieteri",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Sil condensare > Polieteri > Polisulfuri > Sil adiție",
+        "correct": false
+      }
+    ],
+    "explanation": "Deformarea permanentă, datorată fluajului în cursul îndepărtării din zone retentive, este maximă la polisulfuri și minimă la siliconii de adiție: Polisulfuri > Polieteri > Sil condensare > Sil adiție.",
+    "source": "5. Suport curs 5_NE_T.pdf — Elastomeri / Deformare permanentă"
+  },
+  {
+    "id": 52,
+    "topic": "Elastomeri",
+    "difficulty": "recall",
+    "question": "Care este ordinea corectă (descrescătoare) a acurateții elastomerilor în funcție de tipul de consistență?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tip 3 > Tip 2 > Tip 1 > Tip 0",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Tip 0 > Tip 1 > Tip 2 > Tip 3",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Tip 2 > Tip 0 > Tip 3 > Tip 1",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Tip 1 > Tip 3 > Tip 0 > Tip 2",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Toate tipurile au acuratețe identică.",
+        "correct": false
+      }
+    ],
+    "explanation": "Acuratețea depinde de vâscozitatea redusă în momentul aplicării — Tip 3 (light bodied/fluid) > Tip 2 (regular) > Tip 1 (heavy bodied) > Tip 0 (putty/chitos).",
+    "source": "5. Suport curs 5_NE_T.pdf — Elastomeri / Acuratețe"
+  },
+  {
+    "id": 53,
+    "topic": "Elastomeri",
+    "difficulty": "recall",
+    "question": "Care este ordinea corectă (crescătoare) a stabilității dimensionale a elastomerilor?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sil condensare < polisulfuri < Sil adiție = polieteri",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Sil adiție = polieteri < polisulfuri < Sil condensare",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Polieteri < polisulfuri < Sil condensare < Sil adiție",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Polisulfuri = Sil adiție < polieteri < Sil condensare",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Sil condensare = Sil adiție < polieteri < polisulfuri",
+        "correct": false
+      }
+    ],
+    "explanation": "Modificările dimensionale permanente (instabilitatea) sunt minime la Sil adiție = polieteri, intermediare la polisulfuri și maxime la Sil condensare. Deci ordinea crescătoare a modificărilor: Sil adiție = polieteri < polisulfuri < Sil condensare.",
+    "source": "5. Suport curs 5_NE_T.pdf — Stabilitate dimensională"
+  },
+  {
+    "id": 54,
+    "topic": "Elastomeri",
+    "difficulty": "recall",
+    "question": "Care dintre următoarele afirmații despre polisulfuri sunt corecte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Au cea mai mare rezistență la rupere dintre elastomeri.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Au cea mai mare deformare permanentă dintre elastomeri.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Sunt cei mai rigizi elastomeri.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Au cea mai redusă contracție de priză.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Au priză prin temperatură (reversibilă).",
+        "correct": false
+      }
+    ],
+    "explanation": "Polisulfurile sunt cele mai puțin rigide — au cea mai mare rezistență la rupere și cea mai mare deformare permanentă. Cea mai redusă contracție o au sil. de adiție și polieterii. Priza este chimică (ireversibilă).",
+    "source": "5. Suport curs 5_NE_T.pdf — Proprietăți elastomeri"
+  },
+  {
+    "id": 55,
+    "topic": "Elastomeri",
+    "difficulty": "recall",
+    "question": "Care dintre următoarele afirmații despre vinil-polieteri (VPES) sunt corecte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reprezintă o clasă nouă de elastomeri.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Combină manipularea unui silicon de adiție cu acuratețea unui polieter.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Sunt elastomeri cu priză prin temperatură.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sunt identici cu polisulfurile.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Sunt indicați exclusiv pentru duplicarea modelelor.",
+        "correct": false
+      }
+    ],
+    "explanation": "VPES reprezintă o clasă nouă (silicon vinil-polieter sau polieter-polisiloxan hibrid), cu manipularea siliconului de adiție și acuratețea polieterului. Priza este chimică, nu termică.",
+    "source": "5. Suport curs 5_NE_T.pdf — Vinil-polieteri"
+  },
+  {
+    "id": 56,
+    "topic": "Elastomeri",
+    "difficulty": "conceptual",
+    "question": "Privind avantajele tehnicii de spălare (wash technique) cu creare de spațiu, care afirmații sunt corecte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Se creează spațiu pentru materialul fluid, fără deformarea plastică prin compresiune excesivă.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Materialul chitos și cel fluid fac priza pe rând (nu este spălat fluidul).",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Eliminarea completă a lipsei de control la reaplicarea amprentei.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Materialul fluid poate fi comprimat exagerat de cel chitos, favorizând fluajul.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Repoziționarea portamprentei pe CP este foarte ușoară.",
+        "correct": false
+      }
+    ],
+    "explanation": "Avantajele tehnicii cu creare de spațiu: spațiu pentru fluid (fără deformare plastică), priza pe rând (nu spală fluidul), dezinserție mai ușoară la siliconii de adiție. Lipsa controlului la reaplicare este DEZAVANTAJ.",
+    "source": "5. Suport curs 5_NE_T.pdf — Tehnica de spălare"
+  },
+  {
+    "id": 57,
+    "topic": "Elastomeri",
+    "difficulty": "conceptual",
+    "question": "Privind dezavantajele tehnicii dublului amestec (sandwich/twin-mix), care afirmații sunt corecte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lipsa materialului fluid în zone de interes protetic prin dizlocarea de către cel chitos.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Amprenta este greu de îndepărtat de pe câmpul protetic retentiv.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Reacția de priză este simultană pentru cele două componente.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Adeziune slabă între cele două componente.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Acuratețe redusă datorită bulelor de aer înglobate.",
+        "correct": false
+      }
+    ],
+    "explanation": "Dezavantajele dublului amestec: dizlocarea fluidului de către chitos în zone importante, amprenta greu de îndepărtat de pe CP retentiv. Priza simultană și adeziunea bună sunt AVANTAJE; bulele sunt eliminate prin injectare.",
+    "source": "5. Suport curs 5_NE_T.pdf — Tehnica dublului amestec / Dezavantaje"
+  },
+  {
+    "id": 58,
+    "topic": "Elastomeri",
+    "difficulty": "recall",
+    "question": "Privind portamprentele folosite cu elastomeri, care dintre următoarele afirmații sunt corecte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Portamprentele metalice sunt indicate în favoarea celor din materiale plastice.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Portamprentele rigide reduc riscul deformării permanente a amprentei.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Se recomandă portamprente cu perforații sau adeziv pentru portamprentă.",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Portamprentele flexibile sunt cele mai indicate pentru elastomeri rigizi.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Adezivul pentru portamprentă este contraindicat pentru elastomeri.",
+        "correct": false
+      }
+    ],
+    "explanation": "Portamprentele metalice (rigide) sunt preferate față de cele plastice — reduc fluajul materialului de amprentă. Se folosesc perforații sau adeziv pentru retenție. Portamprentele flexibile favorizează deformarea.",
+    "source": "5. Suport curs 5_NE_T.pdf — Portamprente"
+  },
+  {
+    "id": 59,
+    "topic": "Alginate",
+    "difficulty": "recall",
+    "question": "Modul de prezentare al alginatelor este:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pulbere în cutii sau pungi de diferite culori",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Pastă în tuburi (bază + catalizator)",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Cartuș pentru pistol de mixaj automat",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Plăcuțe solide ce se topesc la cald",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Soluție lichidă unică, gata de utilizare",
+        "correct": false
+      }
+    ],
+    "explanation": "Alginatele se prezintă sub formă de pulbere, în cutii sau pungi de diferite culori. Pulberea se amestecă cu apa pentru obținerea gelului.",
+    "source": "5. Suport curs 5_NE_T.pdf — Alginate / Prezentare"
+  },
+  {
+    "id": 60,
+    "topic": "Alginate",
+    "difficulty": "application",
+    "question": "Pentru păstrarea unei amprente de alginat în condiții optime înainte de turnare, modalitatea corectă este:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Atmosferă cu umiditate relativă 100% (înfășurată în șervet umed, max 24h, sau pungă închisă ermetic max 5 zile)",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Imersie completă în apă timp de câteva ore",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Atmosferă uscată la temperatura camerei pentru cel puțin 12 ore",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Imersie în soluție de hipoclorit timp de 24 ore",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Frigider la 4°C în recipient deschis",
+        "correct": false
+      }
+    ],
+    "explanation": "Alginatele suferă sinereză (în aer — contracție) sau imbibiție (în apă — umflare), deci se păstrează în umiditate relativă 100% (șervet umed 24h sau pungă ermetic 5 zile).",
+    "source": "5. Suport curs 5_NE_T.pdf — Alginate / Compatibilitate"
+  },
+  {
+    "id": 61,
+    "topic": "Dezinfecția amprentelor",
+    "difficulty": "recall",
+    "question": "Care dintre următoarele substanțe sunt derivați halogenați de clor folosiți pentru dezinfecția amprentelor?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hipoclorit de sodiu",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Soluții de clorhexidină",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Glutaraldehida 2%",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Soluții de iodofori 1%",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Fenoli",
+        "correct": false
+      }
+    ],
+    "explanation": "Derivații halogenați de clor utilizați sunt hipocloritul de sodiu și soluțiile de clorhexidină. Glutaraldehida este aldehidă; iodoforii și fenolii sunt categorii separate de dezinfectante.",
+    "source": "5. Suport curs 5_NE_T.pdf — Dezinfecție / Substanțe"
+  },
+  {
+    "id": 62,
+    "topic": "Dezinfecția amprentelor",
+    "difficulty": "application",
+    "question": "Privind dezinfecția amprentelor cu siliconi de condensare, care afirmații sunt corecte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Imersie 10 minute în soluție dezinfectantă (nu mai mult).",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Stabilitatea dimensională este redusă din cauza formării continue de produși secundari.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Turnarea modelului se face în 30-60 min, nu înainte de 30 min.",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Imersia 30 minute este sigură ca la sil. de adiție.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Pot fi păstrați mult timp înainte de turnare fără deformări.",
+        "correct": false
+      }
+    ],
+    "explanation": "Sil. de condensare au stabilitate dimensională slabă (produși secundari ai prizei) — imersie scurtă 10 min, turnare în 30-60 min (după încheierea contracției). Spre deosebire de sil. de adiție, NU permit păstrare îndelungată.",
+    "source": "5. Suport curs 5_NE_T.pdf — Dezinfecție / Sil. condensare"
+  },
+  {
+    "id": 63,
+    "topic": "Materiale pentru modele",
+    "difficulty": "recall",
+    "question": "Conform clasificării după natura chimică, care dintre următoarele sunt materiale metalice pentru modele?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Metale depuse pe cale galvanică",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Aliaje ușor fuzibile",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Aliaje topite și pulverizate",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Gipsuri extradure",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Rășini epoxidice",
+        "correct": false
+      }
+    ],
+    "explanation": "Materialele metalice pentru modele includ: metale depuse pe cale galvanică, aliaje ușor fuzibile, aliaje topite și pulverizate. Gipsurile și rășinile epoxidice sunt nemetalice.",
+    "source": "6. Suport curs 6_Materiale_NE_T.pdf — Clasificare după natură chimică"
+  },
+  {
+    "id": 64,
+    "topic": "Materiale pentru modele",
+    "difficulty": "conceptual",
+    "question": "Privind compatibilitatea fizică între amprentă și material de model, care afirmații sunt corecte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Volumetric: contracția amprentei trebuie compensată de dilatarea modelului.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Termic: reacția de priză exotermă a rășinilor poate deforma amprentele termoplastice.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Lipirea modelului de amprentă este o compatibilitate fizică.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Compatibilitatea fizică este indiferentă față de modificările dimensionale.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Reacțiile exoterme nu afectează amprentele termoplastice.",
+        "correct": false
+      }
+    ],
+    "explanation": "Compatibilitatea fizică se referă la corespondența volumetrică (contracție amprentă ↔ dilatare model) și termică (exotermie). Lipirea este compatibilitate CHIMICĂ, nu fizică.",
+    "source": "6. Suport curs 6_Materiale_NE_T.pdf — Compatibilitate"
+  },
+  {
+    "id": 65,
+    "topic": "Gipsuri",
+    "difficulty": "conceptual",
+    "question": "Privind etapele reacției de priză a gipsului, care afirmații sunt corecte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Apa se saturează cu semihidrat.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Semihidratul hidratat se transformă rapid în dihidrat, mult mai puțin solubil — începe cristalizarea.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Cristalele au tendința să devină sferice și cresc din nuclei de cristalizare (impurități).",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Cristalizarea se încheie când nucleii vin în contact unii cu alții.",
+        "correct": true
+      },
+      {
+        "id": "E",
+        "text": "Reacția se produce prin sublimare directă, fără participarea apei.",
+        "correct": false
+      }
+    ],
+    "explanation": "Etapele prizei gipsului: 1) apa se saturează cu semihidrat; 2) dihidratul format (mai puțin solubil) inițiază cristalizarea; 3) cristalele cresc sferic din nuclei (impurități); 4) cristalizarea se încheie când cristalele se ating.",
+    "source": "6. Suport curs 6_Materiale_NE_T.pdf — Gipsuri / Reacția de priză"
+  },
+  {
+    "id": 66,
+    "topic": "Gipsuri",
+    "difficulty": "recall",
+    "question": "Care dintre următoarele afirmații despre factorii controlați de producător în reacția de priză a gipsului sunt corecte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Concentrația crescută a nucleilor de cristalizare grăbește priza.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Adăugarea de sulfat de K accelerează priza; adăugarea de borax o inhibă.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Tehnicianul setează aceste acceleratoare/inhibitoare în timpul preparării.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Creșterea proporției de apă este factor controlat de producător.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Temperatura de utilizare este setată de producător.",
+        "correct": false
+      }
+    ],
+    "explanation": "Producătorul controlează concentrația nucleilor și adaosurile (sulfat K — accelerator, borax — inhibitor). Tehnicianul controlează T, proporția de apă și timpul de mixare.",
+    "source": "6. Suport curs 6_Materiale_NE_T.pdf — Factori priză / Producător"
+  },
+  {
+    "id": 67,
+    "topic": "Gipsuri",
+    "difficulty": "application",
+    "question": "Care sunt indicațiile gipsului dur (Tipul III)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Modele de lucru de mare precizie",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Soclul modelelor cu bonturi mobilizabile",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Model preliminar pentru portamprente individuale",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Tipare (masă de ambalat)",
+        "correct": true
+      },
+      {
+        "id": "E",
+        "text": "Sursă unică pentru construcții integral ceramice de mare precizie",
+        "correct": false
+      }
+    ],
+    "explanation": "Gipsul dur (Tip III) este indicat pentru modele de lucru de mare precizie, soclul modelelor cu bonturi mobilizabile, model preliminar pentru portamprente individuale, tipare. Pentru lucrări integral ceramice se folosesc rășini epoxidice/galvanoplastie.",
+    "source": "6. Suport curs 6_Materiale_NE_T.pdf — Gipsuri / Tip III / Indicații"
+  },
+  {
+    "id": 68,
+    "topic": "Gipsuri",
+    "difficulty": "recall",
+    "question": "Care dintre următoarele proprietăți caracterizează gipsul extradur (Tipul IV)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Este un gips sintetic.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Timpul de priză este cel mai redus (5-15 minute).",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Coeficient de dilatare 0,05-0,10%.",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Fidelitate foarte bună (particule foarte mici).",
+        "correct": true
+      },
+      {
+        "id": "E",
+        "text": "Are cel mai scăzut cost dintre tipurile de gips.",
+        "correct": false
+      }
+    ],
+    "explanation": "Gipsul extradur (IV) este sintetic, cu timp de priză cel mai redus (5-15 min), dilatare 0,05-0,10%, fidelitate foarte bună (particule mici), preț RIDICAT (nu scăzut).",
+    "source": "6. Suport curs 6_Materiale_NE_T.pdf — Gipsuri / Tip IV"
+  },
+  {
+    "id": 69,
+    "topic": "Gipsuri",
+    "difficulty": "conceptual",
+    "question": "Privind raportul apă/pulbere al gipsului, care afirmații sunt corecte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Un raport crescut produce un gips mai poros, deci mai puțin rezistent.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Gipsul dur necesită mai puțină apă decât cel normal, fiind mai dens și mai rezistent.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Creșterea raportului crește densitatea modelului.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Raportul apă/pulbere nu afectează rezistența mecanică.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Gipsul normal necesită mai puțină apă decât gipsul dur.",
+        "correct": false
+      }
+    ],
+    "explanation": "Raportul apă/pulbere crescut crește porozitatea și scade rezistența. Gipsul dur are nevoie de mai puțină apă (deci mai dens și mai rezistent) decât gipsul normal.",
+    "source": "6. Suport curs 6_Materiale_NE_T.pdf — Factori proprietăți mecanice"
+  },
+  {
+    "id": 70,
+    "topic": "Rășini epoxidice",
+    "difficulty": "application",
+    "question": "Care sunt indicațiile rășinilor epoxidice ca material pentru modele?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Modele cu bont mobil pentru coroane sau punți integral ceramice",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Modele pentru materiale compozite",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Modele pentru ortodonție",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Material de completare pentru modele galvanice",
+        "correct": true
+      },
+      {
+        "id": "E",
+        "text": "Tipare pentru masele de ambalat",
+        "correct": false
+      }
+    ],
+    "explanation": "Rășinile epoxidice se folosesc pentru: modele cu bont mobil (coroane/punți integral ceramice sau materiale compozite), modele ortodonție, completarea modelelor galvanice. NU pentru tipare în mase de ambalat.",
+    "source": "6. Suport curs 6_Materiale_NE_T.pdf — Rășini epoxidice / Indicații"
+  },
+  {
+    "id": 71,
+    "topic": "Aliaje pentru modele",
+    "difficulty": "recall",
+    "question": "Privind parametrii electrici ai depunerii galvanice, care afirmații sunt corecte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tensiunea este de 2,8-6V.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Intensitatea curentului este de 10mA.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Mediul este apos cu CuSO₄, disociat în Cu²⁺ și SO₄²⁻.",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Tensiunea uzuală este de 220V.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Intensitatea curentului este de 10A.",
+        "correct": false
+      }
+    ],
+    "explanation": "Galvanoplastia funcționează cu tensiune 2,8-6V, intensitate 10mA, în mediu apos CuSO₄ (disociat în Cu²⁺ și SO₄²⁻). Ionii de Cu sunt atrași de catod (amprenta), ionii de sulfat de anod (placa de Cu).",
+    "source": "6. Suport curs 6_Materiale_NE_T.pdf — Galvanoplastie / Parametri"
+  },
+  {
+    "id": 72,
+    "topic": "Aliaje pentru modele",
+    "difficulty": "application",
+    "question": "Care sunt indicațiile principale ale modelelor galvanice cu bonturi mobilizabile?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Incrustații",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Coroane parțiale",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Punți adezive",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Proteze scheletate",
+        "correct": true
+      },
+      {
+        "id": "E",
+        "text": "Modele de studiu și diagnostic",
+        "correct": false
+      }
+    ],
+    "explanation": "Modelele galvanice cu bonturi mobilizabile sunt indicate pentru lucrări de mare precizie: incrustații, coroane parțiale, punți adezive, proteze scheletate. Modelele de studiu/diagnostic se realizează din gips alabastru (Tip II).",
+    "source": "6. Suport curs 6_Materiale_NE_T.pdf — Galvanoplastie / Indicații"
+  },
+  {
+    "id": 73,
+    "topic": "Ceruri dentare",
+    "difficulty": "recall",
+    "question": "Care sunt condițiile impuse materialelor de machetare (ceruri, mase plastice)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ușor modelabile la temperatură ușor peste cea a camerei.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Să nu sufere modificări dimensionale după finalizarea machetării.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Să redea cu exactitate forma, conturul și dimensiunea piesei protetice.",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Să ardă fără reziduuri (sub 0,1%).",
+        "correct": true
+      },
+      {
+        "id": "E",
+        "text": "Să fie obligatoriu incolore.",
+        "correct": false
+      }
+    ],
+    "explanation": "Condițiile machetelor: modelabile la T ușor peste camerei, stabile dimensional, fidele, ardere fără reziduuri (<0,1%). Pot fi colorate, dar fără a colora sau interacționa cu modelele/tiparele.",
+    "source": "7. Suport curs 7_Materiale_NE_T.pdf — Condiții impuse machete"
+  },
+  {
+    "id": 74,
+    "topic": "Ceruri dentare",
+    "difficulty": "recall",
+    "question": "Care sunt caracteristicile cerii microcristaline?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Interval de topire 65-90°C.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Reduce caracterul casant al cerii parafinice.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Crește temperatura de topire a amestecului.",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Este o ceară animală, similară cerii de albine.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Are interval de topire 50-70°C, similar parafinei.",
+        "correct": false
+      }
+    ],
+    "explanation": "Ceara microcristalină (ex: ceara montana) este minerală, interval de topire 65-90°C, reduce caracterul casant al parafinei și crește T de topire. NU este animală; intervalul 50-70°C este al parafinei propriu-zise.",
+    "source": "7. Suport curs 7_Materiale_NE_T.pdf — Ceara microcristalină"
+  },
+  {
+    "id": 75,
+    "topic": "Ceruri dentare",
+    "difficulty": "recall",
+    "question": "Care dintre afirmațiile despre ceara de albine sunt corecte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Culoare galben-brună, sub influența razelor UV devine albă.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Interval de topire mediu, 60-70°C.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Casantă la T camerei, modelabilă la T corpului.",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Este o ceară sintetică obținută prin polimerizare.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Provine din palmieri din Brazilia și Venezuela.",
+        "correct": false
+      }
+    ],
+    "explanation": "Ceara de albine (animală): galben-brună (UV → albă), interval 60-70°C, casantă la T camerei dar modelabilă la T corpului. NU este sintetică; cerile vegetale (Carnauba) provin din palmieri.",
+    "source": "7. Suport curs 7_Materiale_NE_T.pdf — Ceara animală"
+  },
+  {
+    "id": 76,
+    "topic": "Ceruri dentare",
+    "difficulty": "conceptual",
+    "question": "Privind rolul rășinilor naturale în compoziția cerii dentare, care afirmații sunt corecte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cresc duritatea, tenacitatea și intervalul de topire a cerii.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Sunt insolubile în apă, solubile în substanțe organice.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Scad duritatea cerii dentare.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Au temperatură de topire foarte scăzută (sub 40°C).",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Sunt obținute prin sinteză din petrol.",
+        "correct": false
+      }
+    ],
+    "explanation": "Rășinile naturale (dammar, sandarac, colofoniu/sacâz, copal) sunt exsudate vegetale, insolubile în apă/solubile în solvenți organici, T topire foarte înaltă (~120°C). CRESC duritatea, tenacitatea și intervalul de topire al cerii.",
+    "source": "7. Suport curs 7_Materiale_NE_T.pdf — Rășini naturale"
+  },
+  {
+    "id": 77,
+    "topic": "Ceruri dentare",
+    "difficulty": "conceptual",
+    "question": "Valorile stresului intern rezidual al cerurilor sunt mai mari când:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Temperatura la care a fost încălzită ceara a fost mai mare.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Timpul expunerii la T înalte a fost mai lung.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Aplicarea cerii s-a făcut cu presiune (stres suplimentar).",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Înmuierea a fost perfect uniformă.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Ceara a fost încălzită moderat și aplicat fără presiune.",
+        "correct": false
+      }
+    ],
+    "explanation": "Stresul rezidual crește cu T înaltă, expunere prelungită, aplicare cu presiune și înmuiere NEUNIFORMĂ. Conductivitatea termică scăzută a cerii determină încălzire/răcire neuniformă, generând tensiuni interne.",
+    "source": "7. Suport curs 7_Materiale_NE_T.pdf — Stres rezidual"
+  },
+  {
+    "id": 78,
+    "topic": "Ceruri dentare",
+    "difficulty": "recall",
+    "question": "Privind proprietățile chimice ale cerurilor dentare, care afirmații sunt corecte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Au inerție chimică mare, rezistând la oxidare și hidroliză.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Cele mai multe sunt insolubile în apă, solubile în solvenți organici (cloroform, sulfură de carbon).",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Sunt foarte reactive în prezența oxigenului.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sunt foarte solubile în apă.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Reacționează violent cu acizii diluați.",
+        "correct": false
+      }
+    ],
+    "explanation": "Cerurile dentare au inerție chimică mare (rezistă la oxidare/hidroliză), sunt insolubile în apă, dar solubile în solvenți organici (cloroform, sulfură de carbon, tetraclorură de carbon).",
+    "source": "7. Suport curs 7_Materiale_NE_T.pdf — Proprietăți chimice"
+  },
+  {
+    "id": 79,
+    "topic": "Ceruri dentare",
+    "difficulty": "application",
+    "question": "Conform clasificării ADA, ceara Inlay Tip II (medie) este indicată pentru:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Machete indirecte",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Machete directe (în cavitatea orală)",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Baze și șabloane de ocluzie",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Amprente edentat total (ceară corectivă)",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Lipire componente",
+        "correct": false
+      }
+    ],
+    "explanation": "Ceara Inlay Tip II (medie) este indicată pentru machete indirecte (pe model, în laborator). Tipul I (dură) — machete directe. Bazele/șabloanele și amprentele au ceruri proprii.",
+    "source": "7. Suport curs 7_Materiale_NE_T.pdf — Clasificare ADA"
+  },
+  {
+    "id": 80,
+    "topic": "Ceruri dentare",
+    "difficulty": "application",
+    "question": "Care dintre următoarele sunt aplicații ale cerurilor de prelucrare?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cofrare (conformator pentru modele principale)",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Îndiguire (distanțare conformator)",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Wax-up fațete cu ceară albă",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Lipire componente (cu calupuri sau batoane)",
+        "correct": true
+      },
+      {
+        "id": "E",
+        "text": "Machete directe pentru inlay",
+        "correct": false
+      }
+    ],
+    "explanation": "Cerurile de prelucrare: cofrare, îndiguire, wax-up cu ceară albă, lipire. Machetele directe pentru inlay se realizează cu ceruri Inlay Tip I (dură), categorie separată.",
+    "source": "7. Suport curs 7_Materiale_NE_T.pdf — Ceruri prelucrare"
+  },
+  {
+    "id": 81,
+    "topic": "Mase plastice",
+    "difficulty": "recall",
+    "question": "Care dintre următoarele afirmații despre masele plastice folosite ca material de machetare sunt corecte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sunt rășini polimerice prefabricate.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Pot fi autopolimerizabile sau fotopolimerizabile.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Sunt în principal materiale ceramice sinterizate.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Au compoziție identică cu masele de ambalat.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Pot fi folosite doar pentru amprente, nu pentru machete.",
+        "correct": false
+      }
+    ],
+    "explanation": "Masele plastice de machetare sunt rășini polimerice prefabricate, auto- sau fotopolimerizabile. NU sunt ceramice și nu au compoziție comună cu masele de ambalat (care sunt materiale refractare).",
+    "source": "7. Suport curs 7_Materiale_NE_T.pdf — Mase plastice"
+  },
+  {
+    "id": 82,
+    "topic": "Materiale pentru machete",
+    "difficulty": "recall",
+    "question": "Privind alte materiale folosite pentru machete (macroretenții), care afirmații sunt corecte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Macroretenții din ceară",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Macroretenții din mase plastice",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Macroretenții din cristale solubile și insolubile",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Macroretenții din alginat",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Macroretenții din pasta ZOE",
+        "correct": false
+      }
+    ],
+    "explanation": "Variantele de macroretenții folosite: ceară, mase plastice, cristale solubile și insolubile. Alginatul și pasta ZOE NU se folosesc pentru macroretenții (sunt materiale de amprentă).",
+    "source": "7. Suport curs 7_Materiale_NE_T.pdf — Alte materiale machete"
+  },
+  {
+    "id": 83,
+    "topic": "Mase de ambalat",
+    "difficulty": "recall",
+    "question": "Conform clasificării după liantul conținut, masele de ambalat se împart în:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pe bază de sulfați",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Pe bază de fosfați",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Pe bază de silicați",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Sisteme speciale pentru aliaje din Ti",
+        "correct": true
+      },
+      {
+        "id": "E",
+        "text": "Pe bază de acid alginic",
+        "correct": false
+      }
+    ],
+    "explanation": "Masele de ambalat se clasifică după liant în: sulfați, fosfați, silicați, mase refractare pentru ceramică (fosfați), sisteme speciale pentru Ti. NU există mase de ambalat pe bază de alginat.",
+    "source": "8. Suport curs 8_NE_T.pdf — Clasificare"
+  },
+  {
+    "id": 84,
+    "topic": "Mase de ambalat",
+    "difficulty": "recall",
+    "question": "Privind condiția de stabilitate a formei la temperaturi înalte, masele de ambalat trebuie să reziste la temperaturi peste:",
+    "options": [
+      {
+        "id": "A",
+        "text": "1000°C (materiale refractare)",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "100°C",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "500°C",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "37°C (temperatura corpului)",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "200-300°C",
+        "correct": false
+      }
+    ],
+    "explanation": "Masele de ambalat trebuie să reziste la T peste 1000°C — sunt materiale refractare. Încălzirea tiparului este necesară pentru eliminarea apei, arderea machetei și dilatarea termică a tiparului.",
+    "source": "8. Suport curs 8_NE_T.pdf — Stabilitatea formei la T înalte"
+  },
+  {
+    "id": 85,
+    "topic": "Mase de ambalat",
+    "difficulty": "recall",
+    "question": "Rezistența pereților tiparului la forța de compresiune (la împingerea metalului topit) depinde de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Felul și cantitatea liantului",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Adaosurile care cresc duritatea",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Mărimea particulelor",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Proporția pulbere/lichid",
+        "correct": true
+      },
+      {
+        "id": "E",
+        "text": "Culoarea pulberii",
+        "correct": false
+      }
+    ],
+    "explanation": "Rezistența la forța de compresiune a pereților tiparului depinde de: felul/cantitatea liantului, adaosurile pentru duritate, mărimea particulelor, proporția pulbere/lichid. Culoarea nu are relevanță fizico-mecanică.",
+    "source": "8. Suport curs 8_NE_T.pdf — Rezistență la compresiune"
+  },
+  {
+    "id": 86,
+    "topic": "Mase de ambalat",
+    "difficulty": "conceptual",
+    "question": "Privind acuratețea și porozitatea maselor de ambalat, care afirmații sunt corecte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Acuratețea depinde de dimensiunea redusă a particulelor și de capacitatea bună de umectare.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Porozitatea este impediment pentru acuratețe.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Porozitatea este necesară pentru evacuarea gazelor din tipar.",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Acuratețea maximă se obține când porozitatea este maximă.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Porozitatea nu influențează succesul turnării.",
+        "correct": false
+      }
+    ],
+    "explanation": "Acuratețea cere particule mici și umectare bună. Porozitatea este compromis: impediment pentru acuratețe, dar necesară pentru evacuarea gazelor. Echilibrul este esențial.",
+    "source": "8. Suport curs 8_NE_T.pdf — Acuratețe și porozitate"
+  },
+  {
+    "id": 87,
+    "topic": "Mase de ambalat",
+    "difficulty": "recall",
+    "question": "Privind compoziția generală a maselor de ambalat, care afirmații sunt corecte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Materiale termorezistente 55-75%",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Lianți aproximativ 20%",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Materiale de adaos (modifică timpul de priză, expansiunea termică, acuratețea)",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Acid alginic ca liant principal",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Sulfat de calciu dihidratat ca material termorezistent unic",
+        "correct": false
+      }
+    ],
+    "explanation": "Compoziția maselor de ambalat: termorezistente 55-75% (silice polimorfe), lianți ~20% (variați după tip), materiale de adaos (rol multiplu). Acidul alginic este alginat; sulfatul de Ca dihidratat este componenta gipsului.",
+    "source": "8. Suport curs 8_NE_T.pdf — Compoziție"
+  },
+  {
+    "id": 88,
+    "topic": "Mase de ambalat",
+    "difficulty": "recall",
+    "question": "Privind materialele termorezistente din masele de ambalat, care afirmații sunt corecte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sunt minerale din grupa silicelor polimorfe (SiO₂).",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Se prezintă sub forme: cuarț, tridimit, cristobalit (cel mai frecvent).",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Sunt inerte chimic — nu participă la reacția de priză.",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Sunt responsabile de expansiune prin dilatare termică propriu-zisă și inversie de cristalinitate.",
+        "correct": true
+      },
+      {
+        "id": "E",
+        "text": "Sunt produse organice obținute prin polimerizare.",
+        "correct": false
+      }
+    ],
+    "explanation": "Materialele termorezistente: silice polimorfe (cuarț, tridimit, cristobalit), inerte chimic, responsabile de expansiune prin dilatare termică + inversie de cristalinitate (relaxare legături intermoleculare). NU sunt organice.",
+    "source": "8. Suport curs 8_NE_T.pdf — Materiale termorezistente"
+  },
+  {
+    "id": 89,
+    "topic": "Mase de ambalat",
+    "difficulty": "recall",
+    "question": "Privind compoziția maselor de ambalat pe bază de sulfați, care componente fac parte din pulbere?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cristale de gips (α-semihidrat de sulfat de Ca)",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Cristale de silice (cristobalit și/sau cuarț)",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Fosfat de amoniu dihidrogenat",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Tetraetil ortosilicat",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Gel de silice",
+        "correct": false
+      }
+    ],
+    "explanation": "Pulberea MA sulfați conține cristale de gips (α-semihidrat Ca) + silice (cristobalit/cuarț) + adaosuri. Fosfatul amoniu dihidrogenat este pentru fosfați; tetraetil ortosilicat și gel de silice — pentru silicați.",
+    "source": "8. Suport curs 8_NE_T.pdf — Mase sulfați / Pulbere"
+  },
+  {
+    "id": 90,
+    "topic": "Mase de ambalat",
+    "difficulty": "application",
+    "question": "Pentru inlay-uri și coroane din aliaje de Au, masa de ambalat pe bază de sulfați indicată este:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tip 2 (cu expansiune higroscopică)",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Tip 1 (cu expansiune termică)",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Tip 3 (pentru baze metalice ale protezelor scheletate)",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Mase de ambalat pe bază de silicați",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Mase de ambalat refractare pentru ceramică",
+        "correct": false
+      }
+    ],
+    "explanation": "Pentru inlay-uri și coroane din aliaje de Au se folosesc MA sulfați Tip 2 (cu expansiune higroscopică). Tip 1 = lucrări turnate Au (termică); Tip 3 = baze proteze scheletate Au + tipare proteze acrilice.",
+    "source": "8. Suport curs 8_NE_T.pdf — Mase sulfați / Tipuri și indicații"
+  },
+  {
+    "id": 91,
+    "topic": "Mase de ambalat",
+    "difficulty": "conceptual",
+    "question": "În cadrul reacției de priză a maselor de ambalat pe bază de sulfați, se formează:",
+    "options": [
+      {
+        "id": "A",
+        "text": "O rețea de cristale mici aciculate de gips (dihidrat de sulfat de Ca), iar în ochiurile rețelei se găsește silice.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "O rețea de cristale de fosfat de Mg și amoniu.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Un gel de silice solid și dens.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Un strat metalic prin reacție electrolitică.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Un polimer organic prin polimerizare prin adiție.",
+        "correct": false
+      }
+    ],
+    "explanation": "La sulfați se formează o rețea de cristale aciculate de dihidrat de sulfat de Ca (gips), iar în ochiurile rețelei se găsește silicea (inertă). Fosfatul de Mg-amoniu — fosfați; gelul de silice — silicați.",
+    "source": "8. Suport curs 8_NE_T.pdf — Reacția de priză sulfați"
+  },
+  {
+    "id": 92,
+    "topic": "Mase de ambalat",
+    "difficulty": "conceptual",
+    "question": "Privind dimensiunea particulelor maselor de ambalat, care afirmații sunt corecte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Influențează rugozitatea suprafeței tiparului.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Influențează porozitatea tiparului.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Importantă doar dimensiunea particulelor de silice (cristalele de gips sunt mult mai mici).",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Dimensiunea este irelevantă pentru calitatea piesei turnate.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Porozitatea este minimă când particulele de silice au dimensiune uniformă.",
+        "correct": false
+      }
+    ],
+    "explanation": "Dimensiunea particulelor influențează rugozitatea și porozitatea tiparului. Importantă doar silicea (cristalele de gips sunt mult mai mici). Porozitatea este MAXIMĂ (nu minimă) la dimensiune uniformă a silicei.",
+    "source": "8. Suport curs 8_NE_T.pdf — Dimensiunea particulelor"
+  },
+  {
+    "id": 93,
+    "topic": "Mase de ambalat",
+    "difficulty": "recall",
+    "question": "Privind compoziția maselor de ambalat pe bază de fosfați, care componente sunt corect identificate?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pulbere: silice (cristobalit/cuarț) ~80%",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Liant: MgO + fosfat de amoniu dihidrogenat",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Liant: semihidrat de sulfat de Ca",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Liant: tetraetil ortosilicat",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Pulbere: alginat de sodiu",
+        "correct": false
+      }
+    ],
+    "explanation": "Fosfații conțin pulbere: silice ~80% + adaosuri (sticle/oxizi), liant: MgO + fosfat de amoniu dihidrogenat, lichid: apă sau soluție specială (silice coloidală). Semihidratul de Ca = sulfați; tetraetil ortosilicat = silicați.",
+    "source": "8. Suport curs 8_NE_T.pdf — Mase fosfați / Compoziție"
+  },
+  {
+    "id": 94,
+    "topic": "Mase de ambalat",
+    "difficulty": "application",
+    "question": "Care dintre următoarele sunt indicații ale maselor de ambalat pe bază de fosfați?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tipare pentru aliaje cu PT ridicat (1000-1200°C)",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Tip I — aliaje nobile pe bază de Au, Pt, Pd și aliaje nenobile",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Tip II — tipare pentru proteze scheletate din aliaje nobile pe bază de Pd-Ag",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Aliaje Ti, lipire cu loturi, bonturi duplicat refractare pentru ceramică sinterizată",
+        "correct": true
+      },
+      {
+        "id": "E",
+        "text": "Modele de studiu și didactice",
+        "correct": false
+      }
+    ],
+    "explanation": "Fosfații: aliaje cu PT 1000-1200°C; Tip I — Au/Pt/Pd/nenobile (Ni-Cr); Tip II — proteze scheletate Pd-Ag; alte modificări — Ti, lipire, ceramică. Modelele de studiu se realizează din gips alabastru.",
+    "source": "8. Suport curs 8_NE_T.pdf — Mase fosfați / Indicații"
+  },
+  {
+    "id": 95,
+    "topic": "Mase de ambalat",
+    "difficulty": "conceptual",
+    "question": "Reacția de priză a maselor de ambalat pe bază de fosfați include:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fosfat de amoniu dihidrogenat + apă (în prezența MgO) → fosfat de Mg și amoniu.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Etape: hidratare inițială a pulberii, urmată de cristalizare (similar gipsurilor).",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Reacție prin polimerizare prin adiție.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Reacție electrolitică pentru depunerea metalelor.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Reacție de sublimare a silicei.",
+        "correct": false
+      }
+    ],
+    "explanation": "Reacția fosfaților: fosfat de amoniu dihidrogenat + apă + MgO → fosfat de Mg și amoniu (legare particule). Etape: hidratare + cristalizare (similar gipsurilor). NU este polimerizare/electroliză/sublimare.",
+    "source": "8. Suport curs 8_NE_T.pdf — Mase fosfați / Reacția de priză"
+  },
+  {
+    "id": 96,
+    "topic": "Mase de ambalat",
+    "difficulty": "recall",
+    "question": "Privind lichidul special folosit la masele de ambalat pe bază de silicați, care afirmații sunt corecte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Liantul este gel de silice — soluție unică alcoolică stabilizată.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Poate fi format din 2 soluții: etilsilicat + sol acidă de alcool etilic denaturat.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Liantul este semihidratul de sulfat de Ca.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Liantul este o suspensie de aluminat de calciu.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Liantul este obținut din extract vegetal.",
+        "correct": false
+      }
+    ],
+    "explanation": "La silicați liantul este gel de silice, prezentat sub formă de: soluție unică (alcoolică stabilizată), 2 soluții (etilsilicat + sol acidă alcool etilic denaturat), sau 3 soluții (silice coloidală + etilsilicat + alcool etilic denaturat).",
+    "source": "8. Suport curs 8_NE_T.pdf — Mase silicați / Lichid special"
+  },
+  {
+    "id": 97,
+    "topic": "Mase de ambalat",
+    "difficulty": "recall",
+    "question": "Care sunt dezavantajele tehnice ale maselor de ambalat pe bază de silicați?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Instabilitate lichid stocat (3-4 săptămâni).",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Rezistență mecanică foarte redusă la preparare (raport A:P f mic).",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Particulele fine de pulbere se ridică la suprafață în cursul vibrării, formând fisuri.",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Sunt cele mai ieftine mase de ambalat.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Sunt cele mai ușor de utilizat dintre toate tipurile de mase de ambalat.",
+        "correct": false
+      }
+    ],
+    "explanation": "Silicații: instabilitate lichid stocat 3-4 săptămâni, rezistență mecanică redusă la preparare, particule fine se ridică (suprafața tiparului trebuie îndepărtată), contracție inițială. NU sunt ieftini sau ușori — sunt cei mai dificili.",
+    "source": "8. Suport curs 8_NE_T.pdf — Mase silicați / Proprietăți"
+  },
+  {
+    "id": 98,
+    "topic": "Mase de ambalat",
+    "difficulty": "application",
+    "question": "Indicația principală a maselor de ambalat pe bază de silicați este:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Componenta metalică a protezelor scheletate din aliaje Co-Cr (PT peste 1400°C)",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Tipare pentru aliaje de Au (PT sub 800°C)",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Modele de studiu și diagnostic",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Tipare pentru proteze acrilice",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Amprente preliminare ale edentatului total",
+        "correct": false
+      }
+    ],
+    "explanation": "Silicații se folosesc pentru aliaje cu PT peste 1400°C — componenta metalică a protezelor scheletate Co-Cr (și ocazional Ni-Cr). Pentru Au (sub 900°C) se folosesc sulfați; pentru proteze acrilice — sulfați Tip 3.",
+    "source": "8. Suport curs 8_NE_T.pdf — Mase silicați / Indicații"
+  },
+  {
+    "id": 99,
+    "topic": "Mase de ambalat",
+    "difficulty": "recall",
+    "question": "Privind biocompatibilitatea maselor de ambalat, care afirmații sunt corecte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Există risc de inhalare a pulberilor în cursul preparării (silicea este toxică).",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Referirea privind biocompatibilitatea este strictă la tehnicianul dentar.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Inhalarea pulberii de masă de ambalat este complet inofensivă.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Biocompatibilitatea se referă la contactul direct cu cavitatea bucală a pacientului.",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Masele de ambalat se aplică în contact direct cu mucoasa.",
+        "correct": false
+      }
+    ],
+    "explanation": "Biocompatibilitatea maselor de ambalat se referă STRICT la tehnicianul dentar — risc de inhalare a pulberilor (silicea este toxică). Masele NU se aplică pe pacient, deci contactul oral nu este relevant.",
+    "source": "8. Suport curs 8_NE_T.pdf — Biocompatibilitate"
+  },
+  {
+    "id": 100,
+    "topic": "Mase de ambalat",
+    "difficulty": "recall",
+    "question": "La masele de ambalat pe bază de sulfați (Tip 2), care raport lichid special:apă produce cea mai mare valoare a expansiunii?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lichid special nediluat (1,9-2,1%)",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "3:1 (1,7-1,9%)",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "1:1 (1,5-1,7%)",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "1:3 (1,3-1,5%)",
+        "correct": false
+      },
+      {
+        "id": "E",
+        "text": "Apă pură fără lichid special",
+        "correct": false
+      }
+    ],
+    "explanation": "Conform tabelului, expansiunea crește cu concentrația lichidului special: nediluat 1,9-2,1%, 3:1 → 1,7-1,9%, 1:1 → 1,5-1,7%, 1:3 → 1,3-1,5%. Maximul se obține cu lichidul special nediluat.",
+    "source": "8. Suport curs 8_NE_T.pdf — Mase fosfați / Expansiune lichid special"
   }
 ]
