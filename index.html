@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>QuizMaster</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <section id="home-screen" class="screen" aria-labelledby="home-title">
+        <div class="hero">
+          <p class="eyebrow">Moodle-style practice</p>
+          <h1 id="home-title">QuizMaster</h1>
+          <p class="lede">Practice multiple-choice questions from your local JSON bank, including questions with more than one correct answer.</p>
+        </div>
+
+        <div class="panel">
+          <div class="panel-header">
+            <h2>Choose quiz length</h2>
+            <p id="question-bank-status" class="muted">Loading questions...</p>
+          </div>
+          <div class="length-grid" role="group" aria-label="Quiz length">
+            <button class="length-button" type="button" data-length="10">10</button>
+            <button class="length-button" type="button" data-length="20">20</button>
+            <button class="length-button" type="button" data-length="30">30</button>
+          </div>
+          <p id="home-error" class="error-message" role="alert" aria-live="polite"></p>
+          <div class="action-row">
+            <button id="start-quiz" class="primary" type="button" disabled>Start Quiz</button>
+            <button id="view-history" class="secondary" type="button">View History</button>
+          </div>
+        </div>
+      </section>
+
+      <section id="quiz-screen" class="screen hidden" aria-labelledby="quiz-progress-label">
+        <div class="quiz-topbar">
+          <button id="quiz-back-home" class="ghost" type="button">Back to Home</button>
+          <div class="progress-wrap" aria-hidden="true">
+            <div id="progress-bar" class="progress-bar"></div>
+          </div>
+          <p id="quiz-progress-label" class="progress-label"></p>
+        </div>
+
+        <article class="question-panel">
+          <div class="question-meta">
+            <span id="question-topic" class="topic-tag"></span>
+          </div>
+          <h2 id="question-text"></h2>
+          <div id="options-list" class="options-list"></div>
+        </article>
+
+        <div class="quiz-nav">
+          <button id="previous-question" class="secondary" type="button">Previous</button>
+          <button id="next-question" class="primary" type="button">Next</button>
+        </div>
+      </section>
+
+      <section id="results-screen" class="screen hidden" aria-labelledby="score-title">
+        <div class="score-card">
+          <p class="eyebrow">Quiz complete</p>
+          <h1 id="score-title"></h1>
+        </div>
+
+        <div class="results-block">
+          <h2>Questions to review</h2>
+          <div id="wrong-results"></div>
+        </div>
+
+        <div class="results-block">
+          <button id="toggle-correct" class="secondary" type="button">Show correct answers</button>
+          <div id="correct-results" class="hidden"></div>
+        </div>
+
+        <div class="action-row">
+          <button id="retake-quiz" class="primary" type="button">Retake (new random quiz)</button>
+          <button id="results-home" class="secondary" type="button">Back to Home</button>
+        </div>
+      </section>
+
+      <section id="history-screen" class="screen hidden" aria-labelledby="history-title">
+        <div class="screen-header">
+          <div>
+            <p class="eyebrow">Saved locally</p>
+            <h1 id="history-title">History</h1>
+          </div>
+          <button id="history-home" class="secondary" type="button">Back to Home</button>
+        </div>
+
+        <div id="history-list" class="history-list"></div>
+        <div class="action-row">
+          <button id="clear-history" class="danger" type="button">Clear History</button>
+        </div>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
