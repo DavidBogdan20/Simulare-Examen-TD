@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "topic": "Edentația parțială - definiție",
+    "difficulty": "medium",
+    "question": "Care este definiția corectă a edentației parțiale?",
+    "options": [
+      { "id": "A", "text": "Starea patologică a ADM caracterizată prin absența a 1-15 unități dento-parodontale de pe o arcadă", "correct": true },
+      { "id": "B", "text": "Absența completă a tuturor dinților de pe ambele arcade", "correct": false },
+      { "id": "C", "text": "Pierderea a mai mult de 15 dinți de pe o singură arcadă", "correct": false },
+      { "id": "D", "text": "Orice reducere a numărului de dinți, indiferent de arcadă sau număr", "correct": false },
+      { "id": "E", "text": "Absența exclusivă a dinților frontali de pe arcada superioară", "correct": false }
+    ],
+    "explanation": "Edentația parțială = starea patologică a ADM caracterizată prin absența a 1-15 unități dento-parodontale de pe o arcadă – de la lipsa unui singur dinte până la prezența unui singur dinte pe arcadă.",
+    "source": "PPF-Curs-1-de printat.pdf, slide Edentația parțială - definiție"
+  },
+  {
+    "id": 2,
+    "topic": "Edentația parțială - breșe edentate",
+    "difficulty": "medium",
+    "question": "Prin ce parametri pot varia breșele edentate în edentația parțială?",
+    "options": [
+      { "id": "A", "text": "Topografie (localizare)", "correct": true },
+      { "id": "B", "text": "Întindere (mărime)", "correct": true },
+      { "id": "C", "text": "Frecvență (numărul breșelor)", "correct": true },
+      { "id": "D", "text": "Vechime", "correct": true },
+      { "id": "E", "text": "Culoarea mucoasei edentate", "correct": false }
+    ],
+    "explanation": "Breșele edentate pot varia prin: topografie = localizare, întindere = mărime, frecvență = numărul breșelor și vechime. Culoarea mucoasei nu este un parametru de clasificare.",
+    "source": "PPF-Curs-1-de printat.pdf, slide Edentația parțială - breșe edentate"
+  },
+  {
+    "id": 3,
+    "topic": "Edentația parțială - forme clinice",
+    "difficulty": "hard",
+    "question": "Care forme clinice ale edentației parțiale presupun că breșa edentată este închisă complet prin migrarea dinților învecinați?",
+    "options": [
+      { "id": "A", "text": "Edentația dobândită", "correct": false },
+      { "id": "B", "text": "Edentația inaparentă", "correct": true },
+      { "id": "C", "text": "Edentația aparentă", "correct": false },
+      { "id": "D", "text": "Edentația adevărată", "correct": false },
+      { "id": "E", "text": "Pseudoedentația", "correct": true }
+    ],
+    "explanation": "Edentația inaparentă (formă a celei dobândite) și pseudoedentația descriu același mecanism: breșa este închisă complet prin migrarea dinților învecinați, astfel încât clinic nu există un spațiu edentat vizibil. Diagnosticul diferențial necesită anamneză + examen radiologic.",
+    "source": "PPF-Curs-1-de printat.pdf, slide Edentația parțială - forme clinice (dobândită/inaparentă și adevărată/pseudoedentație)"
+  },
+  {
+    "id": 4,
+    "topic": "Edentația parțială - forme clinice",
+    "difficulty": "hard",
+    "question": "Care afirmații sunt corecte despre edentația parțială APARENTĂ?",
+    "options": [
+      { "id": "A", "text": "Apare înainte de erupția dinților pe arcadă", "correct": true },
+      { "id": "B", "text": "Este cauzată de retenția intramaxilară a unor dinți definitivi", "correct": true },
+      { "id": "C", "text": "Include hipodonția (redusă, întinsă) și anodonția", "correct": true },
+      { "id": "D", "text": "Este cea mai frecventă formă de edentație parțială", "correct": false },
+      { "id": "E", "text": "Se diagnostichează exclusiv clinic, fără radiologie", "correct": false }
+    ],
+    "explanation": "Edentația parțială aparentă apare înainte de erupția pe arcadă, prin retenția intramaxilară a unor dinți definitivi, și include hipodonția (redusă = unident., întinsă = grup dentar) și anodonția. Cea mai frecventă formă este dobândită. Diagnosticul diferențial necesită anamneză + examen radiologic.",
+    "source": "PPF-Curs-1-de printat.pdf, slide Edentația parțială - forme clinice (aparentă)"
+  },
+  {
+    "id": 5,
+    "topic": "Etiopatogenia edentației parțiale",
+    "difficulty": "medium",
+    "question": "Care dintre cauzele următoare sunt cauze EREDITARE ale edentației parțiale?",
+    "options": [
+      { "id": "A", "text": "Caria dentară și complicațiile sale", "correct": false },
+      { "id": "B", "text": "Hipodonția", "correct": true },
+      { "id": "C", "text": "Displazia ectodermală", "correct": true },
+      { "id": "D", "text": "Iatrogenii", "correct": false },
+      { "id": "E", "text": "Despicăturile labio-maxilo-palatine", "correct": true }
+    ],
+    "explanation": "Cauzele ereditare includ: hipodonția, anodonția, Sindromul Down, displazia ectodermală și despicăturile labio-maxilo-palatine. Caria și iatrogeniile sunt cauze dobândite.",
+    "source": "PPF-Curs-1-de printat.pdf, slide Etiopatogenia edentația parțială - Cauze ereditare"
+  },
+  {
+    "id": 6,
+    "topic": "Etiopatogenia edentației parțiale",
+    "difficulty": "medium",
+    "question": "Care dintre următoarele sunt cauze DOBÂNDITE ale edentației parțiale?",
+    "options": [
+      { "id": "A", "text": "Caria și complicațiile ei", "correct": true },
+      { "id": "B", "text": "Afecțiunile parodontale", "correct": true },
+      { "id": "C", "text": "Traumatismele", "correct": true },
+      { "id": "D", "text": "Hipodonția", "correct": false },
+      { "id": "E", "text": "Cauze chirurgicale/oncologice", "correct": true }
+    ],
+    "explanation": "Cauzele dobândite ale edentației parțiale sunt: caria și complicațiile, afecțiunile parodontale, extracțiile (inclusiv în scop ortodontic), traumatismele, iatrogenii, cauze chirurgicale/oncologice. Hipodonția este o cauză ereditară.",
+    "source": "PPF-Curs-1-de printat.pdf, slide Etiopatogenia edentația parțială - Cauze dobândite"
+  },
+  {
+    "id": 7,
+    "topic": "Simptomatologia edentației parțiale",
+    "difficulty": "medium",
+    "question": "Care caracteristici definesc simptomatologia ACCENTUATĂ în edentația parțială?",
+    "options": [
+      { "id": "A", "text": "Constituie urgențe protetice", "correct": true },
+      { "id": "B", "text": "Apare în breșe reduse din zona laterală", "correct": false },
+      { "id": "C", "text": "Apar în breșe extinse din zona frontală", "correct": true },
+      { "id": "D", "text": "Împiedică desfășurarea activităților socio-profesionale", "correct": true },
+      { "id": "E", "text": "Nu determină tulburări funcționale grave", "correct": false }
+    ],
+    "explanation": "Simptomatologia accentuată apare în breșe extinse și/sau în zona frontală, constituie urgențe protetice și împiedică activitățile socio-profesionale. Simptomatologia atenuată (nu accentuată) apare în breșe reduse, laterale, fără tulburări funcționale grave.",
+    "source": "PPF-Curs-1-de printat.pdf, slide Simptomatologia edentației parțiale"
+  },
+  {
+    "id": 8,
+    "topic": "Complicațiile locale - migrările dentare",
+    "difficulty": "medium",
+    "question": "Care este mecanismul principal prin care apar migrările dentare în edentația parțială netratată?",
+    "options": [
+      { "id": "A", "text": "Acumularea progresivă a plăcii bacteriene interdentare", "correct": false },
+      { "id": "B", "text": "Lipsa antagoniștilor sau a vecinilor în absența tratamentului", "correct": true },
+      { "id": "C", "text": "Modificările musculare generate de dizarmonii ocluzale", "correct": false },
+      { "id": "D", "text": "Reducerea progresivă a volumului osos la nivelul crestei edentate", "correct": false },
+      { "id": "E", "text": "Masticația ineficientă și insalivarea incompletă a bolului alimentar", "correct": false }
+    ],
+    "explanation": "Migrările dentare sunt modificări de poziție ale dinților restanți care apar datorită lipsei antagoniștilor sau a vecinilor, în absența tratamentului. Absența unui dinte întrerupe transmiterea orizontală a solicitărilor ocluzale, ducând la dezechilibru dinamic.",
+    "source": "PPF-Curs-1-de printat.pdf, slide Complicațiile LOCALE - Migrările dentare"
+  },
+  {
+    "id": 9,
+    "topic": "Complicațiile locale - tipuri de migrări dentare",
+    "difficulty": "hard",
+    "question": "Care afirmații sunt corecte privind tipurile de migrări dentare orizontale și verticale?",
+    "options": [
+      { "id": "A", "text": "Bascularea = migrare orizontală prin inclinarea axului longitudinal spre edentație", "correct": true },
+      { "id": "B", "text": "Translația = migrare orizontală prin deplasare corporală cu menținerea axului longitudinal corect", "correct": true },
+      { "id": "C", "text": "Extruzia = migrare verticală cu ieșirea dintelui din alveolă, modificând raportul coroana clinică/rădăcina clinică", "correct": true },
+      { "id": "D", "text": "Egresiunea = migrare verticală împreună cu procesul alveolar, menținând raportul coroana clinică/rădăcina clinică", "correct": true },
+      { "id": "E", "text": "Extruzia se produce împreună cu procesul alveolar, la fel ca egresiunea", "correct": false }
+    ],
+    "explanation": "Bascularea și translația sunt migrări orizontale; extruzia și egresiunea sunt migrări verticale. Diferența esențială: extruzia modifică raportul coroana/rădăcina clinică (dinte iese din alveolă), pe când egresiunea menține acest raport (se produce împreună cu procesul alveolar).",
+    "source": "PPF-Curs-1-de printat.pdf, slide Complicațiile LOCALE - Tipuri de migrări dentare"
+  },
+  {
+    "id": 10,
+    "topic": "Complicațiile locale - manifestări parodontale",
+    "difficulty": "hard",
+    "question": "De câte ori mai nocivă este solicitarea paraxială față de solicitarea axială, conform cursului?",
+    "options": [
+      { "id": "A", "text": "De 6 ori", "correct": false },
+      { "id": "B", "text": "De 10 ori", "correct": false },
+      { "id": "C", "text": "De 30 ori", "correct": false },
+      { "id": "D", "text": "De 60 ori", "correct": true },
+      { "id": "E", "text": "De 100 ori", "correct": false }
+    ],
+    "explanation": "Solicitarea paraxială a dinților basculați este de 60 de ori mai nocivă decât solicitarea axială. Aceasta generează fenomene inflamatorii prin acumulare de placă bacteriană și dezechilibre parodontale severe.",
+    "source": "PPF-Curs-1-de printat.pdf, slide Complicațiile LOCALE - Manifestări parodontale"
+  },
+  {
+    "id": 11,
+    "topic": "Complicațiile locale - manifestări parodontale",
+    "difficulty": "hard",
+    "question": "Care mecanisme contribuie la manifestările parodontale în edentația parțială?",
+    "options": [
+      { "id": "A", "text": "Impact alimentar direct asupra parodonțiului dinților restanți", "correct": true },
+      { "id": "B", "text": "Fenomene involutive ale papilelor interdentare", "correct": true },
+      { "id": "C", "text": "Solicitare paraxială a dinților basculați", "correct": true },
+      { "id": "D", "text": "Fenomene inflamatorii prin acumularea plăcii bacteriene când dinții restanți se înclină", "correct": true },
+      { "id": "E", "text": "Reducerea automată a indicelui de placă după pierderea dinților", "correct": false }
+    ],
+    "explanation": "Manifestările parodontale se realizează prin mecanisme multiple: impact alimentar direct, fenomene involutive ale papilelor interdentare, fenomene inflamatorii prin acumulare de placă bacteriană (când dinții se înclină) și solicitare paraxială (de 60x mai nocivă decât cea axială).",
+    "source": "PPF-Curs-1-de printat.pdf, slide Complicațiile LOCALE - Manifestări parodontale"
+  },
+  {
+    "id": 12,
+    "topic": "Complicațiile locale - atrofia crestelor edentate",
+    "difficulty": "medium",
+    "question": "Care factori influențează rata și amploarea atrofiei osoase la nivelul crestelor edentate?",
+    "options": [
+      { "id": "A", "text": "Vârsta pacientului (atrofie accentuată la vârstnici)", "correct": true },
+      { "id": "B", "text": "Vechimea edentației", "correct": true },
+      { "id": "C", "text": "Afecțiunile generale (endocrinopatii, diabet)", "correct": true },
+      { "id": "D", "text": "Modul în care s-au realizat extracțiile", "correct": true },
+      { "id": "E", "text": "Culoarea tegumentelor pacientului", "correct": false }
+    ],
+    "explanation": "Atrofia osoasă de la nivelul crestei edentate depinde de: vârsta pacientului, vechimea edentației, cauza edentației, afecțiunile generale (endocrinopatii, diabet etc.) și modul în care s-au realizat extracțiile. Culoarea tegumentelor nu are relevanță clinică.",
+    "source": "PPF-Curs-1-de printat.pdf, slide Complicațiile LOCALE - Manifestări la nivelul crestelor edentate"
+  },
+  {
+    "id": 13,
+    "topic": "Complicațiile locale - manifestări ocluzale",
+    "difficulty": "hard",
+    "question": "Care mecanisme de uzură dentară patologică pot fi generate de manifestările ocluzale în edentația parțială?",
+    "options": [
+      { "id": "A", "text": "Abrazia", "correct": true },
+      { "id": "B", "text": "Atriția", "correct": true },
+      { "id": "C", "text": "Eroziunea", "correct": true },
+      { "id": "D", "text": "Abfracția", "correct": true },
+      { "id": "E", "text": "Osteoporoza locală", "correct": false }
+    ],
+    "explanation": "Manifestările ocluzale în edentația parțială pot genera uzura dentară patologică prin mecanisme multiple: abrazie, atriție, eroziune și abfracție. Osteoporoza este o afecțiune osoasă generalizată și nu un mecanism de uzură dentară.",
+    "source": "PPF-Curs-1-de printat.pdf, slide Complicațiile LOCALE - Manifestări ocluzale"
+  },
+  {
+    "id": 14,
+    "topic": "Complicațiile locoregionale - modificări musculare",
+    "difficulty": "medium",
+    "question": "Modificările musculare locoregionale în edentația parțială apar când există:",
+    "options": [
+      { "id": "A", "text": "Dizarmonii ocluzale", "correct": true },
+      { "id": "B", "text": "Atrofie extinsă a crestelor edentate", "correct": false },
+      { "id": "C", "text": "Tulburări digestive severe", "correct": false },
+      { "id": "D", "text": "Pseudoedentație bilaterală", "correct": false },
+      { "id": "E", "text": "Inflamații gingivale generalizate", "correct": false }
+    ],
+    "explanation": "Modificările musculare locoregionale (contracție inegală și/sau asimetrică a mușchilor ridicători și propulsori ai mandibulei) apar când există dizarmonii ocluzale secundare edentației parțiale.",
+    "source": "PPF-Curs-1-de printat.pdf, slide Complicațiile LOCOREGIONALE - Modificări musculare"
+  },
+  {
+    "id": 15,
+    "topic": "Complicațiile locoregionale - disfuncții ATM",
+    "difficulty": "medium",
+    "question": "Care manifestări pot fi determinate de disfuncțiile ATM secundare edentației parțiale?",
+    "options": [
+      { "id": "A", "text": "Cracmente și limitări ale deschiderii gurii", "correct": true },
+      { "id": "B", "text": "Devieri ale traiectoriei de deschidere/închidere/propulsie", "correct": true },
+      { "id": "C", "text": "Dureri articulare și musculare, spasme musculare", "correct": true },
+      { "id": "D", "text": "Instalarea parafuncțiilor", "correct": true },
+      { "id": "E", "text": "Ameliorarea imediată și spontană a masticației", "correct": false }
+    ],
+    "explanation": "Disfuncțiile ATM pot fi produse de modificări ocluzale, cauze articulare sau modificări ale DVO și determină: cracmente, limitări ale deschiderii gurii, devieri ale traiectoriei, dureri articulare și musculare, spasme musculare și instalarea parafuncțiilor.",
+    "source": "PPF-Curs-1-de printat.pdf, slide Complicațiile LOCOREGIONALE - Disfuncții ATM"
+  },
+  {
+    "id": 16,
+    "topic": "Complicațiile locoregionale - scăderea DVO",
+    "difficulty": "hard",
+    "question": "Care este cauza principală a scăderii DVO (dimensiunii verticale de ocluzie) în edentația parțială?",
+    "options": [
+      { "id": "A", "text": "Atrofia osoasă progresivă la nivelul crestelor edentate", "correct": false },
+      { "id": "B", "text": "Pierderea stopurilor ocluzale de la nivelul dinților cuspidați", "correct": true },
+      { "id": "C", "text": "Modificările musculare generate de dizarmonii ocluzale", "correct": false },
+      { "id": "D", "text": "Instalarea parafuncțiilor bruxismale", "correct": false },
+      { "id": "E", "text": "Uzura dentară patologică prin abrazie", "correct": false }
+    ],
+    "explanation": "Scăderea DVO este cauzată de pierderea stopurilor ocluzale de la nivelul dinților cuspidați și determină: aspect îmbătrânit al feței, migrarea vestibulară a dinților frontali, pierderea contactelor stabile ale marginilor incizale ale incisivilor inferiori și favorizarea uzurii dentare patologice.",
+    "source": "PPF-Curs-1-de printat.pdf, slide Complicațiile LOCOREGIONALE - Scăderea DVO"
+  },
+  {
+    "id": 17,
+    "topic": "Complicațiile generale - tulburări digestive",
+    "difficulty": "medium",
+    "question": "Care afecțiuni digestive pot fi cauzate sau agravate de edentația parțială prin masticație ineficientă?",
+    "options": [
+      { "id": "A", "text": "Gastrite cronice", "correct": true },
+      { "id": "B", "text": "Enterocolite", "correct": true },
+      { "id": "C", "text": "Ulcer gastric", "correct": true },
+      { "id": "D", "text": "Hipotonii gastrice", "correct": true },
+      { "id": "E", "text": "Pancreatită acută", "correct": false }
+    ],
+    "explanation": "Prin masticația ineficientă (sfârmarea, triturarea și insalivarea incompletă a bolului alimentar), edentația parțială poate genera sau agrava: gastrite cronice, enterocolite, ulcer gastric și hipotonii gastrice. Pancreatita acută nu este menționată ca o complicație directă.",
+    "source": "PPF-Curs-1-de printat.pdf, slide Complicațiile GENERALE - Tulburări digestive"
+  },
+  {
+    "id": 18,
+    "topic": "Complicațiile generale - tulburări psihice",
+    "difficulty": "medium",
+    "question": "Tulburările psihice din edentația parțială (depresie, izolare, scăderea stimei de sine) survin mai ales în:",
+    "options": [
+      { "id": "A", "text": "Edentațiile din zona frontală", "correct": true },
+      { "id": "B", "text": "Edentațiile biterminale fără afectare frontală", "correct": false },
+      { "id": "C", "text": "Edentațiile subtotale exclusiv", "correct": false },
+      { "id": "D", "text": "Edentațiile din zona laterală dreaptă", "correct": false },
+      { "id": "E", "text": "Edentațiile inaparente", "correct": false }
+    ],
+    "explanation": "Tulburările psihice survin mai ales în edentațiile din zona frontală, unde impactul estetic este maxim. Se manifestă prin depresie, izolare, nervozitate, lipsa de implicare socială, scăderea stimei de sine și îmbătrânire prematură.",
+    "source": "PPF-Curs-1-de printat.pdf, slide Complicațiile GENERALE - Tulburări psihice"
+  },
+  {
+    "id": 19,
+    "topic": "Clasificarea Kennedy - clase",
+    "difficulty": "medium",
+    "question": "În clasificarea Kennedy, care clasă corespunde edentației BITERMINALE?",
+    "options": [
+      { "id": "A", "text": "Clasa I – lipsesc dinți din ambele regiuni laterale ale arcadei", "correct": true },
+      { "id": "B", "text": "Clasa II – lipsesc dinți dintr-o singură regiune laterală", "correct": false },
+      { "id": "C", "text": "Clasa III – edentație laterală intercalată", "correct": false },
+      { "id": "D", "text": "Clasa IV – edentație frontală de o parte și de alta a liniei mediene", "correct": false },
+      { "id": "E", "text": "Clasa V – edentație mixtă cu breșe frontale și laterale", "correct": false }
+    ],
+    "explanation": "Kennedy Clasa I = edentația biterminală: cuprinde toate edentațiile din ambele regiuni laterale ale arcadei. Clasa II = uniterminalã; Clasa III = laterală intercalată; Clasa IV = frontală (nu există Clasa V în clasificarea Kennedy).",
+    "source": "PPF-Curs-1-de printat.pdf, slide Clasificarea Kennedy - Cls. I și II"
+  },
+  {
+    "id": 20,
+    "topic": "Clasificarea Kennedy - reguli",
+    "difficulty": "hard",
+    "question": "Care afirmații referitoare la Clasa IV Kennedy sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Cuprinde edentații frontale cu dinți lipsă de o parte și de alta a liniei mediene", "correct": true },
+      { "id": "B", "text": "Nu poate prezenta modificări, spre deosebire de celelalte clase", "correct": true },
+      { "id": "C", "text": "Poate fi asociată cu mai multe modificări, la fel ca Clasele I, II, III", "correct": false },
+      { "id": "D", "text": "Este determinată de breșa situată cel mai posterior pe arcadă", "correct": false },
+      { "id": "E", "text": "Lipsesc dinți exclusiv din zonele laterale ale arcadei", "correct": false }
+    ],
+    "explanation": "Clasa IV Kennedy reprezintă edentația frontală (dinți lipsă de o parte și de alta a liniei mediene) și, conform regulii 9, clasa IV NU poate prezenta modificări. Clasele I, II, III pot avea modificări (breșe suplimentare notate cu cifre arabe).",
+    "source": "PPF-Curs-1-de printat.pdf, slide KENNEDY regula 9 - Clasa IV nu poate prezenta modificări"
+  },
+  {
+    "id": 21,
+    "topic": "Clasificarea Kennedy - reguli de citire",
+    "difficulty": "hard",
+    "question": "Care reguli de citire Kennedy sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Includerea în clasă se face DUPĂ extracție, nu înainte de extracție", "correct": true },
+      { "id": "B", "text": "Breșele care nu vor fi restaurate prin PPF NU se iau în considerare la clasificare", "correct": true },
+      { "id": "C", "text": "Dacă M3 lipsește, NU se ia în considerare în clasificare", "correct": true },
+      { "id": "D", "text": "Întinderea breșei (numărul dinților absenți din breșă) NU influențează clasificarea", "correct": true },
+      { "id": "E", "text": "Clasa se stabilește după breșa situată cel mai anterior", "correct": false }
+    ],
+    "explanation": "Regulile Kennedy: clasificarea se face după extracție; breșele fără restaurare PPF nu se iau în calcul; M3 absent nu se consideră; întinderea breșei nu influențează clasa. Clasa se stabilește după breșa situată cel mai POSTERIOR (nu anterior) – regula 5.",
+    "source": "PPF-Curs-1-de printat.pdf, slide KENNEDY reguli 1-8"
+  },
+  {
+    "id": 22,
+    "topic": "Clasificarea Kennedy - regula M3",
+    "difficulty": "medium",
+    "question": "Conform regulilor Kennedy, care este tratamentul corect al molarului de minte (M3) în clasificare?",
+    "options": [
+      { "id": "A", "text": "M3 este întotdeauna ignorat, indiferent dacă este prezent sau absent", "correct": false },
+      { "id": "B", "text": "M3 absent nu se ia în considerare; M3 prezent și utilizat ca dinte stâlp SE ia în considerare", "correct": true },
+      { "id": "C", "text": "M3 se include întotdeauna în clasificare dacă este prezent, indiferent de rol", "correct": false },
+      { "id": "D", "text": "M3 absent transformă automat edentația în Clasa I", "correct": false },
+      { "id": "E", "text": "M3 se incluce în clasificare doar pe arcada maxilară", "correct": false }
+    ],
+    "explanation": "Regulile Kennedy 3 și 4: dacă M3 lipsește, NU se ia în considerare (nu există breșă edentată de clasificat); dacă M3 este prezent și va fi utilizat ca dinte stâlp pentru PPF, SE ia în considerare în clasificare.",
+    "source": "PPF-Curs-1-de printat.pdf, slide KENNEDY reguli 3 și 4"
+  },
+  {
+    "id": 23,
+    "topic": "Clasificarea Kennedy - exerciții",
+    "difficulty": "hard",
+    "question": "O arcadă prezintă o breșă biterminală (clasa principală) plus două breșe laterale intercalate suplimentare. Cum se notează Kennedy?",
+    "options": [
+      { "id": "A", "text": "Kennedy Clasa I, fără modificări", "correct": false },
+      { "id": "B", "text": "Kennedy Clasa I, cu 1 modificare", "correct": false },
+      { "id": "C", "text": "Kennedy Clasa I, cu 2 modificări", "correct": true },
+      { "id": "D", "text": "Kennedy Clasa III, cu 1 modificare", "correct": false },
+      { "id": "E", "text": "Kennedy Clasa II, cu 2 modificări", "correct": false }
+    ],
+    "explanation": "Breșa biterminală determină Clasa I. Breșele suplimentare față de cea care determină clasa se numesc modificări și se notează cu cifre arabe. Două breșe suplimentare = Clasa I, cu 2 modificări (conform regulii Kennedy 6 și 7).",
+    "source": "PPF-Curs-1-de printat.pdf, slide KENNEDY reguli 6 și 7, exerciții"
+  },
+  {
+    "id": 24,
+    "topic": "Clasificarea Costa",
+    "difficulty": "medium",
+    "question": "În clasificarea Costa, simbolul T (terminală) se aplică când:",
+    "options": [
+      { "id": "A", "text": "Lipsesc dinți incisivi sau canini, cu breșă marginită mezial și distal", "correct": false },
+      { "id": "B", "text": "Lipsesc dinți din zona PM/M, iar breșa este marginită exclusiv mezial de dinți", "correct": true },
+      { "id": "C", "text": "Lipsesc dinți din zona PM/M, cu breșă marginită mezial și distal de dinți", "correct": false },
+      { "id": "D", "text": "Coexistă breșe frontale, laterale și terminale pe aceeași arcadă", "correct": false },
+      { "id": "E", "text": "Lipsesc dinți din ambele regiuni terminale bilateral", "correct": false }
+    ],
+    "explanation": "Costa: T (terminală) = lipsesc dinți din zona PM/M, breșa este marginită DOAR MEZIAL de dinți (fără limită distală). L (laterală) = breșa este marginită atât mezial cât și distal. F (frontală) = lipsesc incisivi/canini.",
+    "source": "PPF-Curs-1-de printat.pdf, slide Clasificarea Costa - Edent. T și L"
+  },
+  {
+    "id": 25,
+    "topic": "Clasificarea Costa - reguli de citire",
+    "difficulty": "hard",
+    "question": "Care afirmații sunt corecte privind regulile de citire ale clasificării Costa?",
+    "options": [
+      { "id": "A", "text": "Citirea se face de la dreapta spre stânga, la maxilar și la mandibulă", "correct": true },
+      { "id": "B", "text": "Breșele de pe ambele hemiarcade se despart printr-o linie scrisă sau prin litera M (median)", "correct": true },
+      { "id": "C", "text": "Breșele de pe aceeași hemiarcadă se despart prin virgulă", "correct": true },
+      { "id": "D", "text": "O singură breșă frontală ce depășește linia mediană primește o singură denumire (F)", "correct": true },
+      { "id": "E", "text": "Citirea se face de la stânga spre dreapta, spre deosebire de Kennedy", "correct": false }
+    ],
+    "explanation": "Regulile Costa: citirea dr→stg; breșele de pe ambele hemiarcade se despart prin linie/M; breșele de pe aceeași hemiarcadă se despart prin virgulă; o singură breșă frontală ce depășește linia mediană primește o singură denumire F. Atât Costa cât și Kennedy se citesc de la dreapta spre stânga.",
+    "source": "PPF-Curs-1-de printat.pdf, slide COSTA reguli de citire 1-4"
+  },
+  {
+    "id": 26,
+    "topic": "Clasificarea Cummer",
+    "difficulty": "hard",
+    "question": "Care clasă Cummer este caracterizată de o linie a croșetelor BILATERALĂ, combinată cu linia transversală (aspect poligonal)?",
+    "options": [
+      { "id": "A", "text": "Clasa 1 – linia oblică în diagonală față de linia medio-sagitală", "correct": false },
+      { "id": "B", "text": "Clasa 2 – linia transversală față de linia medio-sagitală", "correct": false },
+      { "id": "C", "text": "Clasa 3 – linia unilaterală, nu depășește linia mediană", "correct": false },
+      { "id": "D", "text": "Clasa 4 – linia bilaterală combinată cu linia transversală, aspect poligonal", "correct": true },
+      { "id": "E", "text": "Clasa 5 – combinație de linii diagonale și transversale", "correct": false }
+    ],
+    "explanation": "Cummer (criteriu terapeutic): Clasa 1 = oblică/diagonală; Clasa 2 = transversală față de linia medio-sagitală; Clasa 3 = unilaterală (nu depășește linia mediană); Clasa 4 = bilaterală combinată cu transversală (aspect poligonal). Nu există Clasa 5.",
+    "source": "PPF-Curs-1-de printat.pdf, slide Clasificarea Cummer - Clasa 3 și 4"
+  },
+  {
+    "id": 27,
+    "topic": "Clasificarea Friedman",
+    "difficulty": "medium",
+    "question": "În clasificarea Friedman, care este diferența dintre subclasele 2.1 și 2.2?",
+    "options": [
+      { "id": "A", "text": "Clasa 2.1 = dinți lipsă cu rol în incizia alimentelor; Clasa 2.2 = dinți lipsă cu rol în zdrobire", "correct": false },
+      { "id": "B", "text": "Clasa 2.1 = breșă delimitată anterior și posterior de dinți restanți; Clasa 2.2 = breșă delimitată doar anterior", "correct": true },
+      { "id": "C", "text": "Clasa 2.1 = edentație frontală; Clasa 2.2 = edentație laterală", "correct": false },
+      { "id": "D", "text": "Clasa 2.1 = afectare unilaterală; Clasa 2.2 = afectare bilaterală", "correct": false },
+      { "id": "E", "text": "Clasa 2.1 = edentație redusă; Clasa 2.2 = edentație extinsă", "correct": false }
+    ],
+    "explanation": "Friedman Clasa 2 = lipsesc dinți din zona laterală cu rol în zdrobire și fărâmitare. Subclasele: 2.1 = breșă delimitată de dinți restanți anterior ȘI posterior (intercalată); 2.2 = breșă delimitată de dinți restanți DOAR anterior (breșă terminală).",
+    "source": "PPF-Curs-1-de printat.pdf, slide Clasificarea Friedman"
+  },
+  {
+    "id": 28,
+    "topic": "Clasificarea edentațiilor parțiale - criterii generale",
+    "difficulty": "hard",
+    "question": "Care clasificare a edentației parțiale folosește criteriul FUNCȚIONAL (ce funcție îndeplineau segmentele dentare absente)?",
+    "options": [
+      { "id": "A", "text": "Kennedy", "correct": false },
+      { "id": "B", "text": "Costa", "correct": false },
+      { "id": "C", "text": "Cummer", "correct": false },
+      { "id": "D", "text": "Friedman", "correct": true },
+      { "id": "E", "text": "Simon", "correct": false }
+    ],
+    "explanation": "Kennedy = criteriu topografic și numărul spațiilor edentate; Costa = criteriu topografic cu simboluri (T, L, F, mixtă); Cummer = criteriu terapeutic (linia ce unește dinții stâlpi); Friedman = criteriu funcțional (funcția segmentelor dentare absente: incizie vs zdrobire/fărâmitare).",
+    "source": "PPF-Curs-1-de printat.pdf, slide Clasificarea edentațiilor parțiale - prezentare generală"
+  },
+  {
+    "id": 29,
+    "topic": "Clasificarea edentațiilor parțiale - după întindere",
+    "difficulty": "medium",
+    "question": "Câți dinți absenți definesc edentația EXTINSĂ conform clasificării după întindere?",
+    "options": [
+      { "id": "A", "text": "1-2 dinți absenți", "correct": false },
+      { "id": "B", "text": "3-4 dinți absenți", "correct": false },
+      { "id": "C", "text": "4-9 dinți absenți, implicând atât zona frontală cât și cea laterală", "correct": true },
+      { "id": "D", "text": "10-15 dinți absenți", "correct": false },
+      { "id": "E", "text": "Peste 15 dinți absenți", "correct": false }
+    ],
+    "explanation": "Clasificarea după întindere: Redusă = 1-2 dinți absenți; Întinsă = 3-4 dinți absenți; Extinsă = 4-9 dinți absenți (implică zona frontală ȘI laterală); Subtotală = 10-15 dinți absenți.",
+    "source": "PPF-Curs-1-de printat.pdf, slide Clasificarea edentațiilor parțiale - după întindere"
+  },
+  {
+    "id": 30,
+    "topic": "Edentația parțială - tulburări generate",
+    "difficulty": "medium",
+    "question": "Ce tipuri de tulburări apar în funcție de breșele edentate (topografie, întindere, frecvență, vechime)?",
+    "options": [
+      { "id": "A", "text": "Tulburări estetice", "correct": true },
+      { "id": "B", "text": "Tulburări fonetice", "correct": true },
+      { "id": "C", "text": "Tulburări masticatorii", "correct": true },
+      { "id": "D", "text": "Tulburări de autoîntreținere a ADM", "correct": true },
+      { "id": "E", "text": "Tulburări de creștere osoasă generalizată", "correct": false }
+    ],
+    "explanation": "În funcție de caracteristicile breșelor edentate apar: tulburări estetice, fonetice, masticatorii și de autoîntreținere a ADM. Creșterea osoasă generalizată nu este menționată ca tulburare directă a edentației parțiale.",
+    "source": "PPF-Curs-1-de printat.pdf, slide Edentația parțială - tulburări generate"
+  }
+]

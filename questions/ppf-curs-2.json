@@ -1,0 +1,497 @@
+[
+  {
+    "id": 1,
+    "topic": "PPF - definiție",
+    "difficulty": "medium",
+    "question": "Care afirmație definește CORECT Proteza Parțială Fixă?",
+    "options": [
+      { "id": "A", "text": "Rezolvare protetică pluridentară, fixată prin cimentare, lipire sau alte mijloace de retenție (înșurubare, fricțiune) pe dinții naturali, rădăcini dentare și/sau stâlpii implantelor", "correct": true },
+      { "id": "B", "text": "Rezolvare protetică unidentară, fixată pe dinții restanți prin croșete metalice", "correct": false },
+      { "id": "C", "text": "Dispozitiv mobilizabil de către pacient, realizat dintr-o singură unitate protetică pe implant", "correct": false },
+      { "id": "D", "text": "Restaurare protetică ce poate fi îndepărtată de pacient zilnic pentru igienizare", "correct": false },
+      { "id": "E", "text": "Restaurare realizată exclusiv din ceramică integrală, fixată temporar pe dinții stâlpi prin adeziv", "correct": false }
+    ],
+    "explanation": "PPF = rezolvare protetică pluridentară, fixată prin cimentare, lipire sau alte mijloace de retenție (înșurubare, fricțiune) pe dinții naturali, rădăcini dentare și/sau stâlpii implantelor. Caracterul esențial este cel pluridentar și fix.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Proteza parțială fixă = definiție"
+  },
+  {
+    "id": 2,
+    "topic": "PPF - elemente componente",
+    "difficulty": "medium",
+    "question": "Care sunt elementele componente ale protezei parțiale fixe?",
+    "options": [
+      { "id": "A", "text": "Elementele de agregare (retentorii)", "correct": true },
+      { "id": "B", "text": "Corpul de punte (intermediarii)", "correct": true },
+      { "id": "C", "text": "Conectorii", "correct": true },
+      { "id": "D", "text": "Croșetele metalice", "correct": false },
+      { "id": "E", "text": "Placa bazală", "correct": false }
+    ],
+    "explanation": "PPF are 3 elemente componente: elementele de agregare (retentorii), corpul de punte (intermediarii) și conectorii. Croșetele și placa bazală aparțin protezelor mobilizabile.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Proteza parțială fixă = componente"
+  },
+  {
+    "id": 3,
+    "topic": "PPF - elemente de agregare",
+    "difficulty": "medium",
+    "question": "Care sunt funcțiile asigurate de elementele de agregare (retentorii) ale PPF?",
+    "options": [
+      { "id": "A", "text": "Asigură inserția PPF", "correct": true },
+      { "id": "B", "text": "Asigură sprijinul PPF", "correct": true },
+      { "id": "C", "text": "Asigură stabilitatea PPF", "correct": true },
+      { "id": "D", "text": "Asigură retenția PPF prin agregare pe dinții stâlpi", "correct": true },
+      { "id": "E", "text": "Suplinesc funcțional dinții lipsă din breșa edentată", "correct": false }
+    ],
+    "explanation": "Elementele de agregare se fixează pe stâlpii naturali sau artificiali și asigură inserția, sprijinul, stabilitatea și retenția PPF prin agregare pe dinții stâlpi. Suplinirea funcțională a dinților lipsă este rolul corpului de punte (intermediarilor).",
+    "source": "PPF-Curs-2-de printat.pdf, slide Proteza parțială fixă = componente (Elementele de agregare)"
+  },
+  {
+    "id": 4,
+    "topic": "PPF - elemente de agregare",
+    "difficulty": "hard",
+    "question": "Care tipuri de restaurări pot reprezenta elemente de agregare (retentorii) ale PPF?",
+    "options": [
+      { "id": "A", "text": "Coroane de înveliș totale", "correct": true },
+      { "id": "B", "text": "Coroane de înveliș parțiale", "correct": true },
+      { "id": "C", "text": "Coroana de substituție", "correct": true },
+      { "id": "D", "text": "Coroanele PPF adezive", "correct": true },
+      { "id": "E", "text": "Proteza parțială acrilică", "correct": false }
+    ],
+    "explanation": "Elementele de agregare pot fi reprezentate de: coroane de înveliș totale, coroane de înveliș parțiale, coroana de substituție și coroanele PPF adezive. Proteza parțială acrilică este o proteză mobilizabilă, nu un element de agregare al PPF.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Proteza parțială fixă = componente (Elementele de agregare)"
+  },
+  {
+    "id": 5,
+    "topic": "PPF - corpul de punte",
+    "difficulty": "medium",
+    "question": "Care este definiția și rolul corpului de punte (intermediarilor) în cadrul PPF?",
+    "options": [
+      { "id": "A", "text": "Componenta care restaurează integritatea arcadelor întrerupte și suplinește dinții funcțional", "correct": true },
+      { "id": "B", "text": "Componenta care asigură retenția PPF pe dinții stâlpi prin agregare directă", "correct": false },
+      { "id": "C", "text": "Zona de legătură rigidă sau elastică dintre elementele de agregare", "correct": false },
+      { "id": "D", "text": "Componenta care transmite forțele masticatorii direct spre osul alveolar independent de dinții stâlpi", "correct": false },
+      { "id": "E", "text": "Componenta care delimitează breșa edentată și se fixează pe crestele alveolare", "correct": false }
+    ],
+    "explanation": "Corpul de punte (intermediarii) = componenta care restaurează integritatea arcadelor întrerupte și suplinesc dinții funcțional. Zona de legătură dintre intermediari și retentorii este conectorul, nu corpul de punte.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Proteza parțială fixă = componente (Corpul de punte)"
+  },
+  {
+    "id": 6,
+    "topic": "PPF - conectori",
+    "difficulty": "medium",
+    "question": "Care sunt variantele de conectori utilizați în cadrul PPF?",
+    "options": [
+      { "id": "A", "text": "Conectori rigizi", "correct": true },
+      { "id": "B", "text": "Conectori elastici (articulați)", "correct": true },
+      { "id": "C", "text": "Conectori fizionomici și nefizionomici", "correct": false },
+      { "id": "D", "text": "Conectori coronari și radiculari", "correct": false },
+      { "id": "E", "text": "Conectori de semiprecizie și de mare precizie", "correct": false }
+    ],
+    "explanation": "Conectorii (zona de legătură dintre intermediari și retentorii PPF) au două variante principale: rigizi și elastici (articulați). Culisele de semiprecizie/mare precizie sunt subtipuri ale conectorilor articulați.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Proteza parțială fixă = componente (Conectorii)"
+  },
+  {
+    "id": 7,
+    "topic": "PPF - caracteristici generale",
+    "difficulty": "hard",
+    "question": "Care caracteristici generale se aplică CORECT protezelor parțiale fixe?",
+    "options": [
+      { "id": "A", "text": "Se realizează indirect prin tehnici de laborator", "correct": true },
+      { "id": "B", "text": "Au sprijin dento-parodontal", "correct": true },
+      { "id": "C", "text": "Volumul PPF este egal sau mai mic cu dinții naturali pierduți", "correct": true },
+      { "id": "D", "text": "Transmit forțele masticatorii către osul alveolar", "correct": true },
+      { "id": "E", "text": "Pot fi îndepărtate de pacient pentru igienizare zilnică", "correct": false }
+    ],
+    "explanation": "Caracteristicile generale ale PPF includ: realizarea indirectă prin tehnici de laborator, sprijin dento-parodontal, volum ≤ dinților naturali pierduți, transmiterea forțelor masticatorii spre osul alveolar. PPF NU se îndepărtează de pacient — aceasta este caracteristica protezelor mobilizabile.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Caracteristicile generale ale PPF"
+  },
+  {
+    "id": 8,
+    "topic": "PPF - avantaje",
+    "difficulty": "medium",
+    "question": "Prin ce mecanisme PPF restabilesc funcția masticatorie superioară protezelor mobile?",
+    "options": [
+      { "id": "A", "text": "Prin fixitatea pe dinții stâlpi și transmiterea presiunilor fiziologic osului alveolar", "correct": true },
+      { "id": "B", "text": "Prin relieful ocluzal în concordanță cu cel al dinților vecini și antagoniști", "correct": true },
+      { "id": "C", "text": "Prin eficiența masticatorie superioară protezelor mobile", "correct": true },
+      { "id": "D", "text": "Prin absența sacrificiului de țesut dentar față de protezele mobile", "correct": false },
+      { "id": "E", "text": "Prin posibilitatea de igienizare facilă de către pacient, superioară protezelor mobile", "correct": false }
+    ],
+    "explanation": "PPF restabilesc funcția masticatorie prin: fixitatea pe dinții stâlpi cu transmiterea presiunilor fiziologic, relief ocluzal adecvat cu dinții vecini/antagoniști, rezultând o eficiență masticatorie superioară protezelor mobile. Igienizarea este de fapt dificilă, iar sacrificiul de țesut dentar considerabil reprezintă un dezavantaj.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Avantajele protezelor parțiale fixe"
+  },
+  {
+    "id": 9,
+    "topic": "PPF - avantaje",
+    "difficulty": "medium",
+    "question": "Prin ce este PPF parodonto-profilactică?",
+    "options": [
+      { "id": "A", "text": "Prin transmiterea forțelor masticatorii în axul lung al dinților stâlpi", "correct": true },
+      { "id": "B", "text": "Prin realizarea unui stimul pentru menținerea troficității țesutului parodontal", "correct": true },
+      { "id": "C", "text": "Prin absența completă a oricărei forțe asupra dinților stâlpi", "correct": false },
+      { "id": "D", "text": "Prin reducerea necesității de igienizare interdentară", "correct": false },
+      { "id": "E", "text": "Prin eliminarea contactelor ocluzale cu dinții antagoniști", "correct": false }
+    ],
+    "explanation": "PPF sunt parodonto-profilactice deoarece: transmit forțele masticatorii în axul lung al dinților stâlpi și realizează un stimul pentru menținerea troficității țesutului parodontal. Nu elimină forțele ocluzale și nu reduc necesitatea igienizării.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Avantajele protezelor parțiale fixe (parodonto-profilactice)"
+  },
+  {
+    "id": 10,
+    "topic": "PPF - dezavantaje",
+    "difficulty": "medium",
+    "question": "Care reprezintă dezavantaje ale protezelor parțiale fixe?",
+    "options": [
+      { "id": "A", "text": "Sunt igienic inferioare protezelor mobile", "correct": true },
+      { "id": "B", "text": "Execuția clinico-tehnică este mai laborioasă", "correct": true },
+      { "id": "C", "text": "Sacrificiul de țesut dentar este important", "correct": true },
+      { "id": "D", "text": "Prețul de cost este destul de mare", "correct": true },
+      { "id": "E", "text": "Eficiența masticatorie este mai redusă față de protezele mobile", "correct": false }
+    ],
+    "explanation": "Dezavantajele PPF sunt: igienă inferioară protezelor mobile, aspect estetic deficitar unde există treme/diasteme, uneori culoarea metalului transpare, execuție clinico-tehnică laborioasă, sacrificiu important de țesut dentar, preț de cost ridicat. Eficiența masticatorie este de fapt SUPERIOARĂ (avantaj), nu inferioară.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Dezavantajele protezelor parțiale fixe"
+  },
+  {
+    "id": 11,
+    "topic": "Clasificarea PPF - natura legăturii cu elementele de suport",
+    "difficulty": "hard",
+    "question": "Conform clasificării PPF după natura legăturii cu elementele de suport, protezele DEMONTABILE se caracterizează prin:",
+    "options": [
+      { "id": "A", "text": "Nu se pot îndepărta decât prin ablație (cimentate sau lipite)", "correct": false },
+      { "id": "B", "text": "Pot fi îndepărtate de către pacient pentru igienizare", "correct": false },
+      { "id": "C", "text": "Pot fi îndepărtate doar de către medic", "correct": true },
+      { "id": "D", "text": "Se fixează exclusiv prin cimentare sau lipire", "correct": false },
+      { "id": "E", "text": "Se fixează pe implanturi și pot fi îndepărtate de pacient", "correct": false }
+    ],
+    "explanation": "Clasificarea după natura legăturii: Fixate (cimentate/lipite) — NU se pot îndepărta decât prin ablație; Mobilizabile — pot fi îndepărtate de pacient pentru igienizare; Demontabile — pot fi îndepărtate DOAR de către medic.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Clasificarea PPF — natura legăturii cu elementele de suport"
+  },
+  {
+    "id": 12,
+    "topic": "Clasificarea PPF - aspectul fizionomic",
+    "difficulty": "medium",
+    "question": "Care tipuri de PPF se încadrează în categoria FIZIONOMICE conform clasificării după aspectul fizionomic?",
+    "options": [
+      { "id": "A", "text": "Integral ceramice", "correct": true },
+      { "id": "B", "text": "Polimerice", "correct": true },
+      { "id": "C", "text": "Mixte metalo-ceramice", "correct": false },
+      { "id": "D", "text": "Mixte metalo-polimerice", "correct": false },
+      { "id": "E", "text": "Metalice", "correct": false }
+    ],
+    "explanation": "Clasificarea după aspectul fizionomic: Fizionomice = integral ceramice + polimerice; Semifizionomice = mixte metalo-ceramice + mixte metalo-polimerice; Nefizionomice = metalice.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Clasificarea PPF — aspectul fizionomic"
+  },
+  {
+    "id": 13,
+    "topic": "Clasificarea PPF - tehnologia de realizare",
+    "difficulty": "hard",
+    "question": "Care dintre următoarele reprezintă tehnologii de realizare ale PPF menționate în curs?",
+    "options": [
+      { "id": "A", "text": "Frezare", "correct": true },
+      { "id": "B", "text": "Imprimare 3D", "correct": true },
+      { "id": "C", "text": "Turnare + Sinterizare", "correct": true },
+      { "id": "D", "text": "Presare (+ turnare sau + frezare)", "correct": true },
+      { "id": "E", "text": "Injecție la rece", "correct": false }
+    ],
+    "explanation": "Tehnologiile de realizare ale PPF sunt: turnare, polimerizare (± turnare), imprimare 3D, turnare + sinterizare, frezare, presare (+ turnare/ + frezare). Injecția la rece nu este menționată ca tehnologie de realizare a PPF.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Clasificarea PPF — tehnologia de realizare"
+  },
+  {
+    "id": 14,
+    "topic": "Clasificarea PPF - tipul sprijinului",
+    "difficulty": "medium",
+    "question": "Care sunt variantele de sprijin pentru PPF conform clasificării după tipul sprijinului?",
+    "options": [
+      { "id": "A", "text": "Pe stâlpi naturali", "correct": true },
+      { "id": "B", "text": "Pe stâlpi artificiali (implante)", "correct": true },
+      { "id": "C", "text": "Cu sprijin mixt", "correct": true },
+      { "id": "D", "text": "Pe dinții antagoniști", "correct": false },
+      { "id": "E", "text": "Pe croșete și plăci bazale", "correct": false }
+    ],
+    "explanation": "Clasificarea PPF după tipul sprijinului cuprinde 3 variante: pe stâlpi naturali, pe stâlpi artificiali (implante) și cu sprijin mixt (combinație de stâlpi naturali și artificiali). Croșetele și plăcile bazale aparțin protezelor mobilizabile.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Clasificarea PPF — tipul sprijinului"
+  },
+  {
+    "id": 15,
+    "topic": "Clasificarea PPF - conectori rigizi",
+    "difficulty": "hard",
+    "question": "Care sunt variantele de conectori RIGIZI ale PPF?",
+    "options": [
+      { "id": "A", "text": "Turnare (o bucată)", "correct": true },
+      { "id": "B", "text": "Lipire (mai multe bucăți)", "correct": true },
+      { "id": "C", "text": "Sudare (mai multe bucăți)", "correct": true },
+      { "id": "D", "text": "Culise de semiprecizie", "correct": false },
+      { "id": "E", "text": "Culise de mare precizie", "correct": false }
+    ],
+    "explanation": "Conectorii rigizi includ: turnare (o bucată), lipire (mai multe bucăți) și sudare (mai multe bucăți). Culisele (de semiprecizie sau mare precizie) sunt conectori articulați (elastici), nu rigizi.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Clasificarea PPF — natura legăturii element agregare-corp punte"
+  },
+  {
+    "id": 16,
+    "topic": "Clasificarea PPF - raportul corpului de punte cu creasta",
+    "difficulty": "medium",
+    "question": "Care tipuri de raport al corpului de punte cu creasta edentată sunt menționate în clasificarea PPF?",
+    "options": [
+      { "id": "A", "text": "Șa și Semișa", "correct": true },
+      { "id": "B", "text": "Tangențial liniar și Ovalar", "correct": true },
+      { "id": "C", "text": "Suspendat și Suspendat modificat", "correct": true },
+      { "id": "D", "text": "Punctiform", "correct": true },
+      { "id": "E", "text": "Diagonal și Lateral", "correct": false }
+    ],
+    "explanation": "Clasificarea după raportul corpului de punte cu creasta edentată cuprinde 6 tipuri principale: A. Șa, B. Semișa, C. Tangențial liniar, D. Ovalar, E. Suspendat (inclusiv Suspendat modificat), F. Punctiform. Nu există tipuri 'diagonal' sau 'lateral'.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Clasificarea PPF — Raportul corpului de punte cu creasta edentată"
+  },
+  {
+    "id": 17,
+    "topic": "Clasificarea PPF - raport în șa",
+    "difficulty": "hard",
+    "question": "Care afirmații sunt CORECTE privind raportul corpului de punte cu creasta în ȘA?",
+    "options": [
+      { "id": "A", "text": "Are formă, volum și dimensiune asemănătoare cu dintele natural", "correct": true },
+      { "id": "B", "text": "Prezintă contact larg și intim cu creasta, pe ambele versante", "correct": true },
+      { "id": "C", "text": "Este igienico-profilactic necorespunzător", "correct": true },
+      { "id": "D", "text": "Se recomandă rar, în zona frontală maxilară și mandibulară", "correct": true },
+      { "id": "E", "text": "Se recomandă în mod special în zona laterală mandibulară", "correct": false }
+    ],
+    "explanation": "Raportul în ȘA: formă/volum similar dintelui natural, contact larg și intim pe ambele versante ale crestei, simulează profilul de emergență, igienico-profilactic necorespunzător, se recomandă RAR — în zona frontală maxilară și mandibulară. Nu se recomandă în zona laterală mandibulară.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Clasificarea PPF — Raportul în ȘA"
+  },
+  {
+    "id": 18,
+    "topic": "Clasificarea PPF - raport suspendat",
+    "difficulty": "hard",
+    "question": "Care afirmații sunt CORECTE privind raportul SUSPENDAT al corpului de punte cu creasta?",
+    "options": [
+      { "id": "A", "text": "Necesită cel puțin 3 mm între creastă și suprafața mucozală", "correct": true },
+      { "id": "B", "text": "Suprafața mucozală este convexă", "correct": true },
+      { "id": "C", "text": "Se recomandă în zona laterală mandibulară", "correct": true },
+      { "id": "D", "text": "Imită cel mai bine aspectul de emergență al dintelui natural", "correct": false },
+      { "id": "E", "text": "Igienizarea se face cu fir de mătase dentară, fiind pretențioasă", "correct": false }
+    ],
+    "explanation": "Raportul suspendat: necesită min. 3 mm între creastă și suprafața mucozală, suprafața mucozală este convexă, se recomandă zona laterală mandibulară, corpul de punte are grosime min. 3-4 mm. Aspectul cel mai natural de emergență aparține raportului OVALAR. Igienizarea cu fir de mătase dentară (pretențioasă) este caracteristica raportului OVALAR.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Clasificarea PPF — Raportul SUSPENDAT"
+  },
+  {
+    "id": 19,
+    "topic": "Clasificarea PPF - raport ovalar",
+    "difficulty": "hard",
+    "question": "Care caracteristici definesc raportul OVALAR (ovați, ovoidali) al corpului de punte cu creasta edentată?",
+    "options": [
+      { "id": "A", "text": "Suprafața mucozală este rotunjită și situată intramucos", "correct": true },
+      { "id": "B", "text": "Imită cel mai bine aspectul de emergență al dintelui natural", "correct": true },
+      { "id": "C", "text": "Igienizarea se face cu fir de mătase dentară", "correct": true },
+      { "id": "D", "text": "Se recomandă în zona laterală mandibulară și necesită min. 3 mm între creastă și suprafața mucozală", "correct": false },
+      { "id": "E", "text": "Suprafața mucozală este convexă și corpul de punte are nevoie de o grosime min. de 3-4 mm", "correct": false }
+    ],
+    "explanation": "Raportul ovalar: suprafața mucozală rotunjită și situată intramucos, imită cel mai bine emergența dintelui natural, igienizare pretențioasă cu fir de mătase dentară, necesită etapă chirurgicală de pregătire a crestei (sau provizorie post-extracțional). Caracteristicile cu min. 3mm și suprafața mucozală convexă aparțin raportului SUSPENDAT.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Clasificarea PPF — Raportul OVALAR"
+  },
+  {
+    "id": 20,
+    "topic": "Clasificarea PPF - raport punctiform",
+    "difficulty": "hard",
+    "question": "Care afirmații sunt corecte privind raportul PUNCTIFORM al corpului de punte cu creasta?",
+    "options": [
+      { "id": "A", "text": "Din treimea mijlocie, toate fețele converg spre un singur punct de pe mijlocul crestei edentate", "correct": true },
+      { "id": "B", "text": "Fiecare corp de punte are formă tronconică și se formează spații triangulare pentru autocurățire", "correct": true },
+      { "id": "C", "text": "Se recomandă în zona laterală mandibulară și rar în zona frontală mandibulară", "correct": true },
+      { "id": "D", "text": "Nu reface fonetica în zona frontală mandibulară", "correct": true },
+      { "id": "E", "text": "Se recomandă în zona frontală maxilară ca prima opțiune terapeutică", "correct": false }
+    ],
+    "explanation": "Raportul punctiform: fețele converg spre un singur punct pe mijlocul crestei, formă tronconică cu spații triangulare pentru autocurățire, recomandat în zona laterală mandibulară și rar în zona frontală mandibulară (nu reface fonetica). NU se recomandă ca primă opțiune în zona frontală maxilară.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Clasificarea PPF — Raportul PUNCTIFORM"
+  },
+  {
+    "id": 21,
+    "topic": "Clasificarea PPF - raport recomandat pe zone",
+    "difficulty": "hard",
+    "question": "Conform recomandărilor clinice din curs, care este raportul corpului de punte cu creasta RECOMANDAT în zona ANTERIOARĂ MAXILARĂ?",
+    "options": [
+      { "id": "A", "text": "Ovat și Semișa", "correct": true },
+      { "id": "B", "text": "Semișa și Suspendat", "correct": false },
+      { "id": "C", "text": "Suspendat și Punctiform", "correct": false },
+      { "id": "D", "text": "Șa (utilizat frecvent în practică)", "correct": false },
+      { "id": "E", "text": "Tangențial liniar și Ovalar", "correct": false }
+    ],
+    "explanation": "Conform tabelului comparativ din curs (Kazmi SMR et al., Eur J Dent 2018): zona anterioară maxilară — RECOMANDAT: Ovat, Semișa; UTILIZAT în practică: Șa. Zona posterioară maxilară — recomandat: Semișa, Suspendat; zona anterioară mandibulară — recomandat: Punctiform, Semișa.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Clasificarea PPF — raportul corpului de punte cu creasta (tabel zone)"
+  },
+  {
+    "id": 22,
+    "topic": "Clasificarea PPF - relația cu dinții stâlpi",
+    "difficulty": "medium",
+    "question": "Care sunt tipurile de PPF în funcție de relația cu dinții stâlpi?",
+    "options": [
+      { "id": "A", "text": "PPF intercalate", "correct": true },
+      { "id": "B", "text": "PPF cu extensie", "correct": true },
+      { "id": "C", "text": "PPF continuă", "correct": true },
+      { "id": "D", "text": "PPF terminale unilaterale", "correct": false },
+      { "id": "E", "text": "PPF bilaterale", "correct": false }
+    ],
+    "explanation": "Clasificarea PPF după relația cu dinții stâlpi cuprinde 3 tipuri: PPF intercalate, PPF cu extensie și PPF continuă. Nu există clasificarea 'terminale unilaterale' sau 'bilaterale' în această categorie.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Clasificarea PPF — relația cu dinții stâlpi"
+  },
+  {
+    "id": 23,
+    "topic": "Indicații PPF - categorii",
+    "difficulty": "medium",
+    "question": "Conform clasificării din curs, edentațiile parțiale pot fi împărțite în funcție de indicația terapeutică în:",
+    "options": [
+      { "id": "A", "text": "Fără indicație terapeutică", "correct": true },
+      { "id": "B", "text": "Restaurabile prin implanturi", "correct": true },
+      { "id": "C", "text": "Restaurabile prin proteze mobilizabile", "correct": true },
+      { "id": "D", "text": "Cu indicații absolute de PPF", "correct": true },
+      { "id": "E", "text": "Cu indicații relative de PPF", "correct": false }
+    ],
+    "explanation": "Conform cursului, edentațiile parțiale pot fi: fără indicație terapeutică, restaurabile prin implanturi, restaurabile prin proteze mobilizabile și cu indicații absolute de PPF. Nu se menționează categoria 'indicații relative de PPF'.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Indicații ale PPF"
+  },
+  {
+    "id": 24,
+    "topic": "Indicații PPF - fără indicație terapeutică",
+    "difficulty": "medium",
+    "question": "Care situații clinice reprezintă edentații parțiale FĂRĂ indicație terapeutică PPF?",
+    "options": [
+      { "id": "A", "text": "Absența molarilor de minte (M3)", "correct": true },
+      { "id": "B", "text": "Breșa unidentară laterală în care antagoniștii nu pot migra (ex. antagoniști solidarizați prin PFU)", "correct": true },
+      { "id": "C", "text": "Breșa micșorată, când protezarea crează efecte fizionomice dezavantajante și zone sporite de acumulare a plăcii dentare", "correct": true },
+      { "id": "D", "text": "Edentația tuturor incisivilor maxilari", "correct": false },
+      { "id": "E", "text": "Edentația terminală care include și premolarul 2", "correct": false }
+    ],
+    "explanation": "Edentații FĂRĂ indicație terapeutică: (1) M3 nu se înlocuiesc; (2) breșă unidentară laterală fără antagoniști ce pot migra; (3) breșă micșorată când protezarea este dezavantajoasă estetic și igienic. Edentația tuturor incisivilor maxilari și edentația terminală cu PM2 sunt situații care indică PPM, nu absența indicației.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Indicații ale PPF — edentații fără indicație terapeutică"
+  },
+  {
+    "id": 25,
+    "topic": "Indicații PPF - indicații absolute",
+    "difficulty": "hard",
+    "question": "Care afecțiuni cu carențe psihologice reprezintă indicații ABSOLUTE de PPF?",
+    "options": [
+      { "id": "A", "text": "Sindrom Down", "correct": true },
+      { "id": "B", "text": "Scleroză cerebrală", "correct": true },
+      { "id": "C", "text": "Alzheimer", "correct": true },
+      { "id": "D", "text": "Parkinson", "correct": true },
+      { "id": "E", "text": "Diabet zaharat tip 2", "correct": false }
+    ],
+    "explanation": "Bolnavii cu carențe psihologice (Sindrom Down, scleroză cerebrală, Alzheimer, Parkinson) au indicație absolută de PPF deoarece se adaptează greu la PPM, nu vor purta PPM, deteriorează PPM sau pierd PPM. Diabetul zaharat tip 2 nu este menționat ca indicație absolută de PPF.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Indicații ale PPF — indicații absolute de PPF"
+  },
+  {
+    "id": 26,
+    "topic": "Contraindicații PPF",
+    "difficulty": "medium",
+    "question": "Care reprezintă contraindicații ale PPF?",
+    "options": [
+      { "id": "A", "text": "Edentații cu număr insuficient de dinți restanți", "correct": true },
+      { "id": "B", "text": "Dinți restanți suficienți numeric, dar cu topografie nefavorabilă", "correct": true },
+      { "id": "C", "text": "Pacienți cu incapacitate de igienizare", "correct": true },
+      { "id": "D", "text": "Pacienți tineri în perioada de creștere (până la 18-20 ani)", "correct": true },
+      { "id": "E", "text": "Pacienți cu Sindrom Down sau Alzheimer", "correct": false }
+    ],
+    "explanation": "Contraindicațiile PPF sunt: număr insuficient de dinți restanți, topografie nefavorabilă a dinților restanți, incapacitate de igienizare și pacienți tineri în perioadă de creștere (până la 18-20 ani). Bolnavii cu Sindrom Down/Alzheimer au de fapt INDICAȚIE ABSOLUTĂ de PPF.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Contraindicații ale PPF"
+  },
+  {
+    "id": 27,
+    "topic": "Alternative PPF - comparație",
+    "difficulty": "hard",
+    "question": "Conform tabelului comparativ din curs, care afirmații sunt CORECTE privind diferențele dintre PPF, protezele mobilizabile și restaurările pe implanturi?",
+    "options": [
+      { "id": "A", "text": "PPF prezintă igienizare dificilă, protezele mobilizabile igienizare facilă", "correct": true },
+      { "id": "B", "text": "PPF au sacrificiu de țesuturi dure considerabil, restaurările pe implanturi au sacrificiu absent", "correct": true },
+      { "id": "C", "text": "PPF și restaurările pe implanturi realizează și mențin ocluzie stabilă, protezele mobilizabile au stabilitate relativă", "correct": true },
+      { "id": "D", "text": "Adaptarea psihică la PPF și la restaurările pe implanturi este rapidă, față de PPM unde este dificilă", "correct": true },
+      { "id": "E", "text": "PPF perturbă termoreceptia, fonația și percepția gustativă, similar protezelor mobilizabile", "correct": false }
+    ],
+    "explanation": "Conform tabelului comparativ: igienizare PPF=dificilă, PPM=facilă, implanturi=medie; sacrificiu de tesuturi dure PPF=considerabil, PPM=absent (excepție sprijin mixt), implanturi=absent; restabilire ocluzie PPF și implanturi=stabilă, PPM=relativă; adaptare psihică PPF și implanturi=rapidă, PPM=dificilă. PPF NU perturbă termoreceptia/fonația — perturbarea este specifică PPM.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Alternativele PPF — tabel comparativ"
+  },
+  {
+    "id": 28,
+    "topic": "Câmpul protetic - definiție și componente",
+    "difficulty": "medium",
+    "question": "Care reprezintă elementele câmpului protetic al PPF?",
+    "options": [
+      { "id": "A", "text": "Dinții stâlpi (cei care delimitează breșa edentată și vor fi pregătiți pentru elementele de agregare)", "correct": true },
+      { "id": "B", "text": "Creasta alveolară edentată (rezultată prin rezorbția procesului alveolar după pierderea dinților)", "correct": true },
+      { "id": "C", "text": "Dinții omologi (cu importanță deosebită în edentațiile frontale)", "correct": true },
+      { "id": "D", "text": "Dinții antagoniști (situați la maxilarul opus breșei, cu care puntea realizează contacte ocluzale)", "correct": true },
+      { "id": "E", "text": "Mușchii masticatori și articulația temporo-mandibulară", "correct": false }
+    ],
+    "explanation": "Câmpul protetic = totalitatea elementelor anatomice cu care PPF vine în contact: 1. dinții stâlpi, 2. creasta alveolară edentată, 3. dinții omologi, 4. dinții antagoniști. Mușchii masticatori și ATM nu sunt componente ale câmpului protetic al PPF.",
+    "source": "PPF-Curs-2-de printat.pdf, slide CÂMPUL PROTETIC"
+  },
+  {
+    "id": 29,
+    "topic": "Câmpul protetic - analiza dinților stâlpi",
+    "difficulty": "hard",
+    "question": "Care sunt criteriile de analiză radiologică și clinică a dinților stâlpi în evaluarea câmpului protetic?",
+    "options": [
+      { "id": "A", "text": "Numărul și repartizarea topografică", "correct": true },
+      { "id": "B", "text": "Poziția de implantare", "correct": true },
+      { "id": "C", "text": "Morfologia coronară și radiculară", "correct": true },
+      { "id": "D", "text": "Starea parodontală și rapoartele de ocluzie", "correct": true },
+      { "id": "E", "text": "Culoarea, transluciditatea și gradul de fluoroză al smalțului", "correct": false }
+    ],
+    "explanation": "Dinții stâlpi se analizează radiologic și clinic după 5 criterii: a) numărul și repartizarea topografică, b) poziția de implantare, c) morfologia coronară și radiculară, d) starea parodontală, e) rapoartele de ocluzie. Culoarea și fluoroza nu sunt criterii de analiză a câmpului protetic.",
+    "source": "PPF-Curs-2-de printat.pdf, slide CÂMPUL PROTETIC — Dinții stâlpi se analizează radiologic și clinic"
+  },
+  {
+    "id": 30,
+    "topic": "Câmpul protetic - starea parodontală",
+    "difficulty": "hard",
+    "question": "Starea parodontală a dinților stâlpi (gradul de rezistență față de forțele de deplasare din alveole) depinde de:",
+    "options": [
+      { "id": "A", "text": "Implantarea osoasă", "correct": true },
+      { "id": "B", "text": "Morfologia radiculară (lungime, grosime, numărul rădăcinilor)", "correct": true },
+      { "id": "C", "text": "Starea de sănătate a țesuturilor parodontale", "correct": true },
+      { "id": "D", "text": "Înălțimea coronară și gradul de distrucție coronară", "correct": false },
+      { "id": "E", "text": "Tipul elementului de agregare ales pentru restaurare", "correct": false }
+    ],
+    "explanation": "Starea parodontală = gradul de rezistență față de forțele de deplasare din alveole și depinde de: implantarea osoasă, morfologia radiculară (lungime, grosime, numărul rădăcinilor) și starea de sănătate a țesuturilor parodontale. Înălțimea/distrucția coronară influențează tipul elementului de agregare ales, nu starea parodontală.",
+    "source": "PPF-Curs-2-de printat.pdf, slide CÂMPUL PROTETIC — Starea parodontală"
+  },
+  {
+    "id": 31,
+    "topic": "Câmpul protetic - înălțimea spațiului protetic",
+    "difficulty": "hard",
+    "question": "Care situații clinice determină MĂRIREA înălțimii spațiului protetic?",
+    "options": [
+      { "id": "A", "text": "Atrofii accentuate ale crestei alveolare", "correct": true },
+      { "id": "B", "text": "Extruzii sau egresii ale dinților antagoniști", "correct": true },
+      { "id": "C", "text": "Ocluzie deschisă", "correct": true },
+      { "id": "D", "text": "Abrazia sau distrucția coronară a dinților limitrofi breșei edentate", "correct": false },
+      { "id": "E", "text": "Infraocluzia dinților limitrofi breșei edentate", "correct": false }
+    ],
+    "explanation": "Înălțimea spațiului protetic MĂRITĂ apare în: atrofii accentuate ale crestei alveolare, extruzii sau egresii, ocluzie deschisă. Abrazia/distrucția coronară și infraocluzia dinților limitrofi determină MICȘORAREA înălțimii spațiului protetic.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Înălțimea spațiului protetic MĂRITĂ și MICȘORATĂ"
+  },
+  {
+    "id": 32,
+    "topic": "Câmpul protetic - amplitudinea spațiului protetic",
+    "difficulty": "hard",
+    "question": "Care situații clinice determină MICȘORAREA amplitudinii (planului sagital) spațiului protetic?",
+    "options": [
+      { "id": "A", "text": "Versii sau migrări ale dinților spre breșa edentată", "correct": true },
+      { "id": "B", "text": "Modificări de volum prin obturații debordante sau tratamente protetice necorespunzător realizate", "correct": true },
+      { "id": "C", "text": "Migrări sau versii ale dinților limitrofi edentației DEPARTE de breșă, spre alți dinți vecini", "correct": false },
+      { "id": "D", "text": "Modificări de volum prin preparare sau distrucție coronară a dinților limitrofi", "correct": false },
+      { "id": "E", "text": "Atrofia crestei alveolare edentate", "correct": false }
+    ],
+    "explanation": "Amplitudinea MICȘORATĂ: versii sau migrări ale dinților SPRE breșă + obturații debordante/lucrări protetice necorespunzătoare. Amplitudinea MĂRITĂ: migrări/versii departe de breșă (spre vecini) + modificări de volum prin preparare/distrucție coronară. Atrofia crestei influențează lățimea, nu amplitudinea.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Amplitudinea spațiului protetic MĂRITĂ și MICȘORATĂ"
+  },
+  {
+    "id": 33,
+    "topic": "Câmpul protetic - lățimea spațiului protetic",
+    "difficulty": "hard",
+    "question": "Care situații clinice determină MICȘORAREA lățimii (planului frontal) spațiului protetic?",
+    "options": [
+      { "id": "A", "text": "Înclinări vestibulo-orale (V-O) ale dinților limitrofi", "correct": true },
+      { "id": "B", "text": "Tratamente odontale sau protetice necorespunzătoare pe dinții limitrofi", "correct": true },
+      { "id": "C", "text": "Creste exostotice", "correct": true },
+      { "id": "D", "text": "Rotații în ax ale dinților limitrofi", "correct": false },
+      { "id": "E", "text": "Preparări ale dinților limitrofi", "correct": false }
+    ],
+    "explanation": "Lățimea MICȘORATĂ: înclinări V-O ale dinților limitrofi, tratamente odontale/protetice necorespunzătoare, creste exostotice. Lățimea MĂRITĂ: rotații în ax ale dinților limitrofi, preparări ale dinților limitrofi, atrofia crestei alveolare.",
+    "source": "PPF-Curs-2-de printat.pdf, slide Lățimea spațiului protetic MICȘORATĂ și MĂRITĂ"
+  }
+]

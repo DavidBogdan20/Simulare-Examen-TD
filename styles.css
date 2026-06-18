@@ -153,6 +153,10 @@ p {
   margin: 1rem 0;
 }
 
+.course-grid {
+  grid-template-columns: 1fr;
+}
+
 .length-button {
   background: var(--surface-strong);
   border: 1px solid var(--border);

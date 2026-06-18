@@ -6,6 +6,7 @@ const {
   buildAttemptReview,
   computeScore,
   validateQuestions,
+  buildLoadErrorMessage,
 } = require("../app.js");
 
 const questions = [
@@ -180,4 +181,11 @@ test("validateQuestions rejects questions without one to four correct answers", 
 
   assert.throws(() => validateQuestions(noCorrect), /one to four correct answers/);
   assert.throws(() => validateQuestions(allCorrect), /one to four correct answers/);
+});
+
+test("buildLoadErrorMessage explains local server requirement for file URLs", () => {
+  assert.equal(
+    buildLoadErrorMessage("courses.json", "file:"),
+    "Nu s-a putut încărca courses.json. Deschide aplicația printr-un server local, de exemplu http://localhost:8000, nu direct din fișier.",
+  );
 });

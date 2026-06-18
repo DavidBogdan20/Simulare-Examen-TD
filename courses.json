@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ppf-curs-1",
+    "name": "PPF Curs 1 — Edentația parțială",
+    "file": "questions/ppf-curs-1.json"
+  },
+  {
+    "id": "ppf-curs-2",
+    "name": "PPF Curs 2 — Componente, clasificare, câmp protetic",
+    "file": "questions/ppf-curs-2.json"
+  }
+]

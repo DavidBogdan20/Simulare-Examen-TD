@@ -1,10 +1,10 @@
 # QuizMaster
 
-QuizMaster is a single-page vanilla HTML/CSS/JavaScript app for practicing Moodle-style multiple-choice quizzes from a local `questions.json` file.
+QuizMaster is a single-page vanilla HTML/CSS/JavaScript app for practicing Moodle-style multiple-choice quizzes from local JSON files.
 
 ## Run Locally
 
-Place `questions.json` next to `index.html`, then start a local static server from this directory:
+Start a local static server from this directory:
 
 ```bash
 python -m http.server 8000
@@ -12,11 +12,23 @@ python -m http.server 8000
 
 Open `http://localhost:8000` in your browser.
 
-Opening `index.html` directly with `file://` will fail in most browsers because `fetch('questions.json')` is blocked by file URL CORS restrictions.
+Opening `index.html` directly with `file://` will fail in most browsers because `fetch('courses.json')` and the course question files are blocked by file URL CORS restrictions.
 
 ## Data File
 
-`questions.json` must be at the project root, beside `index.html`, and contain an array of question objects with this shape:
+`courses.json` must be at the project root, beside `index.html`, and contain a list of available courses:
+
+```json
+[
+  {
+    "id": "ppf-curs-1",
+    "name": "PPF Curs 1",
+    "file": "questions/ppf-curs-1.json"
+  }
+]
+```
+
+Each course `file` points to a JSON question bank. A question bank must contain an array of question objects with this shape:
 
 ```json
 {

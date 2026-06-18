@@ -111,6 +111,7 @@
     buildAttemptReview,
     computeScore,
     validateQuestions,
+    buildLoadErrorMessage,
     readHistory,
     writeHistory,
   };
@@ -129,6 +130,8 @@
     selectedLength: null,
     quiz: null,
     correctExpanded: false,
+    courses: [],
+    selectedCourseId: null,
   };
 
   const els = {};
@@ -139,7 +142,7 @@
     cacheElements();
     bindEvents();
     renderHome();
-    loadQuestions();
+    loadCourses();
   }
 
   function cacheElements() {
@@ -169,6 +172,7 @@
       "history-home",
       "history-list",
       "clear-history",
+      "course-grid",
     ].forEach((id) => {
       els[id] = document.getElementById(id);
     });
@@ -197,21 +201,54 @@
     document.addEventListener("keydown", handleKeyboard);
   }
 
-  async function loadQuestions() {
+  async function loadCourses() {
     try {
-      const response = await fetch("questions.json");
+      const response = await fetch("courses.json");
       if (!response.ok) {
-        throw new Error(`questions.json returned ${response.status}`);
+        throw new Error(`courses.json returned ${response.status}`);
+      }
+      state.courses = await response.json();
+      state.loadError = "";
+    } catch (error) {
+      state.courses = [];
+      state.loadError = buildLoadErrorMessage("courses.json", window.location.protocol);
+    }
+    renderHome();
+  }
+
+  async function loadCourseQuestions(courseId) {
+    const course = state.courses.find((c) => c.id === courseId);
+    if (!course) {
+      return;
+    }
+    try {
+      const response = await fetch(course.file);
+      if (!response.ok) {
+        throw new Error(`${course.file} returned ${response.status}`);
       }
       const questions = await response.json();
       validateQuestions(questions);
       state.questions = questions;
+      state.selectedCourseId = courseId;
+      state.selectedLength = null;
       state.loadError = "";
     } catch (error) {
       state.questions = [];
-      state.loadError = "Could not load questions.json. Start a local server and keep questions.json next to index.html.";
+      state.loadError = buildLoadErrorMessage(
+        course.file,
+        window.location.protocol,
+        "Nu s-au putut încărca întrebările pentru cursul ales.",
+      );
     }
     renderHome();
+  }
+
+  function buildLoadErrorMessage(resource, protocol, baseMessage) {
+    const message = baseMessage || `Nu s-a putut încărca ${resource}.`;
+    if (protocol === "file:") {
+      return `${message} Deschide aplicația printr-un server local, de exemplu http://localhost:8000, nu direct din fișier.`;
+    }
+    return message;
   }
 
   function validateQuestions(questions) {
@@ -239,7 +276,26 @@
   }
 
   function renderHome() {
-    els["question-bank-status"].textContent = state.loadError || `${state.questions.length} questions available`;
+    els["course-grid"].replaceChildren(
+      ...state.courses.map((course) => {
+        const btn = document.createElement("button");
+        btn.className = "length-button" + (state.selectedCourseId === course.id ? " selected" : "");
+        btn.type = "button";
+        btn.textContent = course.name;
+        btn.setAttribute("aria-pressed", String(state.selectedCourseId === course.id));
+        btn.addEventListener("click", () => loadCourseQuestions(course.id));
+        return btn;
+      }),
+    );
+
+    if (state.loadError) {
+      els["question-bank-status"].textContent = state.loadError;
+    } else if (!state.selectedCourseId) {
+      els["question-bank-status"].textContent = "Selectează un curs";
+    } else {
+      els["question-bank-status"].textContent = `${state.questions.length} întrebări disponibile`;
+    }
+
     els.lengthButtons.forEach((button) => {
       const length = Number(button.dataset.length);
       button.classList.toggle("selected", state.selectedLength === length);
@@ -250,12 +306,12 @@
     let error = "";
     if (state.loadError) {
       error = state.loadError;
-    } else if (length && state.questions.length < length) {
-      error = `questions.json has ${state.questions.length} questions, but ${length} were selected.`;
+    } else if (state.selectedCourseId && length && state.questions.length < length) {
+      error = `Cursul selectat are ${state.questions.length} întrebări, dar au fost selectate ${length}.`;
     }
 
     els["home-error"].textContent = error;
-    els["start-quiz"].disabled = Boolean(error) || !length || state.questions.length === 0;
+    els["start-quiz"].disabled = Boolean(error) || !state.selectedCourseId || !length || state.questions.length === 0;
   }
 
   function startQuiz() {
