@@ -1,0 +1,347 @@
+[
+  {
+    "id": 1,
+    "topic": "Frezarea metalului",
+    "difficulty": "medium",
+    "question": "Care materiale sub formă de disc sunt menționate pentru frezarea infrastructurilor metalice metalo-ceramice?",
+    "options": [
+      { "id": "A", "text": "Co-Cr", "correct": true },
+      { "id": "B", "text": "Ni-Cr", "correct": true },
+      { "id": "C", "text": "Ti", "correct": true },
+      { "id": "D", "text": "PMMA autopolimerizabil", "correct": false },
+      { "id": "E", "text": "Hârtie de tapetare non-azbest", "correct": false }
+    ],
+    "explanation": "Cursul enumeră discuri de Co-Cr, Ni-Cr și Ti pentru frezarea metalului.",
+    "source": "PPF Curs 11.pdf, slide Frezarea metalului"
+  },
+  {
+    "id": 2,
+    "topic": "Discuri metalice",
+    "difficulty": "hard",
+    "question": "Care afirmații despre discurile metalice pentru frezare sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Au diametru standard de 98,5 mm", "correct": true },
+      { "id": "B", "text": "Înălțimile variabile se corelează cu înălțimea PPF și angulația poziționării în disc", "correct": true },
+      { "id": "C", "text": "Pentru discuri dure se cere mașină dedicată cu spindle peste 2 kW", "correct": true },
+      { "id": "D", "text": "Frezarea se poate face uscat la viteze mici sau umed", "correct": true },
+      { "id": "E", "text": "Discurile au obligatoriu diametru de 50 mm și se frezează numai manual", "correct": false }
+    ],
+    "explanation": "Cursul precizează diametrul 98,5 mm și cerințele de spindle/cuplu pentru frezarea metalelor.",
+    "source": "PPF Curs 11.pdf, slide Frezarea metalului - discuri"
+  },
+  {
+    "id": 3,
+    "topic": "Forme de prezentare aliaje",
+    "difficulty": "medium",
+    "question": "Care forme de prezentare ale aliajelor sunt comparate în curs?",
+    "options": [
+      { "id": "A", "text": "Pastile pentru turnare", "correct": true },
+      { "id": "B", "text": "Disc pentru frezare", "correct": true },
+      { "id": "C", "text": "Disc presinterizat pentru frezare", "correct": true },
+      { "id": "D", "text": "Pulbere pentru SLM/SLS", "correct": true },
+      { "id": "E", "text": "Rășină acrilică în fază de cocă", "correct": false }
+    ],
+    "explanation": "Cursul compară proprietăți pentru pastile-turnare, disc-frezare, disc presinterizat și pulbere SLM/SLS.",
+    "source": "PPF Curs 11.pdf, slide Forme de prezentare aliaje"
+  },
+  {
+    "id": 4,
+    "topic": "Metal presinterizat",
+    "difficulty": "hard",
+    "question": "Care afirmații despre discurile metalice presinterizate sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Sunt fabricate prin presare isostatică a pulberii metalice cu material liant", "correct": true },
+      { "id": "B", "text": "Au consistență asemănătoare unui disc de ceară", "correct": true },
+      { "id": "C", "text": "Necesită sinterizare după frezare pentru îndepărtarea liantului", "correct": true },
+      { "id": "D", "text": "Au contracție variabilă după sinterizare între 8-15%", "correct": true },
+      { "id": "E", "text": "Nu necesită factor de contracție în CAM", "correct": false }
+    ],
+    "explanation": "Factorul V trebuie introdus în software-ul CAM pentru compensarea contracției la sinterizare.",
+    "source": "PPF Curs 11.pdf, slide Metal presinterizat"
+  },
+  {
+    "id": 5,
+    "topic": "Avantaje metal presinterizat",
+    "difficulty": "hard",
+    "question": "Care sunt avantaje ale discurilor metalice presinterizate?",
+    "options": [
+      { "id": "A", "text": "Se pot freza ușor cu mașini de putere mică, sub 2 kW", "correct": true },
+      { "id": "B", "text": "Permit strategii rapide de frezare similare cerii și PMMA", "correct": true },
+      { "id": "C", "text": "Înlocuiesc procesul frezare ceară - ambalare - turnare", "correct": true },
+      { "id": "D", "text": "Au uzură mică a instrumentelor și distribuție omogenă industrială", "correct": true },
+      { "id": "E", "text": "Nu necesită niciodată sinterizare sau atmosferă protectoare", "correct": false }
+    ],
+    "explanation": "Sinterizarea în atmosferă de argon este cerință/dezavantaj, nu ceva eliminat.",
+    "source": "PPF Curs 11.pdf, slide Avantaje/dezavantaje discuri presinterizate"
+  },
+  {
+    "id": 6,
+    "topic": "Dezavantaje metal presinterizat",
+    "difficulty": "medium",
+    "question": "Care dezavantaje ale discurilor metalice presinterizate sunt menționate?",
+    "options": [
+      { "id": "A", "text": "Contracție variabilă în funcție de producător", "correct": true },
+      { "id": "B", "text": "Necesită ciclu de sinterizare în atmosferă de argon", "correct": true },
+      { "id": "C", "text": "Necesită cuptor de sinterizare cu protecție gaz", "correct": true },
+      { "id": "D", "text": "Nu au proprietăți mecanice similare celorlalte forme de prezentare", "correct": false },
+      { "id": "E", "text": "Nu pot fi placate ceramic", "correct": false }
+    ],
+    "explanation": "Cursul listează proprietăți mecanice și comportament la placare similare celorlalte forme ca avantaje.",
+    "source": "PPF Curs 11.pdf, slide Avantaje/dezavantaje discuri presinterizate"
+  },
+  {
+    "id": 7,
+    "topic": "Procesare metal presinterizat",
+    "difficulty": "hard",
+    "question": "Care pași apar în procesarea metalului presinterizat?",
+    "options": [
+      { "id": "A", "text": "Design CAD și planificare CAM cu tije de susținere și tije verticale de sprijin la sinterizare", "correct": true },
+      { "id": "B", "text": "Introducerea factorului V al discului utilizat", "correct": true },
+      { "id": "C", "text": "Frezare uscată cu strategii rapide pentru materiale moi și freze efilate de carbid", "correct": true },
+      { "id": "D", "text": "Sinterizare în cuptor dedicat sub protecție de argon", "correct": true },
+      { "id": "E", "text": "Frezare umedă obligatorie cu freze diamantate pentru ceramică", "correct": false }
+    ],
+    "explanation": "Pentru metalul presinterizat cursul indică frezare uscată și freze de carbid.",
+    "source": "PPF Curs 11.pdf, slide Procesarea metalului presinterizat"
+  },
+  {
+    "id": 8,
+    "topic": "Sinterizare metal presinterizat",
+    "difficulty": "hard",
+    "question": "Care afirmații despre sinterizarea metalului presinterizat sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Suportul specific asigură închidere ermetică și presurizare cu argon la 1,5 bari", "correct": true },
+      { "id": "B", "text": "Regimul include încălzire cu 15 grade C/minut", "correct": true },
+      { "id": "C", "text": "Temperatura finală este 1250-1300 grade C timp de 1 oră", "correct": true },
+      { "id": "D", "text": "Sinterizarea corectă dă schelet negru-maroniu, iar oxizii se îndepărtează prin sablare cu Al2O3 de 110 microni", "correct": true },
+      { "id": "E", "text": "Sinterizarea corectă se face în aer liber fără argon", "correct": false }
+    ],
+    "explanation": "Cursul cere atmosferă/protecție de argon pentru sinterizarea metalului presinterizat.",
+    "source": "PPF Curs 11.pdf, slide Sinterizarea metalului presinterizat"
+  },
+  {
+    "id": 9,
+    "topic": "SLM metalo-ceramic",
+    "difficulty": "hard",
+    "question": "Care pași sunt specifici protocolului PPF metalo-ceramice prin SLM + sinterizare?",
+    "options": [
+      { "id": "A", "text": "Planificarea strategiei de printare CAM", "correct": true },
+      { "id": "B", "text": "Imprimarea SLM", "correct": true },
+      { "id": "C", "text": "Tratament termic de detensionare", "correct": true },
+      { "id": "D", "text": "Îndepărtarea pulberii nesinterizate și secționarea de pe suport", "correct": true },
+      { "id": "E", "text": "Presarea ingotului de disilicat în tipar", "correct": false }
+    ],
+    "explanation": "Presarea ingotului de disilicat este altă tehnologie; SLM folosește pulbere metalică și tratament de detensionare.",
+    "source": "PPF Curs 11.pdf, slides Protocol SLM + sinterizare"
+  },
+  {
+    "id": 10,
+    "topic": "Oxidare și bonding",
+    "difficulty": "hard",
+    "question": "Care afirmații despre oxidare și bonding sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Aspectul corect al stratului de oxizi variază cu compoziția aliajului", "correct": true },
+      { "id": "B", "text": "La PPF sudate pot apărea discrepanțe de culoare din cauza aliajului folosit la sudare", "correct": true },
+      { "id": "C", "text": "După oxidare, metalul necesită sablare și curățare cu steamer-ul dacă stratul nu este maro", "correct": true },
+      { "id": "D", "text": "Bondingul îmbunătățește legătura chimică între substratul metalic și ceramic", "correct": true },
+      { "id": "E", "text": "Bondingul se aplică grosier doar pe suprafețele interne ale PPF", "correct": false }
+    ],
+    "explanation": "Bondingul se aplică în strat subțire pe toate suprafețele exterioare ale PPF.",
+    "source": "PPF Curs 11.pdf, slides Aplicarea ceramicii - bonding"
+  },
+  {
+    "id": 11,
+    "topic": "Bonding",
+    "difficulty": "hard",
+    "question": "Care protocol de bonding este corect?",
+    "options": [
+      { "id": "A", "text": "Pregătirea poate include sablare sau sablare + oxidare + sablare, în funcție de producător", "correct": true },
+      { "id": "B", "text": "Scheletul se spală cu steamer-ul și se usucă cu aer comprimat până la evaporarea completă a apei", "correct": true },
+      { "id": "C", "text": "Pasta de bonding se aplică cu pensula de opaque", "correct": true },
+      { "id": "D", "text": "Bondingul se sinterizează la 960 grade C în vacuum", "correct": true },
+      { "id": "E", "text": "După bonding, toți producătorii cer obligatoriu wash-opaque", "correct": false }
+    ],
+    "explanation": "Unii producători recomandă să nu se mai aplice wash-opaque și să se treacă direct la opaque 1.",
+    "source": "PPF Curs 11.pdf, slide Bonding"
+  },
+  {
+    "id": 12,
+    "topic": "Wash-opaque și opaque",
+    "difficulty": "hard",
+    "question": "Care afirmații despre wash-opaque și opaque sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Wash-opaque favorizează legătura chimică dintre metal și ceramică", "correct": true },
+      { "id": "B", "text": "Wash-opaque se aplică fluid, în strat subțire, pe metal curățat cu steamer-ul", "correct": true },
+      { "id": "C", "text": "Opaque maschează substratul metalic și conferă nuanța de bază a PPF", "correct": true },
+      { "id": "D", "text": "Opaque se poate aplica prin pulbere+lichid, pastă sau spray", "correct": true },
+      { "id": "E", "text": "Opaque are rolul de a lăsa substratul metalic vizibil prin ceramică", "correct": false }
+    ],
+    "explanation": "Opaque-ul maschează metalul și dă nuanța de bază.",
+    "source": "PPF Curs 11.pdf, slide Aplicarea ceramicii - opaque"
+  },
+  {
+    "id": 13,
+    "topic": "Aspect opaque",
+    "difficulty": "medium",
+    "question": "Cum trebuie să arate suprafața după sinterizarea opaque-ului?",
+    "options": [
+      { "id": "A", "text": "Aspect de coajă de ou", "correct": true },
+      { "id": "B", "text": "Aspect metalic lucios complet vizibil", "correct": false },
+      { "id": "C", "text": "Aspect de ceramică topită în picături groase", "correct": false },
+      { "id": "D", "text": "Aspect rugos cu zone maro de oxid necurățat", "correct": false },
+      { "id": "E", "text": "Aspect de acrilat transparent", "correct": false }
+    ],
+    "explanation": "Cursul precizează aspectul de coajă de ou după sinterizarea opaque-ului.",
+    "source": "PPF Curs 11.pdf, slide Dentină și enamel"
+  },
+  {
+    "id": 14,
+    "topic": "Aplicarea dentinei",
+    "difficulty": "hard",
+    "question": "Care pași sunt corecți la aplicarea dentinei și enamelului?",
+    "options": [
+      { "id": "A", "text": "Se aplică dentină pe fața mucozală a corpului de punte și se repoziționează peste creasta acoperită cu șervețel umed", "correct": true },
+      { "id": "B", "text": "Opaque dentina se aplică la periferia PPF, mai ales în treimea cervicală", "correct": true },
+      { "id": "C", "text": "Dentina se aplică până la obținerea morfologiei totale", "correct": true },
+      { "id": "D", "text": "Cutback-ul se face cu instrument rigid ascuțit după uscarea suficientă a ceramicii", "correct": true },
+      { "id": "E", "text": "Ambrazurile nu se secționează niciodată până la conectori", "correct": false }
+    ],
+    "explanation": "Ambrazurile se secționează cu bisturiul până la conectori înainte de sinterizare.",
+    "source": "PPF Curs 11.pdf, slides Aplicarea ceramicii - dentină și enamel"
+  },
+  {
+    "id": 15,
+    "topic": "Sinterizarea dentinei",
+    "difficulty": "hard",
+    "question": "Care afirmații despre sinterizarea dentinei sunt corecte?",
+    "options": [
+      { "id": "A", "text": "La contactele proximale se aplică enamel pentru recrearea volumului necesar", "correct": true },
+      { "id": "B", "text": "Lucrarea nu se mai aplică pe model până după sinterizare", "correct": true },
+      { "id": "C", "text": "Lucrarea se poziționează pe suport din masă refractară sau suport fibros", "correct": true },
+      { "id": "D", "text": "Sinterizarea dentinei se face la temperatură cu 5 grade C mai mică decât opaque 2", "correct": true },
+      { "id": "E", "text": "Dentina se sinterizează la aceeași temperatură cu oxidarea metalului, fără suport", "correct": false }
+    ],
+    "explanation": "Cursul indică o temperatură cu 5 grade C sub opaque 2 și poziționare pe suport adecvat.",
+    "source": "PPF Curs 11.pdf, slide Sinterizarea dentinei"
+  },
+  {
+    "id": 16,
+    "topic": "Prelucrarea ceramicii",
+    "difficulty": "hard",
+    "question": "Care reguli de prelucrare a ceramicii sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Se folosesc pietre abrazive ceramice, freze diamantate și discuri diamantate flexibile", "correct": true },
+      { "id": "B", "text": "Frezele și pietrele trebuie utilizate exclusiv pentru ceramică pentru a evita contaminarea", "correct": true },
+      { "id": "C", "text": "Pentru ambrazuri se pot folosi discuri diamantate flexibile de 0,1 mm", "correct": true },
+      { "id": "D", "text": "Hârtia de articulație de laborator ideal are aceeași grosime cu cea din cabinet", "correct": true },
+      { "id": "E", "text": "Frezele folosite pe metal se folosesc imediat și pe ceramică pentru aderență", "correct": false }
+    ],
+    "explanation": "Cursul cere instrumentar exclusiv pentru ceramică, mai ales pentru a evita contaminarea cu metal.",
+    "source": "PPF Curs 11.pdf, slide Prelucrarea ceramicii"
+  },
+  {
+    "id": 17,
+    "topic": "Corectură ceramică",
+    "difficulty": "hard",
+    "question": "Care etape sunt corecte după prima sinterizare a ceramicii?",
+    "options": [
+      { "id": "A", "text": "Se modifică mecanic suprafețele axiale cu pietre/freze și se ajustează ambrazurile", "correct": true },
+      { "id": "B", "text": "Se sablează suprafețele ceramice cu alumină", "correct": true },
+      { "id": "C", "text": "Opaque dentina poate fi adăugată la conectori pentru efect de profunzime", "correct": true },
+      { "id": "D", "text": "Se reface conturul cu dentină, enamel, translucent și efecte conform nuanțării dorite", "correct": true },
+      { "id": "E", "text": "Nu se mai verifică niciodată contactul cu creasta după a doua sinterizare", "correct": false }
+    ],
+    "explanation": "După a doua sinterizare, contactul cu creasta se verifică cu hârtie de articulație și se modifică cu freze diamantate.",
+    "source": "PPF Curs 11.pdf, slides Corectură ceramică"
+  },
+  {
+    "id": 18,
+    "topic": "Glazură și pigmenți",
+    "difficulty": "hard",
+    "question": "Care afirmații despre glazură și pigmentare externă sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Textura de suprafață se poate realiza cu pietre și freze în funcție de dinții vecini", "correct": true },
+      { "id": "B", "text": "După textură se poate face sablare ușoară la presiune mică cu alumină de 50 microni", "correct": true },
+      { "id": "C", "text": "Pigmenții externi sunt pe bază de oxizi metalici și au temperatură de sinterizare cu 20-60 grade C sub ultimul strat dentină/enamel", "correct": true },
+      { "id": "D", "text": "Pigmentul se aplică după glazură și trebuie evitată suprapigmentarea", "correct": true },
+      { "id": "E", "text": "Excesul de pigment nu poate fi îndepărtat după sinterizare", "correct": false }
+    ],
+    "explanation": "Excesul poate fi îndepărtat cu pensulă umezită înainte sau prin sablare cu alumină 50 microni la presiune redusă după sinterizare.",
+    "source": "PPF Curs 11.pdf, slides Glazură și pigmenți externi"
+  },
+  {
+    "id": 19,
+    "topic": "Autoglazurare vs glazurare",
+    "difficulty": "hard",
+    "question": "Care diferențe între autoglazurare și glazurare sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Autoglazurarea ridică restaurarea la o temperatură ce permite vitrificarea superficială fără pastă de glaze", "correct": true },
+      { "id": "B", "text": "Glazurarea aplică o ceramică cu fuziune scăzută și lichid de glazură pe suprafața ceramică", "correct": true },
+      { "id": "C", "text": "Glazurarea se arde la temperatură cu 20-60 grade C mai jos decât ciclul anterior", "correct": true },
+      { "id": "D", "text": "Nivelul strălucirii depinde de temperatură, timpul la temperatura maximă și rugozitatea stratului ceramic", "correct": true },
+      { "id": "E", "text": "Autoglazurarea presupune obligatoriu aplicarea unei paste de glaze groase", "correct": false }
+    ],
+    "explanation": "Autoglazurarea se face fără aplicarea unei paste de glaze.",
+    "source": "PPF Curs 11.pdf, slide Autoglazurare/glazurare"
+  },
+  {
+    "id": 20,
+    "topic": "Suprapresare metalo-ceramică",
+    "difficulty": "hard",
+    "question": "Care reguli sunt corecte în tehnica suprapresării metalo-ceramice?",
+    "options": [
+      { "id": "A", "text": "După scheletul metalic, pragurile metalice se desființează și metalul se sablează cu alumină", "correct": true },
+      { "id": "B", "text": "Grosimea minimă a metalului este 0,3 mm și grosimea minimă a ceramicii presate 0,8 mm", "correct": true },
+      { "id": "C", "text": "Opaque-ul pentru suprapresare este diferit de opaque-ul pentru stratificare", "correct": true },
+      { "id": "D", "text": "Al doilea strat de opaque urmărește mascarea totală a metalului, evitând aplicarea grosieră care poate produce fisuri", "correct": true },
+      { "id": "E", "text": "Macheta ceramică nu se realizează din ceară pe structura metalică", "correct": false }
+    ],
+    "explanation": "După al doilea opaque, se realizează macheta suprastructurii ceramice direct pe structura metalică.",
+    "source": "PPF Curs 11.pdf, slide Tehnica suprapresării"
+  },
+  {
+    "id": 21,
+    "topic": "Canale și ambalare la suprapresare",
+    "difficulty": "hard",
+    "question": "Care afirmații despre canale și ambalare în suprapresare sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Canalele au diametrul 3,5-4 mm și lungime maximă 2-3 mm", "correct": true },
+      { "id": "B", "text": "Unghiurile dintre machetă și canale trebuie rotunjite", "correct": true },
+      { "id": "C", "text": "Machetele trebuie să aibă aceeași angulație și nivel în plan orizontal", "correct": true },
+      { "id": "D", "text": "Macheta se cântărește după aplicarea tijelor și înainte de fixarea pe cilindru", "correct": true },
+      { "id": "E", "text": "Se face obligatoriu degresarea și detensionarea machetei înainte de ambalare", "correct": false }
+    ],
+    "explanation": "Cursul precizează că la această tehnică nu se face degresarea și detensionarea machetei.",
+    "source": "PPF Curs 11.pdf, slide Suprapresare - canale și ambalare"
+  },
+  {
+    "id": 22,
+    "topic": "Dezambalare suprapresare",
+    "difficulty": "hard",
+    "question": "Care reguli de dezambalare pentru lucrările presate/suprapresate sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Se folosește un plunger nou pentru marcarea nivelului de secționare a tiparului", "correct": true },
+      { "id": "B", "text": "Inițial se sablează cu oxid de alumină 50 microni la 4 bari", "correct": true },
+      { "id": "C", "text": "Când PPF devine vizibilă, presiunea se scade la maximum 2 bari și se folosesc perle de sticlă", "correct": true },
+      { "id": "D", "text": "Direcția de sablare trebuie să fie paralelă cu axul lung al fiecărui element", "correct": true },
+      { "id": "E", "text": "Sablarea perpendiculară pe lucrare este recomandată pentru accelerarea dezambalării", "correct": false }
+    ],
+    "explanation": "Cursul avertizează că la lucrările presate/suprapresate trebuie evitată direcția perpendiculară a sablării.",
+    "source": "PPF Curs 11.pdf, slide Suprapresare - dezambalare"
+  },
+  {
+    "id": 23,
+    "topic": "Lustruirea metalo-ceramică",
+    "difficulty": "hard",
+    "question": "Care două afirmații sunt corecte despre lustruirea finală după glazurarea PPF metalo-ceramice?",
+    "options": [
+      { "id": "A", "text": "Lustruirea manuală cu pufuri și paste poate fi aplicată când glazura nu are aspect constant sau rugozitatea este mare", "correct": true },
+      { "id": "B", "text": "Colereta metalică se poate lustrui cu freză/piatră, apoi polipant, perii, pufuri și pastă", "correct": true },
+      { "id": "C", "text": "Tija de manipulare se păstrează definitiv după glazurare", "correct": false },
+      { "id": "D", "text": "Metalul nu se lustruiește niciodată după glazurare", "correct": false },
+      { "id": "E", "text": "Lustruirea finală se face exclusiv cu acid sulfuric", "correct": false }
+    ],
+    "explanation": "Cursul descrie lustruirea manuală post-glazurare și lustruirea coleretei metalice după secționarea tijei de manipulare.",
+    "source": "PPF Curs 11.pdf, slide Lustruirea suprafețelor ceramice și metalice"
+  }
+]

@@ -1,0 +1,347 @@
+[
+  {
+    "id": 1,
+    "topic": "Definiție PPF integral ceramică",
+    "difficulty": "medium",
+    "question": "Care afirmație definește corect PPF integral ceramice?",
+    "options": [
+      { "id": "A", "text": "Sunt PPF realizate prin sinterizare și/sau cristalizare, prin metode indirecte sau directe, ca punți de lungă durată, exclusiv din unul sau mai multe materiale ceramice", "correct": true },
+      { "id": "B", "text": "Sunt PPF provizorii acrilice realizate prin autopolimerizare în cabinet", "correct": false },
+      { "id": "C", "text": "Sunt punți metalice cu strat de oxid obținut prin sablare", "correct": false },
+      { "id": "D", "text": "Sunt restaurări din RDC folosite doar pentru sigilări fluide", "correct": false },
+      { "id": "E", "text": "Sunt proteze mobilizabile obținute prin polimerizare PMMA", "correct": false }
+    ],
+    "explanation": "Cursul definește PPF integral ceramice ca lucrări de lungă durată realizate prin sinterizare/cristalizare, din material(e) ceramice.",
+    "source": "PPF Curs 8.pdf, slide PPF integral ceramice - definiție"
+  },
+  {
+    "id": 2,
+    "topic": "Compoziția ceramicii dentare",
+    "difficulty": "hard",
+    "question": "Care afirmații despre ceramica dentară clasică sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Are la bază feldspat, caolin și cuarț", "correct": true },
+      { "id": "B", "text": "Ceramica dentară are conținut ridicat de feldspat și conținut foarte scăzut de caolin", "correct": true },
+      { "id": "C", "text": "Are două faze: matrice amorfă sticloasă și fază cristalină", "correct": true },
+      { "id": "D", "text": "Este constituită aproape exclusiv din alumino-silicați", "correct": true },
+      { "id": "E", "text": "Conține 50% caolin, la fel ca ceramica menajeră", "correct": false }
+    ],
+    "explanation": "Cursul contrastează ceramica dentară cu cea menajeră: dentara are mult feldspat și foarte puțin/zero caolin.",
+    "source": "PPF Curs 8.pdf, slide PPF integral ceramice - ceramică"
+  },
+  {
+    "id": 3,
+    "topic": "Dinamica luminii",
+    "difficulty": "hard",
+    "question": "Care definiții optice sunt corecte pentru dintele natural și ceramică?",
+    "options": [
+      { "id": "A", "text": "Nuanța definește culoarea în raport cu culorile spectrale", "correct": true },
+      { "id": "B", "text": "Saturația reprezintă intensitatea nuanței", "correct": true },
+      { "id": "C", "text": "Luminozitatea este cantitatea de lumină reflectată de o suprafață", "correct": true },
+      { "id": "D", "text": "Opalescența este aspect diferit în lumină reflectată față de lumina transmisă", "correct": true },
+      { "id": "E", "text": "Fluorescența este blocarea completă a radiațiilor UV fără emisie vizibilă", "correct": false }
+    ],
+    "explanation": "Fluorescența transformă radiațiile UV cu lungime de undă redusă în radiații din spectrul vizibil.",
+    "source": "PPF Curs 8.pdf, slide Dinamica luminii"
+  },
+  {
+    "id": 4,
+    "topic": "Clasificarea PPF integral ceramice",
+    "difficulty": "medium",
+    "question": "Care criterii de clasificare a PPF integral ceramice sunt enumerate?",
+    "options": [
+      { "id": "A", "text": "După configurația sistemului: omogen sau heterogen", "correct": true },
+      { "id": "B", "text": "După numărul componentelor: monolitic sau bicomponent", "correct": true },
+      { "id": "C", "text": "După modul de fabricație: formative, substractive, aditive", "correct": true },
+      { "id": "D", "text": "După compoziția ceramicii", "correct": true },
+      { "id": "E", "text": "După tipul de ciment provizoriu folosit la PPF acrilice", "correct": false }
+    ],
+    "explanation": "Clasificarea din curs este structurală, tehnologică și compozițională, nu după cimentul provizoriu al acrilatelor.",
+    "source": "PPF Curs 8.pdf, slides Clasificarea PPF integral ceramice"
+  },
+  {
+    "id": 5,
+    "topic": "Mod de fabricație",
+    "difficulty": "hard",
+    "question": "Care asocieri privind modul de fabricație sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Tehnici formative: slip cast și turnare nu se mai folosesc; presarea rămâne menționată", "correct": true },
+      { "id": "B", "text": "Tehnici substractive: frezare CAD/CAM", "correct": true },
+      { "id": "C", "text": "Frezarea manuală MAD-MAM nu se mai folosește", "correct": true },
+      { "id": "D", "text": "Tehnici aditive: imprimarea 3D are utilizare experimentală", "correct": true },
+      { "id": "E", "text": "Slip cast este tehnica actuală principală pentru toate PPF din zirconiu", "correct": false }
+    ],
+    "explanation": "Cursul marchează slip cast, turnarea și MAD-MAM ca nefolosite, CAD/CAM ca tehnică subtractivă curentă, iar 3D ca experimentală.",
+    "source": "PPF Curs 8.pdf, slide Clasificare după fabricație"
+  },
+  {
+    "id": 6,
+    "topic": "Compoziția ceramicii",
+    "difficulty": "hard",
+    "question": "Care perechi compoziție-exemplu sunt corecte pentru ceramici integral ceramice?",
+    "options": [
+      { "id": "A", "text": "Ceramică sticloasă cu disilicat de litiu: e.max, Obsidian, Livento, ceraMotion", "correct": true },
+      { "id": "B", "text": "Ceramică sticloasă infiltrată cu alumină și magneziu: InCeram Spinell", "correct": true },
+      { "id": "C", "text": "Ceramică policristalină cu zirconiu stabilizat: InCeram YZ, e.max ZirCAD", "correct": true },
+      { "id": "D", "text": "Ceramică sticloasă cu leucit: Empress I, nefolosită la PPF", "correct": true },
+      { "id": "E", "text": "PMMA autopolimerizabil: ceramică policristalină cu zirconiu", "correct": false }
+    ],
+    "explanation": "PMMA este rășină acrilică, nu ceramică policristalină.",
+    "source": "PPF Curs 8.pdf, slide Clasificare după compoziție"
+  },
+  {
+    "id": 7,
+    "topic": "Avantaje PPF integral ceramice",
+    "difficulty": "medium",
+    "question": "Care sunt avantaje ale PPF integral ceramice?",
+    "options": [
+      { "id": "A", "text": "Aspect estetic foarte asemănător dinților naturali", "correct": true },
+      { "id": "B", "text": "Reproductibilitate mare a culorii dentare și transluciditate crescută", "correct": true },
+      { "id": "C", "text": "Biocompatibilitate crescută și stabilitate a aspectului în timp", "correct": true },
+      { "id": "D", "text": "Suprafețe lucioase care nu favorizează aderența plăcii bacteriene", "correct": true },
+      { "id": "E", "text": "Costuri mici și lustruire intraorală facilă în orice situație", "correct": false }
+    ],
+    "explanation": "Costurile mari și lustruirea intraorală dificilă sunt dezavantaje în curs.",
+    "source": "PPF Curs 8.pdf, slide Avantaje/dezavantaje"
+  },
+  {
+    "id": 8,
+    "topic": "Dezavantaje PPF integral ceramice",
+    "difficulty": "hard",
+    "question": "Care dezavantaje ale PPF integral ceramice sunt menționate?",
+    "options": [
+      { "id": "A", "text": "Rezistență redusă la fractură pentru conector", "correct": true },
+      { "id": "B", "text": "Posibilitatea desprinderii ceramicii de acoperire de pe suport", "correct": true },
+      { "id": "C", "text": "Marginile subțiri sunt greu de obținut", "correct": true },
+      { "id": "D", "text": "Duritate mare de suprafață, cu posibilă abrazie a antagoniștilor dacă suprafața e prelucrată necorespunzător", "correct": true },
+      { "id": "E", "text": "Biocompatibilitate scăzută ca regulă generală", "correct": false }
+    ],
+    "explanation": "Biocompatibilitatea crescută este prezentată ca avantaj, nu dezavantaj.",
+    "source": "PPF Curs 8.pdf, slide Avantaje/dezavantaje"
+  },
+  {
+    "id": 9,
+    "topic": "Indicații",
+    "difficulty": "hard",
+    "question": "Care indicații pentru PPF integral ceramice sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Edentații frontale", "correct": true },
+      { "id": "B", "text": "Edentații laterale de 3 elemente cu PM2 ultim stâlp pentru toate sistemele, cu excepția celor pe suport de zirconiu", "correct": true },
+      { "id": "C", "text": "PPF totală de 14-16 elemente doar din zirconiu", "correct": true },
+      { "id": "D", "text": "Pacienți alergici la aliaje metalice și cu pretenții fizionomice deosebite", "correct": true },
+      { "id": "E", "text": "Pacienți tineri cu cameră pulpară voluminoasă, unde șlefuirea ar putea afecta vitalitatea", "correct": false }
+    ],
+    "explanation": "Pacienții tineri cu cameră pulpară voluminoasă sunt listați la contraindicații, nu indicații.",
+    "source": "PPF Curs 8.pdf, slide Indicații/contraindicații"
+  },
+  {
+    "id": 10,
+    "topic": "Contraindicații",
+    "difficulty": "hard",
+    "question": "Care situații sunt contraindicații pentru PPF integral ceramice?",
+    "options": [
+      { "id": "A", "text": "Parafuncții precum bruxismul sau obiceiuri vicioase care implică dinții", "correct": true },
+      { "id": "B", "text": "Sporturi de contact fără gutieră de protecție", "correct": true },
+      { "id": "C", "text": "Uzură extinsă cu bonturi scurtate", "correct": true },
+      { "id": "D", "text": "Distanță interocluzală limitată și imposibilitatea izolării/uscării câmpului", "correct": true },
+      { "id": "E", "text": "Igienă bună și alergie la aliaje metalice", "correct": false }
+    ],
+    "explanation": "Igiena bună și alergia la aliaje metalice sunt criterii favorabile, nu contraindicații.",
+    "source": "PPF Curs 8.pdf, slide Indicații/contraindicații"
+  },
+  {
+    "id": 11,
+    "topic": "Recomandări materiale",
+    "difficulty": "hard",
+    "question": "Care recomandări de material pentru PPF integral ceramice sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Zirconiul Y-TZP este indicat pentru punți anterioare, posterioare și totale", "correct": true },
+      { "id": "B", "text": "Disilicatul de litiu este indicat pentru punți anterioare și punți posterioare de 3 elemente cu ultimul PM2, nu pentru punți totale", "correct": true },
+      { "id": "C", "text": "Feldspatica poate fi indicată cu schelet Y-TZP în sistem VITA Rapid Layer Technology", "correct": true },
+      { "id": "D", "text": "Obsidian/Amber Press nu sunt indicate pentru punți totale", "correct": true },
+      { "id": "E", "text": "Toate ceramicele sticloase sunt indicate pentru punți totale de 14-16 elemente", "correct": false }
+    ],
+    "explanation": "Cursul rezervă PPF totale pentru zirconiu; disilicatul și celelalte sticloase nu sunt recomandate pentru punți totale.",
+    "source": "PPF Curs 8.pdf, slides Recomandări materiale"
+  },
+  {
+    "id": 12,
+    "topic": "Zirconiu: termeni",
+    "difficulty": "medium",
+    "question": "Care termen corespunde materialului folosit în tehnica dentară pentru PPF din zirconiu?",
+    "options": [
+      { "id": "A", "text": "Zirconiu tetragonal, ceramică ZrO2 + Y2O3, dioxid de zirconiu tetragonal stabilizat parțial cu ytriu", "correct": true },
+      { "id": "B", "text": "Zirconiu metalic Zr folosit în reactoare nucleare", "correct": false },
+      { "id": "C", "text": "Zircon mineral ZrSiO4 pentru materiale refractare", "correct": false },
+      { "id": "D", "text": "Zirconiu cubic pentru bijuterii", "correct": false },
+      { "id": "E", "text": "Caolin menajer cu 50% fază organică", "correct": false }
+    ],
+    "explanation": "Cursul distinge zirconiu metal, zircon mineral, zirconiu cubic și zirconiu tetragonal stabilizat cu ytriu pentru tehnică dentară.",
+    "source": "PPF Curs 8.pdf, slide Zirconiul - termeni"
+  },
+  {
+    "id": 13,
+    "topic": "Faze cristalografice",
+    "difficulty": "hard",
+    "question": "Care afirmații despre fazele cristalografice ale zirconiului sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Faza monoclinică are performanțe mecanice reduse", "correct": true },
+      { "id": "B", "text": "Faza tetragonală are performanțe mecanice superioare", "correct": true },
+      { "id": "C", "text": "Faza cubică are performanțe mecanice moderate", "correct": true },
+      { "id": "D", "text": "Expansiunea volumetrică indusă termic poate genera stres intern și fracturi la răcire", "correct": true },
+      { "id": "E", "text": "Faza cubică are întotdeauna cele mai mari performanțe mecanice pentru conectori", "correct": false }
+    ],
+    "explanation": "Cursul asociază performanța mecanică superioară fazei tetragonale, nu cubice.",
+    "source": "PPF Curs 8.pdf, slide Fazele cristalografice"
+  },
+  {
+    "id": 14,
+    "topic": "Stabilizarea zirconiului",
+    "difficulty": "hard",
+    "question": "Care afirmații despre stabilizarea zirconiului sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Stabilizarea constă în adăugarea unor oxizi pentru menținerea formei tetragonale la temperatura camerei", "correct": true },
+      { "id": "B", "text": "Oxizii menționați includ Y2O3, CaO și MgO", "correct": true },
+      { "id": "C", "text": "Zirconiul stabilizat are rezistență la flexie mare, rezistență la fractură, duritate ridicată și rezistență chimică excelentă", "correct": true },
+      { "id": "D", "text": "Stabilizarea completă poate necesita cantități suficiente de oxizi, de exemplu 8 mol% Y2O3", "correct": true },
+      { "id": "E", "text": "Stabilizarea urmărește transformarea permanentă în caolin amorf", "correct": false }
+    ],
+    "explanation": "Stabilizarea menține faze cristalografice utile ale ZrO2 prin oxizi, nu transformă materialul în caolin.",
+    "source": "PPF Curs 8.pdf, slides Stabilizarea zirconiului"
+  },
+  {
+    "id": 15,
+    "topic": "Mecanism de stopare a fisurii",
+    "difficulty": "hard",
+    "question": "Cum explică cursul comportamentul zirconiului stabilizat la vârful unei fisuri?",
+    "options": [
+      { "id": "A", "text": "Stresul critic transformă structura tetragonală metastabilă în monoclinică mai stabilă", "correct": true },
+      { "id": "B", "text": "Transformarea este asociată cu expansiunea materialului", "correct": true },
+      { "id": "C", "text": "Expansiunea poate închide vârful fisurii și împiedica propagarea", "correct": true },
+      { "id": "D", "text": "Zirconiul stabilizat se comportă identic cu ceramica obișnuită, propagând mereu fisura", "correct": false },
+      { "id": "E", "text": "Fisura este oprită prin topirea locală a feldspatului", "correct": false }
+    ],
+    "explanation": "Mecanismul descris este transformarea tetragonal-monoclinică indusă de stres, cu expansiune locală care închide fisura.",
+    "source": "PPF Curs 8.pdf, slide Zirconiul stabilizat și fisura"
+  },
+  {
+    "id": 16,
+    "topic": "Tipuri de materiale cu ZrO2",
+    "difficulty": "hard",
+    "question": "Care tipuri de materiale cu ZrO2 sunt enumerate în tehnica dentară?",
+    "options": [
+      { "id": "A", "text": "Ceramici ranforsate cu zirconiu - ZTA", "correct": true },
+      { "id": "B", "text": "Zirconiu parțial stabilizat - Mg-PSZ", "correct": true },
+      { "id": "C", "text": "Zirconiu tetragonal policristalin - Y-TZP", "correct": true },
+      { "id": "D", "text": "PMMA termobaropolimerizabil", "correct": false },
+      { "id": "E", "text": "PEMA autopolimerizabil", "correct": false }
+    ],
+    "explanation": "PMMA și PEMA sunt rășini acrilice, nu materiale cu ZrO2 din clasificarea acestui curs.",
+    "source": "PPF Curs 8.pdf, slide Tipuri de materiale cu ZrO2"
+  },
+  {
+    "id": 17,
+    "topic": "Clasificarea zirconiului",
+    "difficulty": "hard",
+    "question": "Care clasificări ale zirconiului sunt corecte?",
+    "options": [
+      { "id": "A", "text": "După forma de fabricare: presat la rece, frezat verde și sinterizat; sau isostatic presat la cald, fără sinterizare în laborator", "correct": true },
+      { "id": "B", "text": "După nuanțare: alb, precolorat sau multistrat", "correct": true },
+      { "id": "C", "text": "După translucență: Translucent, High Translucent, Super Translucent, Extra Translucent", "correct": true },
+      { "id": "D", "text": "Y2O3 păstrează faza tetragonală la temperatura camerei și crește translucența", "correct": true },
+      { "id": "E", "text": "Al2O3 este adăugat pentru a crește acumularea de apă și îmbătrânirea ZrO2", "correct": false }
+    ],
+    "explanation": "Cursul indică Al2O3 ca prevenind îmbătrânirea ZrO2, procesul de acumulare de apă.",
+    "source": "PPF Curs 8.pdf, slides Clasificări ale zirconiului"
+  },
+  {
+    "id": 18,
+    "topic": "Conectori zirconiu",
+    "difficulty": "hard",
+    "question": "Care afirmații despre conectorii PPF din zirconiu sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Suprafața mucozală a conectorilor este supusă forțelor de încovoiere în funcție", "correct": true },
+      { "id": "B", "text": "Pentru integral ceramice se iau în calcul nu doar secțiunea, ci și forma, lungimea și lățimea conectorilor", "correct": true },
+      { "id": "C", "text": "Dimensiunea tradițională a conectorilor este 9 și 15 mm2 în funcție de zonă", "correct": true },
+      { "id": "D", "text": "Raportul dintre înălțimea și lățimea conectorului trebuie să fie mai mare de 5:4", "correct": true },
+      { "id": "E", "text": "Ceramicile rezistă foarte bine la încovoiere, deci conectorii nu contează", "correct": false }
+    ],
+    "explanation": "Cursul subliniază fragilitatea ceramicilor la încovoiere și importanța conectorilor.",
+    "source": "PPF Curs 8.pdf, slides Indicații pentru zirconiu - conectori"
+  },
+  {
+    "id": 19,
+    "topic": "Protocol Y-TZP alb",
+    "difficulty": "hard",
+    "question": "Care pași apar în protocolul de lucru pentru PPF din Y-TZP alb?",
+    "options": [
+      { "id": "A", "text": "Scanare de laborator, design CAD și planificarea frezării CAM", "correct": true },
+      { "id": "B", "text": "Frezare uscată în stadiul presinterizat", "correct": true },
+      { "id": "C", "text": "Sinterizare la 1450-1550 grade C", "correct": true },
+      { "id": "D", "text": "Sablarea suprafeței interne și aplicarea primerului înainte de probă/cimentare", "correct": true },
+      { "id": "E", "text": "Autopolimerizarea monomerului PMMA în conformator Scutan", "correct": false }
+    ],
+    "explanation": "Protocolul Y-TZP este CAD/CAM, frezare presinterizată, sinterizare, colorare/glazurare și pregătire internă; PMMA Scutan aparține PPF acrilice.",
+    "source": "PPF Curs 8.pdf, slide Protocol PPF din Y-TZP alb"
+  },
+  {
+    "id": 20,
+    "topic": "Frezare Y-TZP presinterizat",
+    "difficulty": "hard",
+    "question": "Care reguli sunt corecte pentru frezarea Y-TZP presinterizat?",
+    "options": [
+      { "id": "A", "text": "Materialul presinterizat se comportă ca o cretă/zahăr cubic, absoarbe lichide și este foarte fragil", "correct": true },
+      { "id": "B", "text": "Trebuie respectat factorul de compensare a contracției, V-Factor 20-25%, diferit pentru fiecare disc", "correct": true },
+      { "id": "C", "text": "Frezarea se face doar uscat, sub aer comprimat, cu viteză mică de avans", "correct": true },
+      { "id": "D", "text": "Se folosesc minimum două freze: una de diametru mare pentru grosier și una mică pentru finisare", "correct": true },
+      { "id": "E", "text": "Frezarea umedă este obligatorie pentru a evita absorbția lichidelor", "correct": false }
+    ],
+    "explanation": "Cursul precizează explicit frezare uscată pentru Y-TZP presinterizat, sub jet de aer comprimat.",
+    "source": "PPF Curs 8.pdf, slide Etapa CAM - frezare Y-TZP"
+  },
+  {
+    "id": 21,
+    "topic": "Prelucrare presinterizare",
+    "difficulty": "hard",
+    "question": "Care manopere sunt corecte înainte de colorare/sinterizare la Y-TZP?",
+    "options": [
+      { "id": "A", "text": "Secționarea suporturilor treptat cu freză de carbid efilată", "correct": true },
+      { "id": "B", "text": "Îndepărtarea suportului din aproape în aproape, fără presiune, cu freză de carbid conică", "correct": true },
+      { "id": "C", "text": "Subțierea marginilor și îndepărtarea urmelor de frezare cu polipant siliconic ultrafin", "correct": true },
+      { "id": "D", "text": "Separarea conectorilor cu disc diamantat ascuțit, nu metalic", "correct": true },
+      { "id": "E", "text": "Atingerea lucrării cu mâinile grase pentru a crește pigmentarea", "correct": false }
+    ],
+    "explanation": "Lucrarea presinterizată se atinge doar cu mănuși sau după spălare pe mâini, deoarece se poate impurifica de la grăsimi.",
+    "source": "PPF Curs 8.pdf, slides Prelucrare înainte de colorare/sinterizare"
+  },
+  {
+    "id": 22,
+    "topic": "Colorarea Y-TZP",
+    "difficulty": "hard",
+    "question": "Care afirmații despre colorarea Y-TZP sunt corecte?",
+    "options": [
+      { "id": "A", "text": "La imersie, corpul de punte poate necesita lichid mai mult deoarece este mai gros", "correct": true },
+      { "id": "B", "text": "PPF se introduce în lichid cu pensetă de plastic, între 5 secunde și 2 minute conform producătorului", "correct": true },
+      { "id": "C", "text": "Penseta metalică oxidează", "correct": true },
+      { "id": "D", "text": "Aplicarea selectivă de colorant poate crea efecte 3D, iar nuanțe mai închise se obțin prin straturi multiple", "correct": true },
+      { "id": "E", "text": "După colorare, uscarea nu este necesară indiferent de metodă", "correct": false }
+    ],
+    "explanation": "Cursul precizează că indiferent de metoda de colorare este necesară uscarea.",
+    "source": "PPF Curs 8.pdf, slides Colorarea Y-TZP"
+  },
+  {
+    "id": 23,
+    "topic": "Condiții pentru zirconiu",
+    "difficulty": "hard",
+    "question": "Care două condiții pentru PPF din zirconiu sunt formulate corect în curs?",
+    "options": [
+      { "id": "A", "text": "Zirconiul trebuie să aibă compatibilitate cu cimenturile pentru fixare", "correct": true },
+      { "id": "B", "text": "Zirconiul trebuie să prezinte conductibilitate termică redusă", "correct": true },
+      { "id": "C", "text": "Zirconiul este prezentat ca ușor reoptimizabil și reparabil", "correct": false },
+      { "id": "D", "text": "Zirconiul trebuie să fie citotoxic pentru fibroblaste", "correct": false },
+      { "id": "E", "text": "Zirconiul nu trebuie să fie acceptat de pacient", "correct": false }
+    ],
+    "explanation": "Cursul cere compatibilitate cu cimenturile și conductibilitate termică redusă; reoptimizarea/repararea ușoară este marcată negativ.",
+    "source": "PPF Curs 8.pdf, slide Condiții necesare pentru PPF din zirconiu"
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "id": 1,
+    "topic": "Definiție și indicație",
+    "difficulty": "medium",
+    "question": "Care afirmație descrie corect PPF acrilice din curs?",
+    "options": [
+      { "id": "A", "text": "Sunt PPF realizate prin polimerizare, prin metode directe sau indirecte, indicate în general ca punți provizorii", "correct": true },
+      { "id": "B", "text": "Sunt PPF metalice definitive obținute exclusiv prin turnare centrifugă", "correct": false },
+      { "id": "C", "text": "Sunt utilizate doar după finalizarea PPF de lungă durată", "correct": false },
+      { "id": "D", "text": "Sunt restaurări provizorii numai pentru protezarea mobilizabilă", "correct": false },
+      { "id": "E", "text": "Sunt indicate exclusiv pentru imobilizare ortodontică, nu pentru protezare provizorie", "correct": false }
+    ],
+    "explanation": "Cursul definește PPF acrilice ca lucrări realizate prin polimerizare, direct/indirect, aplicate provizoriu în perioada confecționării PPF de lungă durată.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slide PPF Acrilice - definiție"
+  },
+  {
+    "id": 2,
+    "topic": "Clasificare după durată și metodă",
+    "difficulty": "hard",
+    "question": "Care clasificări rapide ale PPF acrilice sunt corecte?",
+    "options": [
+      { "id": "A", "text": "De scurtă durată: menținute pe câmp maxim 2 săptămâni", "correct": true },
+      { "id": "B", "text": "De lungă durată: menținute pe câmp maxim 2-3 ani", "correct": true },
+      { "id": "C", "text": "Directe: realizate în cabinet", "correct": true },
+      { "id": "D", "text": "Indirecte: realizate în laborator", "correct": true },
+      { "id": "E", "text": "Direct-indirecte: realizate numai industrial, fără intervenția cabinetului sau laboratorului", "correct": false }
+    ],
+    "explanation": "Clasificarea din curs include durata scurtă/lungă și metoda directă, indirectă sau direct-indirectă, aceasta din urmă combinând cabinetul și laboratorul.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slide PPF Acrilice - clasificare rapidă"
+  },
+  {
+    "id": 3,
+    "topic": "Obiective biologice",
+    "difficulty": "medium",
+    "question": "Care sunt obiectivele biologice enumerate pentru PPF provizorie acrilică?",
+    "options": [
+      { "id": "A", "text": "Protecția pulpară", "correct": true },
+      { "id": "B", "text": "Protecția mecanică a bontului", "correct": true },
+      { "id": "C", "text": "Protecția parodonțiului marginal", "correct": true },
+      { "id": "D", "text": "Menținerea funcției ocluzale și stabilitatea pozițională", "correct": true },
+      { "id": "E", "text": "Obținerea contracției de solidificare a aliajului", "correct": false }
+    ],
+    "explanation": "Obiectivele biologice sunt protecția pulpară, mecanică, parodontală, menținerea funcției ocluzale și stabilitatea pozițională. Contracția aliajului ține de turnare metalică.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slide Obiective biologice"
+  },
+  {
+    "id": 4,
+    "topic": "Protecția pulpară",
+    "difficulty": "hard",
+    "question": "După prepararea țesuturilor dentare, prin ce mecanisme trebuie PPF provizorie să contribuie la protecția pulpară?",
+    "options": [
+      { "id": "A", "text": "Prin protecție față de insulte termice, folosind materiale termoizolante", "correct": true },
+      { "id": "B", "text": "Prin protecție față de insulte chimice/variații de pH, prin bună adaptare marginală", "correct": true },
+      { "id": "C", "text": "Prin expunerea controlată a canaliculilor dentinari la mediul bucal", "correct": false },
+      { "id": "D", "text": "Prin reducerea deliberată a adaptării marginale pentru drenaj", "correct": false },
+      { "id": "E", "text": "Prin eliminarea completă a contururilor axiale", "correct": false }
+    ],
+    "explanation": "Canaliculii dentinari expuși pot genera dureri; protecția se face termic și chimic, prin materiale termoizolante și adaptare marginală bună.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slide Obiective biologice - protecția pulpară"
+  },
+  {
+    "id": 5,
+    "topic": "Protecția parodonțiului marginal",
+    "difficulty": "hard",
+    "question": "Care relație între conturul PPF provizorii și răspunsul parodontal este corectă?",
+    "options": [
+      { "id": "A", "text": "PPF provizorie trebuie să refacă contururile axiale la nivelul convexităților maxime", "correct": true },
+      { "id": "B", "text": "Supraconturarea PPF provizorii poate produce retracție gingivală", "correct": true },
+      { "id": "C", "text": "Infraconturarea PPF provizorii poate produce inflamație gingivală", "correct": true },
+      { "id": "D", "text": "Parodonțiul marginal nu este influențat de preparare sau amprentare", "correct": false },
+      { "id": "E", "text": "Contururile axiale se elimină pentru a evita orice contact gingival", "correct": false }
+    ],
+    "explanation": "Cursul leagă protecția parodonțiului de refacerea corectă a contururilor axiale; supraconturarea și infraconturarea au efecte diferite.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slide Obiective biologice - parodonțiu marginal"
+  },
+  {
+    "id": 6,
+    "topic": "Funcție ocluzală și stabilitate",
+    "difficulty": "medium",
+    "question": "Care afirmații descriu rolul PPF provizorii în menținerea funcției ocluzale și stabilității poziționale?",
+    "options": [
+      { "id": "A", "text": "Restabilește contactele cu antagoniștii pentru masticație și menținerea poziției acestora", "correct": true },
+      { "id": "B", "text": "Poate fi utilizată pentru modificarea terapeutică a rapoartelor ocluzale, de exemplu DVO", "correct": true },
+      { "id": "C", "text": "Reface contactele și menține spațiul restaurării permanente", "correct": true },
+      { "id": "D", "text": "Previne migrările verticale și orizontale ale bontului", "correct": true },
+      { "id": "E", "text": "Favorizează pierderea contactelor pentru a permite migrarea dentară compensatorie", "correct": false }
+    ],
+    "explanation": "PPF provizorie restabilește contacte ocluzale și proxime, menține spațiul și poate ghida terapeutic rapoartele ocluzale.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slides Obiective biologice - ocluzie/stabilitate"
+  },
+  {
+    "id": 7,
+    "topic": "Obiective mecanice",
+    "difficulty": "hard",
+    "question": "Care afirmații despre obiectivele mecanice ale PPF acrilice sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Trebuie să aibă suficientă rezistență pentru solicitările funcționale", "correct": true },
+      { "id": "B", "text": "Trebuie să reziste la fractură și deformare", "correct": true },
+      { "id": "C", "text": "Trebuie să reziste la îndepărtarea de pe dintele preparat pentru readaptare", "correct": true },
+      { "id": "D", "text": "PPF acrilică are rezistență de aproximativ 20 ori mai mică decât PPF metalică", "correct": true },
+      { "id": "E", "text": "Rezistența mecanică este superioară PPF metalice, deci nu necesită reoptimizări", "correct": false }
+    ],
+    "explanation": "Cursul subliniază rezistența redusă a acrilatului față de metal și necesitatea rezistenței la funcție, dezinserție și readaptare.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slide Obiective mecanice"
+  },
+  {
+    "id": 8,
+    "topic": "Obiective estetice",
+    "difficulty": "hard",
+    "question": "Care afirmații despre obiectivele estetice ale PPF provizorii sunt susținute de curs?",
+    "options": [
+      { "id": "A", "text": "Restabilește estetica mai ales în zona frontală și premolară", "correct": true },
+      { "id": "B", "text": "Poate simula culoarea viitoarei PPF de lungă durată", "correct": true },
+      { "id": "C", "text": "Stabilitatea cromatică depinde de metoda de polimerizare și de prelucrarea mecanică", "correct": true },
+      { "id": "D", "text": "Transluciditatea depinde de culoarea bontului și de cimentul utilizat", "correct": true },
+      { "id": "E", "text": "Forma și textura nu pot fi modificate după solicitările pacientului", "correct": false }
+    ],
+    "explanation": "Cursul prezintă PPF provizorie ca instrument estetic și funcțional, cu posibilitatea de modificări facile și rol de ghid fonetic frontal.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slides Obiective estetice"
+  },
+  {
+    "id": 9,
+    "topic": "Clasificare după scop",
+    "difficulty": "hard",
+    "question": "Care asociere între tipul PPF provizorii și scopul utilizării este corectă?",
+    "options": [
+      { "id": "A", "text": "De urgență - protezare provizorie posttraumatică a breșelor frontale, fracturilor coronare sau extracțiilor frontale", "correct": true },
+      { "id": "B", "text": "De protecție - indicată când intervenția terapeutică, nu patologia specifică, impune protezare provizorie", "correct": true },
+      { "id": "C", "text": "De testare - permite verificarea elementelor fizionomice, fonatorii și ocluzale pentru restaurarea finală", "correct": true },
+      { "id": "D", "text": "De așteptare - funcționează un timp mai lung din cauza dificultăților realizării restaurării finale", "correct": true },
+      { "id": "E", "text": "De urgență - este folosită exclusiv pentru încărcarea progresivă a implantelor", "correct": false }
+    ],
+    "explanation": "Încărcarea progresivă a implantelor este menționată la PPF postimplantare din categoria de așteptare, nu la PPF de urgență.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slide Clasificare după scop"
+  },
+  {
+    "id": 10,
+    "topic": "PPF de așteptare",
+    "difficulty": "medium",
+    "question": "Care exemple sunt incluse în categoria PPF de așteptare/temporizare?",
+    "options": [
+      { "id": "A", "text": "Menținătoare de spațiu fixe cimentate", "correct": true },
+      { "id": "B", "text": "PPF de imobilizare parodontală", "correct": true },
+      { "id": "C", "text": "PPF postchirurgicale", "correct": true },
+      { "id": "D", "text": "PPF postimplantare și postortodontice", "correct": true },
+      { "id": "E", "text": "Creuzete ceramice pentru aliaje Ni-Cr", "correct": false }
+    ],
+    "explanation": "Cursul enumeră menținătoare de spațiu, imobilizare parodontală, postchirurgicale, postimplantare și postortodontice ca PPF de așteptare.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slide PPF de așteptare"
+  },
+  {
+    "id": 11,
+    "topic": "Avantaje și dezavantaje",
+    "difficulty": "hard",
+    "question": "Care enunțuri sunt avantaje reale ale PPF acrilice, conform cursului?",
+    "options": [
+      { "id": "A", "text": "Timp redus de execuție", "correct": true },
+      { "id": "B", "text": "Metodă simplă de realizare și fără aparatură costisitoare", "correct": true },
+      { "id": "C", "text": "Nu impun îndepărtarea unei cantități mari de substanță dură la nivelul dinților stâlpi", "correct": true },
+      { "id": "D", "text": "Pot fi reparate cu ușurință și au preț redus de manufacturare", "correct": true },
+      { "id": "E", "text": "Au rezistență mecanică ridicată la abrazie și fractură", "correct": false }
+    ],
+    "explanation": "Rezistența mecanică redusă la abrazie și fractură este dezavantaj, nu avantaj.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slide Avantaje/Dezavantaje"
+  },
+  {
+    "id": 12,
+    "topic": "Dezavantaje",
+    "difficulty": "hard",
+    "question": "Care sunt dezavantaje ale PPF acrilice menționate în curs?",
+    "options": [
+      { "id": "A", "text": "Structură poroasă care permite impregnarea cu pigmenți din mediul oral", "correct": true },
+      { "id": "B", "text": "Marginile placofile ale coroanelor pot induce inflamații gingivale", "correct": true },
+      { "id": "C", "text": "Stabilitate volumetrică redusă", "correct": true },
+      { "id": "D", "text": "Absorbția apei și elasticitatea crescută favorizează descimentarea", "correct": true },
+      { "id": "E", "text": "Necesită întotdeauna mai multă substanță dură îndepărtată decât restaurările metalice definitive", "correct": false }
+    ],
+    "explanation": "Cursul listează porozitatea, inflamația gingivală, stabilitatea volumetrică redusă, absorbția apei și elasticitatea ca dezavantaje.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slide Avantaje/Dezavantaje"
+  },
+  {
+    "id": 13,
+    "topic": "Condiții pentru materiale",
+    "difficulty": "medium",
+    "question": "Care condiții sunt cerute materialelor pentru PPF acrilice provizorii?",
+    "options": [
+      { "id": "A", "text": "Biocompatibilitate, fără toxicitate sau alergii", "correct": true },
+      { "id": "B", "text": "Stabilitate cromatică și rezistență la uzură în timpul funcțiilor", "correct": true },
+      { "id": "C", "text": "Compatibilitate cu cimenturile pentru fixare provizorie", "correct": true },
+      { "id": "D", "text": "Conductibilitate termică redusă și stabilitate dimensională la întărire", "correct": true },
+      { "id": "E", "text": "Miros iritant și timp de lucru imposibil de controlat", "correct": false }
+    ],
+    "explanation": "Materialele trebuie să fie biocompatibile, stabile, compatibile, termoizolante, ușor de preparat și acceptate de pacient.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slide Condiții necesare pentru materiale"
+  },
+  {
+    "id": 14,
+    "topic": "Materiale",
+    "difficulty": "hard",
+    "question": "Care clasificări ale materialelor pentru PPF acrilice sunt corecte?",
+    "options": [
+      { "id": "A", "text": "După compoziție: rășini acrilice, policarbonate, diacrilice compozite, armate cu fibre de sticlă", "correct": true },
+      { "id": "B", "text": "După mecanismul de polimerizare: autopolimerizabile, termopolimerizabile, fotopolimerizabile, duale", "correct": true },
+      { "id": "C", "text": "Rășinile acrilice sunt prezentate ca autopolimerizabile și termopolimerizabile", "correct": true },
+      { "id": "D", "text": "Materialele sunt clasificate doar după culoare, nu după compoziție sau polimerizare", "correct": false },
+      { "id": "E", "text": "Rășinile armate cu fibre de sticlă sunt excluse din curs", "correct": false }
+    ],
+    "explanation": "Cursul clasifică materialele după compoziție chimică și mecanism de polimerizare, incluzând și rășinile armate cu fibre de sticlă.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slide Materiale"
+  },
+  {
+    "id": 15,
+    "topic": "Rășini acrilice",
+    "difficulty": "medium",
+    "question": "Ce caracteristică este atribuită PEMA față de PMMA în curs?",
+    "options": [
+      { "id": "A", "text": "Timp de lucru prelungit, stabilitate cromatică mai bună și rezistență mai mare", "correct": true },
+      { "id": "B", "text": "Structură metalică turnată prin inducție", "correct": false },
+      { "id": "C", "text": "Imposibilitatea folosirii în sisteme bicomponente", "correct": false },
+      { "id": "D", "text": "Obligativitatea autoclavării înainte de fiecare utilizare", "correct": false },
+      { "id": "E", "text": "Utilizare doar ca hârtie de tapetare a conformatorului", "correct": false }
+    ],
+    "explanation": "Cursul menționează PEMA ca având timp de lucru prelungit, stabilitate cromatică și rezistență mai bune.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slide Rășini acrilice"
+  },
+  {
+    "id": 16,
+    "topic": "Rășini policarbonate",
+    "difficulty": "hard",
+    "question": "Care afirmații despre rășinile policarbonate sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Se prezintă ca forme anatomice de punți în diferite mărimi pentru utilizare directă în cabinet", "correct": true },
+      { "id": "B", "text": "Sunt derivați de condensare ai acidului carbonic", "correct": true },
+      { "id": "C", "text": "Sunt polimeri termoplastici și reversibili, prelucrați industrial prin injectare", "correct": true },
+      { "id": "D", "text": "Sunt superioare rășinilor acrilice, cu structură densă, fără pori, și pot fi autoclavate", "correct": true },
+      { "id": "E", "text": "Sunt pulberi metalice utilizate pentru fuziunea patului cu pulberi", "correct": false }
+    ],
+    "explanation": "Rășinile policarbonate sunt prezentate ca materiale prefabricate de cabinet, dense, fără pori și autoclavabile.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slides Rășini policarbonate"
+  },
+  {
+    "id": 17,
+    "topic": "Tehnici de realizare",
+    "difficulty": "hard",
+    "question": "Care tehnici sunt încadrate corect în realizarea PPF acrilice?",
+    "options": [
+      { "id": "A", "text": "Directe: PPF prefabricate din rășini policarbonate, Scutan, modelare în bloc, CAD/CAM in-office, printare 3D", "correct": true },
+      { "id": "B", "text": "Indirecte: Scutan, conformator din folie termoplastică, tehnica ruloului, tehnica clasică, CAD/CAM in-lab, printare 3D", "correct": true },
+      { "id": "C", "text": "Direct-indirectă: tehnica carcasei/shell", "correct": true },
+      { "id": "D", "text": "Directe: numai ambalarea în masă de fosfați și turnarea Ni-Cr", "correct": false },
+      { "id": "E", "text": "Indirecte: numai topire cu flacără oxihidrică", "correct": false }
+    ],
+    "explanation": "Cursul separă tehnicile directe, indirecte și direct-indirecte; turnarea metalică nu este tehnică de realizare a PPF acrilice.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slide Tehnici de realizare"
+  },
+  {
+    "id": 18,
+    "topic": "Tehnica ruloului",
+    "difficulty": "hard",
+    "question": "Care pași aparțin modelării indirecte „în bloc” (tehnica ruloului)?",
+    "options": [
+      { "id": "A", "text": "Turnarea modelului de lucru și antagonistului, apoi montarea în simulator", "correct": true },
+      { "id": "B", "text": "Izolarea modelului de lucru cu Isodent/Pectizol", "correct": true },
+      { "id": "C", "text": "Obținerea pastei de RA prin combinare monomer-polimer, cu fazele lichidă, vâscoasă, tras în fire și cocă", "correct": true },
+      { "id": "D", "text": "Aplicarea RA în faza de cocă sub formă de rulou peste dinții stâlpi și creasta edentată", "correct": true },
+      { "id": "E", "text": "Frezarea industrială a unui bloc PMMA monocrom/policrom", "correct": false }
+    ],
+    "explanation": "Tehnica ruloului folosește RA autopolimerizabilă aplicată pe model izolat și modelată ulterior cu micromotorul; frezarea blocului ține de CAD/CAM.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slide Modelarea în bloc"
+  },
+  {
+    "id": 19,
+    "topic": "Tehnica Scutan",
+    "difficulty": "hard",
+    "question": "Care afirmații despre tehnica conformatorului amprentă (Scutan) sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Necesită o amprentă înainte de prepararea dinților sau confecționarea unei machete din ceară", "correct": true },
+      { "id": "B", "text": "Conformatorul reproduce negativ forma dinților înainte de preparare sau forma machetelor", "correct": true },
+      { "id": "C", "text": "Se poate obține din materiale elastice de amprentă, preferabil putty", "correct": true },
+      { "id": "D", "text": "Pasta de RA se introduce în amprentă în faza de cocă și se poziționează peste modelul duplicat", "correct": true },
+      { "id": "E", "text": "Este o tehnică de turnare metalică în care conformatorul devine creuzet", "correct": false }
+    ],
+    "explanation": "Scutan folosește un conformator-amprentă și RA termopolimerizabilă, nu topirea sau turnarea aliajului.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slide Tehnica conformatorului amprentă (Scutan)"
+  },
+  {
+    "id": 20,
+    "topic": "Conformator din folie termoplastică",
+    "difficulty": "hard",
+    "question": "Care afirmații despre tehnica conformatorului din folie termoplastică sunt susținute de curs?",
+    "options": [
+      { "id": "A", "text": "Necesită o amprentă a câmpului protetic înainte de prepararea dinților", "correct": true },
+      { "id": "B", "text": "Folia poate fi din acetat de celuloză sau polipropilenă rigidă", "correct": true },
+      { "id": "C", "text": "Grosimea minimă este 0,5 mm, recomandabil 0,9-1 mm", "correct": true },
+      { "id": "D", "text": "Foliile au pereți subțiri și transparenți și permit RA termopolimerizabilă sau fotopolimerizabilă", "correct": true },
+      { "id": "E", "text": "Folia se topește împreună cu aliajul în creuzet", "correct": false }
+    ],
+    "explanation": "Folia termoplastică este încălzită și adaptată pe model sub vid sau presiune, apoi folosită ca conformator pentru RA.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slide Tehnica conformatorului din folie termoplastică"
+  },
+  {
+    "id": 21,
+    "topic": "Tehnica clasică acrilică",
+    "difficulty": "hard",
+    "question": "Care afirmații despre tehnica clasică (machetă + ambalare) pentru PPF acrilică sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Necesită realizarea unei machete a PPF provizorii din ceară albă sau roz", "correct": true },
+      { "id": "B", "text": "Macheta este ambalată în gips de clasa a II-a prin tehnică orizontală sau verticală", "correct": true },
+      { "id": "C", "text": "Permite utilizarea RA termopolimerizabile sau termobaropolimerizabile", "correct": true },
+      { "id": "D", "text": "Este metoda cu cel mai lung timp de manufacturare", "correct": true },
+      { "id": "E", "text": "Nu implică machetă și nu presupune deschiderea tiparului pentru lavajul cerii", "correct": false }
+    ],
+    "explanation": "Tehnica clasică presupune machetă, ambalare, fierbere/lavaj ceară, introducere RA, presare, polimerizare, dezambalare și finisare.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slide Tehnica clasică"
+  },
+  {
+    "id": 22,
+    "topic": "Ambalare orizontală vs verticală",
+    "difficulty": "hard",
+    "question": "Care comparație între ambalarea orizontală și verticală este corectă?",
+    "options": [
+      { "id": "A", "text": "Ambalarea orizontală expune integral suprafața vestibulară și permite nuanțarea culorilor la acest nivel", "correct": true },
+      { "id": "B", "text": "Ambalarea orizontală are acces limitat pe suprafețele orale/proximale și risc de fractură a bonturilor la desfacerea cuvetei", "correct": true },
+      { "id": "C", "text": "Ambalarea verticală permite îndepărtarea cerii, izolarea tiparului și introducerea RA fără risc de fractură a bonturilor", "correct": true },
+      { "id": "D", "text": "Ambalarea verticală are nuanțare dificilă și risc de creștere a înălțimii PPF prin închiderea improprie a cuvetei", "correct": true },
+      { "id": "E", "text": "Ambalarea verticală este singura care permite nuanțarea extinsă vestibulară", "correct": false }
+    ],
+    "explanation": "Cursul prezintă avantajele/dezavantajele distincte ale ambalării orizontale și verticale; nuanțarea vestibulară este avantaj al orizontalei.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slides Ambalare orizontală/verticală"
+  },
+  {
+    "id": 23,
+    "topic": "CAD/CAM și printare 3D",
+    "difficulty": "hard",
+    "question": "Care afirmații despre tehnicile digitale indirecte pentru PPF provizorie sunt corecte?",
+    "options": [
+      { "id": "A", "text": "CAD/CAM in-lab realizează digital macheta pe baza unei amprente clasice sau digitale și obține restaurarea prin frezare într-un bloc", "correct": true },
+      { "id": "B", "text": "Blocurile acrilice pot fi monocrome sau policrome și pot fi specifice unor mașini ori universale pentru arhitectură deschisă", "correct": true },
+      { "id": "C", "text": "Printarea 3D obține restaurarea prin adiție strat cu strat de material", "correct": true },
+      { "id": "D", "text": "Printarea 3D folosește rășini acrilice fotopolimerizabile cu lungime de undă 390-405 nm", "correct": true },
+      { "id": "E", "text": "Printarea 3D pentru această aplicație este descrisă ca turnare centrifugă în masă de fosfați", "correct": false }
+    ],
+    "explanation": "Tehnicile digitale sunt frezarea CAD/CAM și printarea 3D prin fotopolimerizare în cuvă (SLA/DLP), nu turnare metalică.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slides CAD/CAM și printare 3D"
+  },
+  {
+    "id": 24,
+    "topic": "Tehnica carcasei",
+    "difficulty": "hard",
+    "question": "Care descriere a tehnicii carcasei (shell) este corectă?",
+    "options": [
+      { "id": "A", "text": "Îmbină tehnica indirectă cu tehnica directă și permite cimentarea provizorie în aceeași ședință cu prepararea dinților", "correct": true },
+      { "id": "B", "text": "Necesită amprentă inițială înainte de preparare, model de studiu și realizarea în laborator a unei PPF provizorii pe model preparat conservativ", "correct": true },
+      { "id": "C", "text": "Medicul verifică pasivitatea, poate modifica preparația/lucrarea și capușește cu RA autopolimerizabilă de cabinet", "correct": true },
+      { "id": "D", "text": "Excesul de ciment provizoriu se îndepărtează; conectorii pot fi acoperiți cu bandă de teflon pentru îndepărtare facilă", "correct": true },
+      { "id": "E", "text": "Este o tehnică exclusiv de laborator, fără adaptare clinică și fără captușire", "correct": false }
+    ],
+    "explanation": "Shell technique combină laboratorul și cabinetul: laboratorul fabrică carcasa, iar medicul o adaptează/captușește și o cimentează provizoriu.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slides Tehnica carcasei"
+  },
+  {
+    "id": 25,
+    "topic": "Ranforsarea PPF acrilice",
+    "difficulty": "medium",
+    "question": "Care metodă simplă de ranforsare a PPF acrilice este menționată în curs?",
+    "options": [
+      { "id": "A", "text": "Plasarea unui segment de sârmă de Wipla de 0,7-1 mm în interiorul corpului de punte", "correct": true },
+      { "id": "B", "text": "Adăugarea unui canal principal de turnare în fiecare cuspide", "correct": false },
+      { "id": "C", "text": "Înlocuirea RA cu masă de ambalat pe bază de silicați", "correct": false },
+      { "id": "D", "text": "Acoperirea completă cu acid fluorhidric pentru durificare", "correct": false },
+      { "id": "E", "text": "Reducerea corpului de punte până la eliminarea feței mucozale", "correct": false }
+    ],
+    "explanation": "Cursul precizează că metoda simplă de ranforsare este introducerea unei sârme Wipla de 0,7-1 mm în corpul de punte.",
+    "source": "PPF-Curs 6- PPF Acrilica2026-descarcare.pdf, slide Ranforsarea"
+  }
+]

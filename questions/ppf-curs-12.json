@@ -1,0 +1,407 @@
+[
+  {
+    "id": 1,
+    "topic": "PPF metalo-acrilice",
+    "difficulty": "medium",
+    "question": "Care afirmație definește corect PPF metalo-acrilice?",
+    "options": [
+      { "id": "A", "text": "Sunt lucrări conjuncte cu substrat metalic de rezistență și înveliș exterior acrilic estetic, care acoperă doar parțial infrastructura", "correct": true },
+      { "id": "B", "text": "Sunt PPF integral ceramice realizate prin sinterizare Y-TZP", "correct": false },
+      { "id": "C", "text": "Sunt PPF fără metal, cu strat compozit full-contur", "correct": false },
+      { "id": "D", "text": "Au legătură chimică principală acrilat-metal prin silanizare", "correct": false },
+      { "id": "E", "text": "Sunt exclusiv PPF de zirconiu monolitic", "correct": false }
+    ],
+    "explanation": "Cursul definește PPF metalo-acrilice ca substrat metalic plus acrilat, cu legătură pur mecanică de retenție a acrilatului la metal.",
+    "source": "PPF Curs 12.pdf, slide PPF metalo-acrilice - definiție"
+  },
+  {
+    "id": 2,
+    "topic": "Materiale acrilice",
+    "difficulty": "hard",
+    "question": "Care afirmații despre rășinile acrilice pentru PPF metalo-acrilice sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Rășinile autopolimerizabile sunt utilizate rar pentru PPF mixte", "correct": true },
+      { "id": "B", "text": "Rășinile pot fi termopolimerizabile", "correct": true },
+      { "id": "C", "text": "Pot fi sisteme bicomponente pulbere-polimer și lichid-monomer sau pastă în seringi", "correct": true },
+      { "id": "D", "text": "PMMA și PEMA sunt compoziții menționate", "correct": true },
+      { "id": "E", "text": "PEMA are timp de lucru mai scurt și stabilitate cromatică mai slabă decât PMMA", "correct": false }
+    ],
+    "explanation": "PEMA este prezentat cu timp de lucru prelungit, stabilitate cromatică și rezistență mai bune.",
+    "source": "PPF Curs 12.pdf, slide PPF metalo-acrilice - materiale"
+  },
+  {
+    "id": 3,
+    "topic": "Indicații metalo-acrilice",
+    "difficulty": "hard",
+    "question": "Care sunt indicații ale PPF metalo-acrilice?",
+    "options": [
+      { "id": "A", "text": "Pacienți care nu își permit soluții mai scumpe precum metalo-ceramică sau integral ceramică", "correct": true },
+      { "id": "B", "text": "Pacienți cu pretenții fizionomice medii sau scăzute", "correct": true },
+      { "id": "C", "text": "PPF Maryland în zona incisivilor, când nu se dorește șlefuirea dinților sănătoși pentru un incisiv absent", "correct": true },
+      { "id": "D", "text": "PPF adezive cu rol de imobilizare a unor dinți parodontotici", "correct": true },
+      { "id": "E", "text": "Pacienți cu pretenții estetice ridicate și parafuncții intense", "correct": false }
+    ],
+    "explanation": "Pretențiile estetice ridicate și parafuncțiile/forțele masticatorii crescute sunt contraindicații.",
+    "source": "PPF Curs 12.pdf, slide Indicații/contraindicații metalo-acrilice"
+  },
+  {
+    "id": 4,
+    "topic": "Contraindicații metalo-acrilice",
+    "difficulty": "medium",
+    "question": "Care contraindicații pentru PPF metalo-acrilice sunt menționate?",
+    "options": [
+      { "id": "A", "text": "Pacienți cu pretenții estetice ridicate", "correct": true },
+      { "id": "B", "text": "Pacienți cu parafuncții sau forțe masticatorii ridicate", "correct": true },
+      { "id": "C", "text": "Tineri sub 20 de ani, din cauza camerei pulpare mari", "correct": true },
+      { "id": "D", "text": "Cazuri sociale cu lucrări metalo-acrilice existente", "correct": false },
+      { "id": "E", "text": "Ocluzii adânci unde PPF fizionomică nu rezistă", "correct": false }
+    ],
+    "explanation": "Cazurile sociale și ocluziile adânci cu spațiu protetic micșorat sunt indicate, nu contraindicate.",
+    "source": "PPF Curs 12.pdf, slide Indicații/contraindicații metalo-acrilice"
+  },
+  {
+    "id": 5,
+    "topic": "Avantaje/dezavantaje metalo-acrilice",
+    "difficulty": "hard",
+    "question": "Care afirmații despre PPF metalo-acrilice sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Restabilesc funcția masticatorie și fonetică", "correct": true },
+      { "id": "B", "text": "Au tehnică simplă și prețul cel mai redus dintre PPF mixte", "correct": true },
+      { "id": "C", "text": "Rezistența mecanică este bună datorită structurii metalice", "correct": true },
+      { "id": "D", "text": "Fațetele acrilice se pot desprinde ușor deoarece retenția este pur mecanică", "correct": true },
+      { "id": "E", "text": "Fațetele acrilice nu își modifică niciodată culoarea în mediul bucal", "correct": false }
+    ],
+    "explanation": "Cursul menționează modificarea culorii, îmbătrânirea și necesitatea reparațiilor/înlocuirii sub 5 ani.",
+    "source": "PPF Curs 12.pdf, slide Avantaje/dezavantaje metalo-acrilice"
+  },
+  {
+    "id": 6,
+    "topic": "Infrastructura metalo-acrilică",
+    "difficulty": "hard",
+    "question": "Care caracteristici ale infrastructurii metalice la PPF metalo-acrilice sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Trebuie să fie rigidă, biocompatibilă, rezistentă la coroziune și fără alergii", "correct": true },
+      { "id": "B", "text": "Acoperă toate suprafețele cu excepția suprafeței vestibulare", "correct": true },
+      { "id": "C", "text": "Prezintă retenții mecanice la interfața cu rășina acrilică", "correct": true },
+      { "id": "D", "text": "Contactele cu antagoniștii trebuie să fie pe suprafețele metalice", "correct": true },
+      { "id": "E", "text": "Joncțiunea metal-acrilat trebuie plasată chiar în zona contactului antagonist", "correct": false }
+    ],
+    "explanation": "Joncțiunea metal-acrilat trebuie să fie la 2-3 mm de zona de contact cu antagoniștii.",
+    "source": "PPF Curs 12.pdf, slide Infrastructura metalică metalo-acrilică"
+  },
+  {
+    "id": 7,
+    "topic": "Conectori metalo-acrilici",
+    "difficulty": "hard",
+    "question": "Care dimensiuni ale conectorilor metalo-acrilici sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Zona anterioară cu 1 sau 2 corpuri de punte: minim 12 mm2", "correct": true },
+      { "id": "B", "text": "Zona posterioară cu 1 corp de punte: minim 12 mm2", "correct": true },
+      { "id": "C", "text": "Zona posterioară cu 2 corpuri de punte: minim 16 mm2", "correct": true },
+      { "id": "D", "text": "Cu cât distanța dintre stâlpi este mai mare, cu atât riscul de deformare crește", "correct": true },
+      { "id": "E", "text": "Conectorii anteriori pot fi sub 5 mm2 indiferent de situație", "correct": false }
+    ],
+    "explanation": "Cursul indică minim 12 mm2 anterior și posterior cu un corp, respectiv 16 mm2 posterior cu două corpuri.",
+    "source": "PPF Curs 12.pdf, slide Conector metalo-acrilic"
+  },
+  {
+    "id": 8,
+    "topic": "Macroretenții acrilat-metal",
+    "difficulty": "hard",
+    "question": "Care forme de macroretenție pentru acrilat sunt menționate?",
+    "options": [
+      { "id": "A", "text": "Retenție perlată cu cristale solubile sau insolubile", "correct": true },
+      { "id": "B", "text": "Anse de nylon/ceară sau butoni", "correct": true },
+      { "id": "C", "text": "Solzi de pește", "correct": true },
+      { "id": "D", "text": "Plase și cavități retentive", "correct": true },
+      { "id": "E", "text": "Gravare acidă a acrilatului pentru legătură ionică", "correct": false }
+    ],
+    "explanation": "Retenția acrilatului la metal este mecanică, prin macroretenții; gravarea acidă nu este mecanismul descris pentru metalo-acrilic.",
+    "source": "PPF Curs 12.pdf, slides Macroretenții"
+  },
+  {
+    "id": 9,
+    "topic": "Prelucrarea scheletului metalo-acrilic",
+    "difficulty": "hard",
+    "question": "Care reguli de prelucrare a infrastructurii metalo-acrilice sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Prelucrarea se face cu discuri de carborund și freze convenționale de carbid", "correct": true },
+      { "id": "B", "text": "Nu trebuie îndepărtate macroretențiile de pe infrastructura metalică", "correct": true },
+      { "id": "C", "text": "Suprafețele ocluzale, orale și proximale pot fi lustruite cu polipante, perii, paste abrazive și pufuri", "correct": true },
+      { "id": "D", "text": "Caseta se sablează cu oxid de alumină pentru microretenție", "correct": true },
+      { "id": "E", "text": "Se recomandă silanizare obligatorie ca mecanism principal, nu macroretenții", "correct": false }
+    ],
+    "explanation": "Pentru metalo-acrilic, cursul precizează că retenția este pur mecanică prin macroretenții.",
+    "source": "PPF Curs 12.pdf, slide Prelucrarea infrastructurii metalo-acrilice"
+  },
+  {
+    "id": 10,
+    "topic": "Structura acrilică",
+    "difficulty": "hard",
+    "question": "Care proprietăți ale rășinilor acrilice explică limitele PPF metalo-acrilice?",
+    "options": [
+      { "id": "A", "text": "Nu aderă la suprafețele metalice decât prin macroretenții", "correct": true },
+      { "id": "B", "text": "Au contracție liniară la polimerizare de aproximativ 0,53% și pot prezenta porozități", "correct": true },
+      { "id": "C", "text": "Au modul de elasticitate scăzut și rezistență mică la abrazie", "correct": true },
+      { "id": "D", "text": "Au absorbție mare de apă, cu efecte asupra cromaticii și stabilității", "correct": true },
+      { "id": "E", "text": "Au coeficient de dilatare termică identic cu metalul și nu se modifică volumetric", "correct": false }
+    ],
+    "explanation": "Cursul indică diferență mare de dilatare termică față de metal și modificări volumetrice importante.",
+    "source": "PPF Curs 12.pdf, slide Structura acrilică"
+  },
+  {
+    "id": 11,
+    "topic": "Protocol metalo-acrilic",
+    "difficulty": "hard",
+    "question": "Care pași apar în protocolul PPF metalo-acrilice turnare + polimerizare?",
+    "options": [
+      { "id": "A", "text": "Machetă infrastructură, ambalare, încălzire, topire și turnare metal", "correct": true },
+      { "id": "B", "text": "Prelucrare mecanică a infrastructurii și lustruire", "correct": true },
+      { "id": "C", "text": "Aplicare Opaque 1 și Opaque 2 cu polimerizare la 250 grade C", "correct": true },
+      { "id": "D", "text": "Prepararea pastelor dentină/enamel, aplicarea acrilatului, termopolimerizare, prelucrare și lustruire", "correct": true },
+      { "id": "E", "text": "Sinterizarea Y-TZP la 1450-1550 grade C", "correct": false }
+    ],
+    "explanation": "Sinterizarea Y-TZP aparține PPF integral ceramice, nu PPF metalo-acrilice.",
+    "source": "PPF Curs 12.pdf, slide Protocol metalo-acrilic turnare + polimerizare"
+  },
+  {
+    "id": 12,
+    "topic": "Metalo-acrilic turnare + ambalare",
+    "difficulty": "hard",
+    "question": "Care afirmații despre protocolul metalo-acrilic turnare + ambalare sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Opaque-ul se aplică în două straturi în caseta vestibulară pentru acoperirea culorii metalului", "correct": true },
+      { "id": "B", "text": "Macheta acrilică se confecționează direct peste infrastructură din ceară roz sau albă", "correct": true },
+      { "id": "C", "text": "Macheta cu scheletul metalic se ambalează într-o cuvetă metalică cu gips clasa a II-a", "correct": true },
+      { "id": "D", "text": "Ambalarea utilizată este orizontală, cu caseta vestibulară spre exteriorul cuvetei", "correct": true },
+      { "id": "E", "text": "Ceara colorată este obligatorie pentru a colora tiparul", "correct": false }
+    ],
+    "explanation": "Ceara albă/roz este menționată pentru a nu colora tiparul.",
+    "source": "PPF Curs 12.pdf, slide Protocol metalo-acrilic turnare + ambalare"
+  },
+  {
+    "id": 13,
+    "topic": "PPF metalo-compozit",
+    "difficulty": "hard",
+    "question": "Care indicații ale PPF metalo-compozit sunt menționate?",
+    "options": [
+      { "id": "A", "text": "Pacienți care nu își permit lucrări metalo-ceramice/integral ceramice", "correct": true },
+      { "id": "B", "text": "Pacienți cu pretenții fizionomice medii", "correct": true },
+      { "id": "C", "text": "Restaurări întinse când situația financiară nu permite lucrări ceramice", "correct": true },
+      { "id": "D", "text": "PPF Maryland și PPF adezive cu rol de imobilizare parodontală", "correct": true },
+      { "id": "E", "text": "Pacienți cu pretenții estetice ridicate și forțe masticatorii crescute", "correct": false }
+    ],
+    "explanation": "Pretențiile estetice ridicate, parafuncțiile și forțele masticatorii mari sunt contraindicații.",
+    "source": "PPF Curs 12.pdf, slide Indicații/contraindicații metalo-compozit"
+  },
+  {
+    "id": 14,
+    "topic": "Avantaje metalo-compozit",
+    "difficulty": "medium",
+    "question": "Care sunt avantaje ale PPF metalo-compozit?",
+    "options": [
+      { "id": "A", "text": "Restabilirea funcției masticatorii și fonetice", "correct": true },
+      { "id": "B", "text": "Estetică relativ satisfăcătoare pe termen lung datorită compozitului", "correct": true },
+      { "id": "C", "text": "Rezistență mecanică bună datorită structurii metalice", "correct": true },
+      { "id": "D", "text": "Legătură chimică și mecanică la substrat, cu scăderea ratei de eșec a stratului fizionomic", "correct": true },
+      { "id": "E", "text": "Nu necesită refinisare după modificări realizate post-glazurare/lustruire", "correct": false }
+    ],
+    "explanation": "Cursul menționează că modificările după glazurare/lustruire necesită refinisarea suprafețelor.",
+    "source": "PPF Curs 12.pdf, slide Avantaje/dezavantaje metalo-compozit"
+  },
+  {
+    "id": 15,
+    "topic": "Infrastructura metalo-compozit",
+    "difficulty": "hard",
+    "question": "Care reguli pentru infrastructura metalo-compozit sunt corecte?",
+    "options": [
+      { "id": "A", "text": "La acoperire totală, forma infrastructurii trebuie să susțină uniform stratul fizionomic la margini incizale și cuspizi", "correct": true },
+      { "id": "B", "text": "La preparații neconvenționale, infrastructura metalică poate compensa prin design", "correct": true },
+      { "id": "C", "text": "Suprafețele metalice trebuie să fie netede și rotunjite pentru prevenirea delaminării/fracturilor", "correct": true },
+      { "id": "D", "text": "Grosimea minimă metalică este 0,3-0,5 mm la elemente de agregare și corp de punte", "correct": true },
+      { "id": "E", "text": "Joncțiunea metal-compozit se realizează difuz și rotunjit în orice zonă funcțională", "correct": false }
+    ],
+    "explanation": "La acoperire parțială, joncțiunea trebuie bine definită, la 2-3 mm de funcție, iar delimitarea se face în unghi drept.",
+    "source": "PPF Curs 12.pdf, slides Infrastructura metalo-compozit"
+  },
+  {
+    "id": 16,
+    "topic": "Condiționarea metalului pentru compozit",
+    "difficulty": "hard",
+    "question": "Care metode de pregătire a suprafețelor metalice pentru placarea cu compozit sunt menționate?",
+    "options": [
+      { "id": "A", "text": "Sablare cu corindon sau cuarț, care curăță și creează microretenții", "correct": true },
+      { "id": "B", "text": "Gravare electrolitică, urmată de oxidare și sablare", "correct": true },
+      { "id": "C", "text": "Silanizare, ca metodă populară, combinată cu sablarea", "correct": true },
+      { "id": "D", "text": "Ceramizare sau metalizare", "correct": true },
+      { "id": "E", "text": "Aplicarea exclusivă de vaselină pentru creșterea aderenței", "correct": false }
+    ],
+    "explanation": "Vaselina este folosită în alte contexte ca separare, nu ca tratament adeziv metal-compozit.",
+    "source": "PPF Curs 12.pdf, slide Prepararea suprafețelor metalice"
+  },
+  {
+    "id": 17,
+    "topic": "Aplicarea compozitului",
+    "difficulty": "hard",
+    "question": "Care afirmații despre aplicarea compozitului pe metal sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Stratul fizionomic poate fi realizat prin stratificare sau presare în cuvetă", "correct": true },
+      { "id": "B", "text": "Ambele tehnici pot utiliza RDC de consistență normală sau fluidă", "correct": true },
+      { "id": "C", "text": "La macroretenții, opaquer-ul trebuie aplicat fluid și subțire pentru a nu anula zonele retentive", "correct": true },
+      { "id": "D", "text": "Majoritatea RDC nu necesită curățare cu steamer sau jet de aer după sablare", "correct": true },
+      { "id": "E", "text": "Opaquer-ul se aplică gros pentru umplerea tuturor macroretențiilor", "correct": false }
+    ],
+    "explanation": "Aplicarea groasă a opaquer-ului ar putea anula retențiile subecuatoriale.",
+    "source": "PPF Curs 12.pdf, slide Aplicarea compozitului"
+  },
+  {
+    "id": 18,
+    "topic": "Stratificare compozit",
+    "difficulty": "hard",
+    "question": "Care pași apar în tehnica stratificării compozitului pentru PPF metalo-compozit?",
+    "options": [
+      { "id": "A", "text": "Sablare la presiune mică, suflare cu aer și aplicare primer silanic sau Metal Prep", "correct": true },
+      { "id": "B", "text": "Aplicare Opaque 1 și 2 cu polimerizare", "correct": true },
+      { "id": "C", "text": "Aplicare Dentină Primară, Dentină Translucidă și Enamel", "correct": true },
+      { "id": "D", "text": "Polimerizare secundară, prelucrare mecanică și lustruire sau glazurare", "correct": true },
+      { "id": "E", "text": "Cutback-ul se obține exclusiv prin frezare mecanică după polimerizare", "correct": false }
+    ],
+    "explanation": "Cursul precizează că la stratificare cutback-ul se prefigurează prin modelare, nu prin prelucrare mecanică.",
+    "source": "PPF Curs 12.pdf, slides Tehnica stratificării compozitului"
+  },
+  {
+    "id": 19,
+    "topic": "Presarea compozitului în cuvetă",
+    "difficulty": "hard",
+    "question": "Care pași apar în tehnica presării compozitului în cuvetă?",
+    "options": [
+      { "id": "A", "text": "Macheta stratului RDC se confecționează din ceară peste infrastructura metalică", "correct": true },
+      { "id": "B", "text": "Se realizează model duplicat din silicon chitos și cheie transparentă de silicon", "correct": true },
+      { "id": "C", "text": "Metalul se sablează, se curăță cu jet de aer și se condiționează cu Metal Prep și Primer", "correct": true },
+      { "id": "D", "text": "Se aplică opaque în două straturi, apoi dentină și enamel în cheia transparentă, cu fotopolimerizare", "correct": true },
+      { "id": "E", "text": "Se folosește exclusiv disilicat de litiu presat la 930 grade C", "correct": false }
+    ],
+    "explanation": "Tehnica descrisă este pentru RDC/compozit, nu pentru disilicat.",
+    "source": "PPF Curs 12.pdf, slides Presarea în cuvetă a compozitului"
+  },
+  {
+    "id": 20,
+    "topic": "PEEK",
+    "difficulty": "hard",
+    "question": "Care afirmații despre PEEK sunt corecte?",
+    "options": [
+      { "id": "A", "text": "PEEK este poli-eter-eter-ketonă, reprezentant important al clasei PAEK", "correct": true },
+      { "id": "B", "text": "Este material termoplastic parțial cristalin, rezistent la temperaturi înalte", "correct": true },
+      { "id": "C", "text": "Are performanțe mecanice asemănătoare țesutului osos și a fost folosit medical din 1978", "correct": true },
+      { "id": "D", "text": "A fost utilizat pentru prima dată în stomatologie în 1992", "correct": true },
+      { "id": "E", "text": "Este ceramică feldspatică cu fază sticloasă principală", "correct": false }
+    ],
+    "explanation": "PEEK este polimer termoplastic din clasa PAEK, nu ceramică feldspatică.",
+    "source": "PPF Curs 12.pdf, slide PEEK"
+  },
+  {
+    "id": 21,
+    "topic": "Proprietăți PEEK",
+    "difficulty": "hard",
+    "question": "Care proprietăți ale PEEK sunt menționate?",
+    "options": [
+      { "id": "A", "text": "Modul de elasticitate 3-4 GPa, asemănător osului cortical", "correct": true },
+      { "id": "B", "text": "Radiotransparent, stabil chimic/fizic și rezistent la radiație", "correct": true },
+      { "id": "C", "text": "Rezistent la uzură, biocompatibil, fără efecte toxice, mutagene sau cancerigene", "correct": true },
+      { "id": "D", "text": "Compatibil cu fibre de sticlă sau carbon și procesabil prin injectare, CAD/CAM sau imprimare 3D", "correct": true },
+      { "id": "E", "text": "Are punct de topire 850 grade C și este foarte abraziv pentru antagoniști", "correct": false }
+    ],
+    "explanation": "Punctul de topire menționat este 335 grade C, iar PEEK nu abrazează antagoniștii.",
+    "source": "PPF Curs 12.pdf, slide Proprietăți PEEK"
+  },
+  {
+    "id": 22,
+    "topic": "Procesare și condiționare PEEK",
+    "difficulty": "hard",
+    "question": "Care afirmații despre procesarea și condiționarea PEEK sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Este disponibil ca granule pentru presare în vacuum sau discuri monocromatice pentru frezare CAD/CAM", "correct": true },
+      { "id": "B", "text": "Are transluciditate foarte scăzută și pigmentare spre gri, necesitând placare cu RDC", "correct": true },
+      { "id": "C", "text": "Nu poate fi utilizat full-contur de sine stătător", "correct": true },
+      { "id": "D", "text": "Condiționarea poate include acid sulfuric 98% timp de 1 minut, sablare cu alumină 50-100 microni la 2 bari și silanizare", "correct": true },
+      { "id": "E", "text": "Nu necesită placare deoarece are estetică identică enamelului", "correct": false }
+    ],
+    "explanation": "Cursul spune explicit că PEEK trebuie placat cu materiale fizionomice.",
+    "source": "PPF Curs 12.pdf, slide Procesare/condiționare PEEK"
+  },
+  {
+    "id": 23,
+    "topic": "Indicații PEEK",
+    "difficulty": "hard",
+    "question": "Care indicații pentru PPF mixte PEEK-compozit sunt corecte?",
+    "options": [
+      { "id": "A", "text": "PFU/PPF pe stâlp dentar sau implant, cimentate sau înșurubate, cu maxim 2 corpuri de punte înlănțuite", "correct": true },
+      { "id": "B", "text": "PPF adezive cu rol de imobilizare parodontală, în cazuri rare", "correct": true },
+      { "id": "C", "text": "PPF provizorii de lungă durată, în cazuri rare", "correct": true },
+      { "id": "D", "text": "PPF pe implante Toronto/All-on-4/All-on-6 acoperite cu coroane presate, compozit sau acrilat", "correct": true },
+      { "id": "E", "text": "PPF cu mai mult de 2 corpuri de punte succesive ca indicație principală", "correct": false }
+    ],
+    "explanation": "PPF cu mai mult de 2 corpuri de punte succesive sunt contraindicate.",
+    "source": "PPF Curs 12.pdf, slide Indicații/contraindicații PEEK"
+  },
+  {
+    "id": 24,
+    "topic": "Contraindicații PEEK",
+    "difficulty": "hard",
+    "question": "Care contraindicații sau limite dimensionale sunt corecte pentru PPF PEEK-compozit?",
+    "options": [
+      { "id": "A", "text": "Pacienți cu pretenții estetice ridicate sau parafuncții/forțe masticatorii ridicate", "correct": true },
+      { "id": "B", "text": "Tineri sub 20 ani și spațiu vertical sub 1,3 mm", "correct": true },
+      { "id": "C", "text": "Grosime PEEK minimă axială 0,6 mm și ocluzală 0,8 mm", "correct": true },
+      { "id": "D", "text": "Conector frontal sub 12 mm2 sau lateral sub 14 mm2", "correct": true },
+      { "id": "E", "text": "Densitate joasă de 1,5-1,8 g/cm3", "correct": false }
+    ],
+    "explanation": "Densitatea joasă este avantaj, nu contraindicație.",
+    "source": "PPF Curs 12.pdf, slide Contraindicații PEEK"
+  },
+  {
+    "id": 25,
+    "topic": "Presarea PEEK",
+    "difficulty": "hard",
+    "question": "Care pași ai presării PEEK sunt corecți?",
+    "options": [
+      { "id": "A", "text": "Macheta se poziționează la 5-10 mm de cilindru orizontal și minimum 10 mm de la marginea liberă vertical", "correct": true },
+      { "id": "B", "text": "Se folosește masă de ambalat specifică pe bază de fosfați, fără degresare/detensionare a machetei", "correct": true },
+      { "id": "C", "text": "Tiparul se încălzește la 850 grade C timp de 1 oră, apoi se răcește în cuptor până la 400 grade C", "correct": true },
+      { "id": "D", "text": "La 400 grade C se introduc granule PEEK în conul tiparului și se reintroduce 20 minute pentru topire", "correct": true },
+      { "id": "E", "text": "PEEK supraîncălzit, maroniu, este ideal pentru utilizare", "correct": false }
+    ],
+    "explanation": "Dacă PEEK este supraîncălzit și devine maroniu, nu mai poate fi utilizat.",
+    "source": "PPF Curs 12.pdf, slides Presarea PEEK"
+  },
+  {
+    "id": 26,
+    "topic": "Dezambalare și placare PEEK",
+    "difficulty": "hard",
+    "question": "Care afirmații despre dezambalarea și placarea PEEK sunt corecte?",
+    "options": [
+      { "id": "A", "text": "După răcirea controlată, tiparul poate sta 20 minute în apă pentru facilitarea dezambalării", "correct": true },
+      { "id": "B", "text": "Dezambalarea se poate face prin percuție laterală sau daltă pneumatică", "correct": true },
+      { "id": "C", "text": "Masa de ambalat se îndepărtează cu oxid de alumină 110 microni la 2,5 bari", "correct": true },
+      { "id": "D", "text": "Pentru legătură mecanică se poate resabla și nu se spală cu steamerul; pentru legătură chimică se utilizează bonding", "correct": true },
+      { "id": "E", "text": "Placarea cu compozit începe direct cu enamel, fără opaque sau dentină", "correct": false }
+    ],
+    "explanation": "Placarea convențională începe cu opaque, apoi dentină primară, dentină facială și enamel.",
+    "source": "PPF Curs 12.pdf, slides Dezambalare/placare PEEK"
+  },
+  {
+    "id": 27,
+    "topic": "PEEK-compozit",
+    "difficulty": "hard",
+    "question": "Care două avantaje ale PPF mixte PEEK-compozit sunt menționate?",
+    "options": [
+      { "id": "A", "text": "Densitate joasă, 1,5-1,8 g/cm3, cu greutate foarte scăzută", "correct": true },
+      { "id": "B", "text": "Inert din punct de vedere chimic, fizic și biologic", "correct": true },
+      { "id": "C", "text": "Rezistență foarte mare la compresie a stratului fizionomic", "correct": false },
+      { "id": "D", "text": "Nu necesită placare cu materiale fizionomice", "correct": false },
+      { "id": "E", "text": "Nu poate pierde luciul de suprafață în timp", "correct": false }
+    ],
+    "explanation": "Cursul prezintă densitatea joasă și inerția PEEK ca avantaje, dar menționează ca dezavantaje rezistența slabă la compresie a stratului fizionomic și posibila pierdere a luciului.",
+    "source": "PPF Curs 12.pdf, slide Avantaje/dezavantaje PEEK-compozit"
+  }
+]

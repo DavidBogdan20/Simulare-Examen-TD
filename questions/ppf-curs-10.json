@@ -1,0 +1,347 @@
+[
+  {
+    "id": 1,
+    "topic": "Definiție PPF mixte",
+    "difficulty": "medium",
+    "question": "Care afirmație definește corect protezele parțiale fixe mixte?",
+    "options": [
+      { "id": "A", "text": "Sunt lucrări conjuncte cu infrastructură internă de rezistență și componentă fizionomică ce asigură estetica și acoperă parțial sau total infrastructura", "correct": true },
+      { "id": "B", "text": "Sunt lucrări formate exclusiv dintr-un singur material ceramic monolitic", "correct": false },
+      { "id": "C", "text": "Sunt proteze mobilizabile cu croșete turnate", "correct": false },
+      { "id": "D", "text": "Sunt numai restaurări provizorii acrilice de scurtă durată", "correct": false },
+      { "id": "E", "text": "Sunt coroane fără infrastructură și fără strat fizionomic", "correct": false }
+    ],
+    "explanation": "Cursul definește PPF mixte prin asocierea infrastructurii de rezistență cu o componentă fizionomică estetică.",
+    "source": "PPF Curs 10.pdf, slide Protezele Parțiale Fixe Mixte - definiție"
+  },
+  {
+    "id": 2,
+    "topic": "Tipuri PPF mixte",
+    "difficulty": "medium",
+    "question": "Care combinații de materiale pentru PPF mixte sunt menționate?",
+    "options": [
+      { "id": "A", "text": "Metal + acrilat", "correct": true },
+      { "id": "B", "text": "Metal + compozit", "correct": true },
+      { "id": "C", "text": "Metal + ceramică", "correct": true },
+      { "id": "D", "text": "PEEK + compozit", "correct": true },
+      { "id": "E", "text": "Caolin + hârtie de tapetare", "correct": false }
+    ],
+    "explanation": "Cursul enumeră PPF metal-acrilat, metal-compozit, metal-ceramică și PEEK-compozit.",
+    "source": "PPF Curs 10.pdf, slide Protezele Parțiale Fixe Mixte"
+  },
+  {
+    "id": 3,
+    "topic": "Indicații PPF mixte",
+    "difficulty": "hard",
+    "question": "Care sunt indicații ale PPF mixte?",
+    "options": [
+      { "id": "A", "text": "Dinți cu afecțiuni coronare: carii, fracturi, displazii, discromii", "correct": true },
+      { "id": "B", "text": "Dinți frontali și laterali, inclusiv molari", "correct": true },
+      { "id": "C", "text": "Ocluzii adânci sau spațiu protetic micșorat, unde PPF fizionomică nu rezistă", "correct": true },
+      { "id": "D", "text": "Ancorarea protezelor mobilizabile, mai ales ca suport pentru culise", "correct": true },
+      { "id": "E", "text": "Tineri sub 20 ani cu cameră pulpară mare", "correct": false }
+    ],
+    "explanation": "Tinerii sub 20 ani sunt contraindicați din cauza camerei pulpare mari.",
+    "source": "PPF Curs 10.pdf, slide Indicații/Contraindicații"
+  },
+  {
+    "id": 4,
+    "topic": "Contraindicații PPF mixte",
+    "difficulty": "medium",
+    "question": "Care situații sunt contraindicații pentru PPF mixte?",
+    "options": [
+      { "id": "A", "text": "Dinți scurți cu retenție redusă", "correct": true },
+      { "id": "B", "text": "Dinți cu distrucții mari, temporar până la realizarea unui dispozitiv corono-radicular", "correct": true },
+      { "id": "C", "text": "Tineri sub 20 ani din cauza camerei pulpare mari", "correct": true },
+      { "id": "D", "text": "Dinți laterali inclusiv molari", "correct": false },
+      { "id": "E", "text": "Dinți inapți pentru pragul lat cerut de PPF ceramice", "correct": false }
+    ],
+    "explanation": "Dinții laterali și dinții inapți pentru prag lat ceramic apar la indicații, nu contraindicații.",
+    "source": "PPF Curs 10.pdf, slide Indicații/Contraindicații"
+  },
+  {
+    "id": 5,
+    "topic": "Avantaje/dezavantaje",
+    "difficulty": "hard",
+    "question": "Care afirmații descriu corect avantajele și dezavantajele PPF mixte?",
+    "options": [
+      { "id": "A", "text": "Îmbină rezistența infrastructurii cu estetica componentei fizionomice", "correct": true },
+      { "id": "B", "text": "Au preț de producție mai mic decât PPF integral ceramice", "correct": true },
+      { "id": "C", "text": "Au proprietăți mecanice îmbunătățite față de PPF acrilice și compozite", "correct": true },
+      { "id": "D", "text": "Pot necesita șlefuiri accentuate și pot afecta parodonțiul marginal prin margini groase/supraconturate", "correct": true },
+      { "id": "E", "text": "Nu suferă deteriorări ale componentei fizionomice", "correct": false }
+    ],
+    "explanation": "Cursul listează uzura, fisurarea, fracturarea, desprinderea și discromia componentei fizionomice ca dezavantaje.",
+    "source": "PPF Curs 10.pdf, slide Avantaje/Dezavantaje"
+  },
+  {
+    "id": 6,
+    "topic": "Clasificarea PPF mixte",
+    "difficulty": "hard",
+    "question": "Care clasificări ale PPF mixte sunt corecte?",
+    "options": [
+      { "id": "A", "text": "După componenta estetică: metalo-ceramice, metalo-polimerice, PEEK-diacrilice", "correct": true },
+      { "id": "B", "text": "Infrastructura metalică poate fi realizată prin turnare, SLM/SLS sau frezare", "correct": true },
+      { "id": "C", "text": "Infrastructura PEEK poate fi realizată prin frezare sau presare", "correct": true },
+      { "id": "D", "text": "Componenta fizionomică se poate realiza prin sinterizare, presare sau polimerizare", "correct": true },
+      { "id": "E", "text": "PPF mixte se clasifică doar după culoarea finală a ceramicii", "correct": false }
+    ],
+    "explanation": "Clasificările includ materialul componentei estetice, procedeul infrastructurii și procedeul componentei fizionomice.",
+    "source": "PPF Curs 10.pdf, slides Clasificarea PPF mixte"
+  },
+  {
+    "id": 7,
+    "topic": "PPF metalo-ceramice",
+    "difficulty": "medium",
+    "question": "Care descriere corespunde PPF metalo-ceramice?",
+    "options": [
+      { "id": "A", "text": "Proteze conjuncte cu substrat metalic și strat exterior ceramic", "correct": true },
+      { "id": "B", "text": "Lucrări integral acrilice fără substrat rigid", "correct": false },
+      { "id": "C", "text": "Lucrări exclusiv Y-TZP monolitic", "correct": false },
+      { "id": "D", "text": "Lucrări din compozit fluid direct fără laborator", "correct": false },
+      { "id": "E", "text": "Proteze totale mobile cu bază din PMMA", "correct": false }
+    ],
+    "explanation": "Cursul definește PPF metalo-ceramice ca substrat metalic cu strat exterior ceramic, cu variante de prag/coleretă.",
+    "source": "PPF Curs 10.pdf, slide PPF metalo-ceramice"
+  },
+  {
+    "id": 8,
+    "topic": "Infrastructura metalică",
+    "difficulty": "hard",
+    "question": "Care caracteristici sunt cerute infrastructurii metalice în PPF metalo-ceramice?",
+    "options": [
+      { "id": "A", "text": "Să poată forma stratul de oxizi necesar legăturii metalo-ceramice", "correct": true },
+      { "id": "B", "text": "Să aibă proprietăți mecanice bune și coeficient de expansiune termică asemănător ceramicii", "correct": true },
+      { "id": "C", "text": "Să aibă interval de topire considerabil mai ridicat decât ceramica de acoperire", "correct": true },
+      { "id": "D", "text": "Să fie biocompatibilă, rezistentă la coroziune și ușor de turnat/prelucrat", "correct": true },
+      { "id": "E", "text": "Să fie flexibilă și să se deformeze ușor sub ceramică", "correct": false }
+    ],
+    "explanation": "Infrastructura trebuie să fie rigidă și să nu se deformeze, cu rezistență și rigiditate mari.",
+    "source": "PPF Curs 10.pdf, slide Infrastructura metalică - caracteristici"
+  },
+  {
+    "id": 9,
+    "topic": "Suprastructura ceramică",
+    "difficulty": "hard",
+    "question": "Care caracteristici sunt cerute suprastructurii ceramice metalo-ceramice?",
+    "options": [
+      { "id": "A", "text": "Să redea morfologia și culoarea dinților naturali", "correct": true },
+      { "id": "B", "text": "Să aibă temperaturi scăzute de sinterizare", "correct": true },
+      { "id": "C", "text": "Să reziste în mediul bucal", "correct": true },
+      { "id": "D", "text": "Să aibă coeficient de expansiune termică compatibil cu metalul", "correct": true },
+      { "id": "E", "text": "Să influențeze negativ elementele ADM cu care vine în contact", "correct": false }
+    ],
+    "explanation": "Cursul cere explicit ca ceramica să nu influențeze negativ niciun element al ADM.",
+    "source": "PPF Curs 10.pdf, slide Suprastructura ceramică - caracteristici"
+  },
+  {
+    "id": 10,
+    "topic": "Rolul infrastructurii",
+    "difficulty": "hard",
+    "question": "Care roluri ale infrastructurii metalice sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Asigură adaptarea PPF la bonturi, marginal și intern", "correct": true },
+      { "id": "B", "text": "Asigură suport rigid pentru ceramică", "correct": true },
+      { "id": "C", "text": "Contribuie la conformarea profilului de emergență", "correct": true },
+      { "id": "D", "text": "Poate restaura aproape complet forma dintelui în metal, lăsând ceramică doar în zone estetice critice", "correct": true },
+      { "id": "E", "text": "Are rol exclusiv cromatic, fără influență asupra adaptării", "correct": false }
+    ],
+    "explanation": "Substructura este responsabilă de adaptare, rigiditate și profil de emergență, nu doar de aspect.",
+    "source": "PPF Curs 10.pdf, slides Rolul infrastructurii metalice"
+  },
+  {
+    "id": 11,
+    "topic": "Adaptare internă și marginală",
+    "difficulty": "hard",
+    "question": "Care afirmații despre adaptarea PPF metalo-ceramice sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Spațiul intern prea mare crește spațiul pentru ciment și riscul de descimentare", "correct": true },
+      { "id": "B", "text": "Spațiul intern micșorat poate produce contact metal-bont, risc de fisură/fractură ceramică și discrepanțe marginale", "correct": true },
+      { "id": "C", "text": "Adaptarea marginală asigură închiderea ermetică și reduce pătrunderea bacteriilor", "correct": true },
+      { "id": "D", "text": "Discrepanțele marginale pot duce la infiltrare bacteriană, carii secundare sau descimentare", "correct": true },
+      { "id": "E", "text": "Adaptarea internă nu influențează cimentarea", "correct": false }
+    ],
+    "explanation": "Cursul conectează direct adaptarea internă/marginală cu riscul de descimentare, fractură și carii secundare.",
+    "source": "PPF Curs 10.pdf, slide Adaptare internă/marginală"
+  },
+  {
+    "id": 12,
+    "topic": "Planificarea infrastructurii",
+    "difficulty": "hard",
+    "question": "Care întrebări trebuie corelate în designul infrastructurii metalice?",
+    "options": [
+      { "id": "A", "text": "Contactele ocluzale vor fi din metal sau ceramică?", "correct": true },
+      { "id": "B", "text": "Contactele cu antagoniștii sunt la 1,5-2 mm de joncțiunea ceramică-metal?", "correct": true },
+      { "id": "C", "text": "Vârfurile cuspizilor sau marginea incizală ceramică sunt susținute adecvat de metal?", "correct": true },
+      { "id": "D", "text": "Substructura are grosime adecvată ca bază rigidă pentru ceramică?", "correct": true },
+      { "id": "E", "text": "Ce culoare are hârtia de tapetare a conformatorului?", "correct": false }
+    ],
+    "explanation": "Cele patru întrebări din curs privesc contactele, joncțiunea, susținerea ceramicii și grosimea metalului.",
+    "source": "PPF Curs 10.pdf, slide Planificarea infrastructurii metalice"
+  },
+  {
+    "id": 13,
+    "topic": "Contacte ocluzale",
+    "difficulty": "hard",
+    "question": "Care comparații metal vs metalo-ceramic la contacte ocluzale sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Contactele din metal cer îndepărtarea a aproximativ 1-1,5 mm țesut dur", "correct": true },
+      { "id": "B", "text": "Metalo-ceramica necesită aproximativ 2 mm spațiu", "correct": true },
+      { "id": "C", "text": "Metalul poate fi prelucrat/lustruit mai ușor în cabinet", "correct": true },
+      { "id": "D", "text": "Metalo-ceramica necesită reglazurare după modificarea contactelor", "correct": true },
+      { "id": "E", "text": "Metalul este mai dur decât ceramica feldspatică și abrazează mai mult antagoniștii", "correct": false }
+    ],
+    "explanation": "Cursul precizează că duritatea metalelor este mai mică decât a ceramicilor feldspatice, deci metalul nu abrazează antagoniștii.",
+    "source": "PPF Curs 10.pdf, slide Contacte ocluzale"
+  },
+  {
+    "id": 14,
+    "topic": "Joncțiunea metal-ceramică",
+    "difficulty": "hard",
+    "question": "De ce trebuie evitate contactele la joncțiunea metal-ceramică?",
+    "options": [
+      { "id": "A", "text": "Ceramica rezistă la compresiune, dar nu la tracțiune sau încovoiere", "correct": true },
+      { "id": "B", "text": "Contactele la joncțiune pot genera tracțiune cu desprinderea sau ciobirea ceramicii", "correct": true },
+      { "id": "C", "text": "Contactele trebuie să fie în metal sau în ceramică, dar nu pe joncțiune", "correct": true },
+      { "id": "D", "text": "Se păstrează o distanță minimă de 1,5-2 mm față de joncțiune", "correct": true },
+      { "id": "E", "text": "Excursiile funcționale peste joncțiune sunt recomandate pentru autocurățire", "correct": false }
+    ],
+    "explanation": "Traseul funcțional se analizează pentru a evita excursia contactelor peste joncțiunea metal-ceramică.",
+    "source": "PPF Curs 10.pdf, slide Joncțiunea metal-ceramică"
+  },
+  {
+    "id": 15,
+    "topic": "Susținerea ceramicii",
+    "difficulty": "hard",
+    "question": "Care afirmații despre susținerea ceramicii de către metal sunt corecte?",
+    "options": [
+      { "id": "A", "text": "O grosime ceramică peste 1,5-2 mm devine susceptibilă la fractură", "correct": true },
+      { "id": "B", "text": "Infrastructura metalică se preferă sub formă de capă anatomică", "correct": true },
+      { "id": "C", "text": "Modelajul anatoform asigură grosime constantă pentru ceramică, nu pentru metal", "correct": true },
+      { "id": "D", "text": "Vârfurile cuspizilor/marginea incizală ceramică trebuie susținute de structură metalică", "correct": true },
+      { "id": "E", "text": "Ceramica nesusținută gros de peste 2 mm este ideală pentru rezistență", "correct": false }
+    ],
+    "explanation": "Cursul recomandă capă anatomică pentru a evita ceramică prea groasă și nesusținută.",
+    "source": "PPF Curs 10.pdf, slide Susținerea ceramicii"
+  },
+  {
+    "id": 16,
+    "topic": "Grosimea metalului și conectori",
+    "difficulty": "hard",
+    "question": "Care afirmații despre grosimea infrastructurii și conectori sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Grosimea minimă a metalelor nobile variază între 0,3-0,5 mm", "correct": true },
+      { "id": "B", "text": "Pentru aliaje de bază, grosimea minimă este 0,3-0,4 mm", "correct": true },
+      { "id": "C", "text": "La conectori, grosimea trebuie să fie cât mai mare posibil fără a leza gingia, la circa 1 mm deasupra papilei", "correct": true },
+      { "id": "D", "text": "Dublarea grosimii suprafeței crește rezistența de 8 ori", "correct": true },
+      { "id": "E", "text": "Dublarea lățimii crește rezistența de 8 ori, iar dublarea grosimii doar de 2 ori", "correct": false }
+    ],
+    "explanation": "Cursul precizează invers: dublarea lățimii dublează rezistența, dublarea grosimii o crește de 8 ori.",
+    "source": "PPF Curs 10.pdf, slides Grosime infrastructură/conector"
+  },
+  {
+    "id": 17,
+    "topic": "Prelucrarea metalului",
+    "difficulty": "hard",
+    "question": "Care reguli de prelucrare a infrastructurii metalice sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Se pot folosi pietre abrazive ceramice, freze carbid și discuri carborund", "correct": true },
+      { "id": "B", "text": "Anumiți abrazivi pot contamina metalul și compromite legătura metal-ceramică", "correct": true },
+      { "id": "C", "text": "Particulele de silicon/carborund pot elibera gaze la încălzire și produce balonarea opaque-ului", "correct": true },
+      { "id": "D", "text": "Finisarea metalului se face într-o singură direcție pentru suprafață netedă și mai puține resturi", "correct": true },
+      { "id": "E", "text": "Finisarea în multe direcții este preferată deoarece crește controlat retenția ceramicii", "correct": false }
+    ],
+    "explanation": "Cursul avertizează că finisarea în multe direcții creează zone neregulate în care se pot inclava resturi ce contaminează ceramica.",
+    "source": "PPF Curs 10.pdf, slides Prelucrarea infrastructurii"
+  },
+  {
+    "id": 18,
+    "topic": "Balans și sudură",
+    "difficulty": "hard",
+    "question": "Dacă o PPF metalo-ceramică are balans pe model după verificarea internă, care conduită este descrisă?",
+    "options": [
+      { "id": "A", "text": "Unul dintre conectori se secționează cu disc de carborund", "correct": true },
+      { "id": "B", "text": "Componentele se repoziționează pe model, iar conectorul se reconstruiește/sudează controlat", "correct": true },
+      { "id": "C", "text": "Se poate folosi Pattern Resin cu contracție joasă pentru a replica forma și volumul final al conectorului", "correct": true },
+      { "id": "D", "text": "Zona se stabilizează cu masă de ambalat specifică, apoi se încălzește și se aplică flux pentru prevenirea oxidării", "correct": true },
+      { "id": "E", "text": "Se sablează și oxidează fără secționare, indiferent de balans", "correct": false }
+    ],
+    "explanation": "Cursul spune că dacă lucrarea nu basculează se poate sabla/oxida; dacă are balans, se secționează un conector.",
+    "source": "PPF Curs 10.pdf, slides Verificare balans și sudură"
+  },
+  {
+    "id": 19,
+    "topic": "Legătura metalo-ceramică",
+    "difficulty": "hard",
+    "question": "Care ipoteze ale legăturii metalo-ceramice sunt prezentate?",
+    "options": [
+      { "id": "A", "text": "Legături Van der Waals - legătură fizică", "correct": true },
+      { "id": "B", "text": "Legături mecanice prin microretenții create prin sablare", "correct": true },
+      { "id": "C", "text": "Legături chimice între stratul de oxizi metalici și ceramică", "correct": true },
+      { "id": "D", "text": "Teoria compresiei, prin compresia ceramicii de către substratul metalic", "correct": true },
+      { "id": "E", "text": "Legătura prin dizolvarea completă a metalului în ceramică", "correct": false }
+    ],
+    "explanation": "Cursul listează patru ipoteze și precizează că teoria legăturii chimice prin stratul de oxizi este cea mai acceptată.",
+    "source": "PPF Curs 10.pdf, slide Legătura metalo-ceramică"
+  },
+  {
+    "id": 20,
+    "topic": "Protocol metalo-ceramic",
+    "difficulty": "hard",
+    "question": "Care succesiune tehnologică este corectă pentru protocolul metalo-ceramic prin turnare + sinterizare?",
+    "options": [
+      { "id": "A", "text": "Machetă infrastructură, ambalare, preîncălzire/încălzire, topire/turnare, dezambalare și sablare", "correct": true },
+      { "id": "B", "text": "Prelucrare mecanică infrastructură, sablare cu Al2O3, curățare cu steamer, oxidare, sablare", "correct": true },
+      { "id": "C", "text": "Wash-opaque, opaque 1/2, dentină, enamel, corectură, pictură externă + glazură", "correct": true },
+      { "id": "D", "text": "Oxidare la 980 grade C 10 minute, wash-opaque 960 grade C, opaque 930 grade C, enamel 910 grade C, glazură 850 grade C", "correct": true },
+      { "id": "E", "text": "Frezare umedă precristalizată și cristalizare la 850 grade C ca etapă metalică", "correct": false }
+    ],
+    "explanation": "Frezarea umedă și cristalizarea la 850 grade C aparțin disilicatului de litiu, nu protocolului metalo-ceramic metal + ceramică.",
+    "source": "PPF Curs 10.pdf, slides Protocol metalo-ceramic turnare + sinterizare"
+  },
+  {
+    "id": 21,
+    "topic": "Stratificare ceramică",
+    "difficulty": "hard",
+    "question": "Care reguli de stratificare ceramică pe infrastructură metalică sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Opaque Dentine se aplică sub intermediari și cervical pentru a evita diferențe cromatice", "correct": true },
+      { "id": "B", "text": "Un strat subțire de dentină se aplică peste Opaque Dentine și se completează forma anatomică", "correct": true },
+      { "id": "C", "text": "Dentina se reduce în treimea incizală pentru spațiu suficient enamelului", "correct": true },
+      { "id": "D", "text": "PPF se supradimensionează ușor pentru compensarea contracției la ardere", "correct": true },
+      { "id": "E", "text": "Elementele punții nu se separă interproximal înainte de prima ardere de dentină", "correct": false }
+    ],
+    "explanation": "Cursul cere separarea interproximală până la opac înainte de prima ardere a dentinei.",
+    "source": "PPF Curs 10.pdf, slide Stratificare ceramică"
+  },
+  {
+    "id": 22,
+    "topic": "Protocoale digitale metalo-ceramice",
+    "difficulty": "hard",
+    "question": "Care diferențe între frezare + sinterizare și SLM + sinterizare sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Ambele includ scanare de laborator, design CAD și faze ceramice de opaque/dentină/enamel/glazură", "correct": true },
+      { "id": "B", "text": "Frezarea include planificarea frezării CAM și frezare uscată", "correct": true },
+      { "id": "C", "text": "SLM include planificarea strategiei de printare, imprimarea SLM și tratament termic de detensionare", "correct": true },
+      { "id": "D", "text": "SLM include îndepărtarea pulberii nesinterizate și secționarea de pe suport", "correct": true },
+      { "id": "E", "text": "Frezarea și SLM elimină complet necesitatea sablării cu Al2O3", "correct": false }
+    ],
+    "explanation": "Ambele protocoale digitale includ sablare cu Al2O3 înaintea etapelor ceramice/probei.",
+    "source": "PPF Curs 10.pdf, slides Protocoale frezare/SLM + sinterizare"
+  },
+  {
+    "id": 23,
+    "topic": "Suprastructura ceramică",
+    "difficulty": "hard",
+    "question": "Care două afirmații sunt corecte despre clasificarea ceramicilor dentare în tehnica metalo-ceramică?",
+    "options": [
+      { "id": "A", "text": "Ceramicile de joasă fuziune sunt indicate pentru metalo-ceramică", "correct": true },
+      { "id": "B", "text": "Ceramicile de medie fuziune sunt menționate pentru corp de punte prefabricat", "correct": true },
+      { "id": "C", "text": "Ceramicile de înaltă fuziune sunt indicate ca opaque pentru toate PPF metalo-ceramice", "correct": false },
+      { "id": "D", "text": "Metalo-ceramica folosește doar ceramică de înaltă fuziune peste 1300 grade C", "correct": false },
+      { "id": "E", "text": "Ceramica de joasă fuziune nu poate fi aplicată pe metal", "correct": false }
+    ],
+    "explanation": "Cursul clasifică ceramicile după temperatura de fuziune: joasă pentru metalo-ceramică, medie pentru corp de punte prefabricat, înaltă pentru garnituri PT.",
+    "source": "PPF Curs 10.pdf, slide Clasificarea ceramicilor dentare în tehnica MC"
+  }
+]

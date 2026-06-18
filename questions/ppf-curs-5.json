@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "topic": "Polimerizare în cuvă",
+    "difficulty": "medium",
+    "question": "Care afirmație definește corect polimerizarea în cuvă folosită pentru obținerea machetelor din rășini calcinabile?",
+    "options": [
+      { "id": "A", "text": "Este o manufacturare aditivă în care un polimer lichid dintr-o cuvă este fotopolimerizat selectiv cu radiație luminoasă", "correct": true },
+      { "id": "B", "text": "Este o frezare subtractivă din disc metalic, urmată de sablare", "correct": false },
+      { "id": "C", "text": "Este topirea directă a pulberii metalice până se obține PPF finală", "correct": false },
+      { "id": "D", "text": "Este ambalarea directă a cerii fără realizarea unei machete digitale", "correct": false },
+      { "id": "E", "text": "Este polimerizarea chimică a acrilatului într-o chiuvetă fără lumină UV", "correct": false }
+    ],
+    "explanation": "Cursul definește polimerizarea în cuvă ca proces aditiv în care polimerul lichid este fotopolimerizat selectiv prin radiație luminoasă, de exemplu ultravioletă.",
+    "source": "PPF-Curs-5.pdf, slide Polimerizare în cuvă - definiție"
+  },
+  {
+    "id": 2,
+    "topic": "Tehnologii de polimerizare în cuvă",
+    "difficulty": "hard",
+    "question": "Care asocieri între tehnologia de polimerizare în cuvă și principiul ei sunt corecte?",
+    "options": [
+      { "id": "A", "text": "SLA - subtip de fabricație pe bază de laser", "correct": true },
+      { "id": "B", "text": "DLP - producție bazată pe proiectoare", "correct": true },
+      { "id": "C", "text": "LCD - stereolitografie bazată pe mascare", "correct": true },
+      { "id": "D", "text": "SLA - fuziune a patului cu pulberi metalice", "correct": false },
+      { "id": "E", "text": "DLP - turnare centrifugă cu arc voltaic", "correct": false }
+    ],
+    "explanation": "În curs, SLA, DLP și LCD sunt subtipuri ale polimerizării în cuvă; fuziunea patului cu pulberi și turnarea centrifugă aparțin altor tehnologii.",
+    "source": "PPF-Curs-5.pdf, slide Polimerizare în cuvă - SLA/DLP/LCD"
+  },
+  {
+    "id": 3,
+    "topic": "Post-procesarea pieselor imprimate",
+    "difficulty": "hard",
+    "question": "După imprimarea strat-cu-strat a unei machete din rășină calcinabilă, care etape de post-procesare sunt menționate în curs?",
+    "options": [
+      { "id": "A", "text": "Spălarea pentru îndepărtarea rășinii necurate cu alcool izopropilic sau soluții dedicate", "correct": true },
+      { "id": "B", "text": "Îndepărtarea manuală a suporturilor cu clești sau bisturiu", "correct": true },
+      { "id": "C", "text": "Post-curare UV pentru finalizarea polimerizării și maximizarea durității", "correct": true },
+      { "id": "D", "text": "Finisare opțională prin șlefuire, grunduire sau vopsire", "correct": true },
+      { "id": "E", "text": "Călirea aliajului la 200-300 grade C înainte de ambalare", "correct": false }
+    ],
+    "explanation": "Post-procesarea include spălare, îndepărtarea suporturilor, post-curare UV și finisare. Călirea/revenirea sunt discutate la dezambalarea piesei metalice, nu la post-procesarea rășinii.",
+    "source": "PPF-Curs-5.pdf, slide Polimerizare în cuvă - post-procesare"
+  },
+  {
+    "id": 4,
+    "topic": "Pregătirea machetei pentru ambalare",
+    "difficulty": "medium",
+    "question": "Care sunt cele trei etape tehnice necesare înaintea turnării unei machete?",
+    "options": [
+      { "id": "A", "text": "Pregătirea machetei în vederea ambalării", "correct": true },
+      { "id": "B", "text": "Poziționarea canalelor de turnare", "correct": true },
+      { "id": "C", "text": "Degresarea și detensionarea machetei", "correct": true },
+      { "id": "D", "text": "Recepția amprentei și montarea în ocluzor", "correct": false },
+      { "id": "E", "text": "Cimentarea provizorie pe câmpul protetic", "correct": false }
+    ],
+    "explanation": "Înaintea turnării, cursul enumeră pregătirea machetei pentru ambalare, poziționarea canalelor și degresarea/detensionarea. Recepția amprentei și cimentarea aparțin altor momente clinico-tehnice.",
+    "source": "PPF-Curs-5.pdf, slide Pregătirea machetelor pentru ambalare - etape"
+  },
+  {
+    "id": 5,
+    "topic": "Pregătirea machetei pentru ambalare",
+    "difficulty": "hard",
+    "question": "Care manopere sunt indicate după finalizarea machetei și înainte de ambalare?",
+    "options": [
+      { "id": "A", "text": "Verificarea și readaptarea cervicală cu ceară de colet", "correct": true },
+      { "id": "B", "text": "Secționarea conectorilor și refacerea lor cu cantități mici de ceară, cu răcire între depuneri", "correct": true },
+      { "id": "C", "text": "Curățarea suprafeței machetei cu periuță soft sau bețișor cu vată, eventual cu alcool/neofalină", "correct": true },
+      { "id": "D", "text": "Forțarea introducerii pe bont pentru a obține adaptarea internă", "correct": false },
+      { "id": "E", "text": "Sablarea cu oxid de alumină înainte de ambalare", "correct": false }
+    ],
+    "explanation": "Cursul cere readaptare cervicală, refacerea conectorilor și curățarea machetei. Forțarea pe bont și sablarea țin de prelucrarea piesei turnate, nu de macheta de ceară/rășină.",
+    "source": "PPF-Curs-5.pdf, slide Pregătirea machetei în vederea ambalării"
+  },
+  {
+    "id": 6,
+    "topic": "Tije și canale de turnare",
+    "difficulty": "hard",
+    "question": "Care afirmații despre tijele de turnare sunt susținute de curs?",
+    "options": [
+      { "id": "A", "text": "Tija de turnare prefigurează canalul/cavitatea prin care metalul topit intră în tipar", "correct": true },
+      { "id": "B", "text": "Poate fi din ceară sau din rășini calcinabile când macheta este imprimată 3D", "correct": true },
+      { "id": "C", "text": "Tijele de plastic și metal nu se mai folosesc", "correct": true },
+      { "id": "D", "text": "Canalele din ceară pot fi rolă, tije sau preformate", "correct": true },
+      { "id": "E", "text": "Tijele metalice sunt preferate deoarece rămân în tipar și cresc rezistența", "correct": false }
+    ],
+    "explanation": "Tijele prefigurează canalele de turnare și pot fi din ceară sau rășini calcinabile; cursul precizează explicit că cele din plastic și metal nu se mai folosesc.",
+    "source": "PPF-Curs-5.pdf, slide Poziționarea canalelor - tipul de tijă"
+  },
+  {
+    "id": 7,
+    "topic": "Conformator și cilindru",
+    "difficulty": "medium",
+    "question": "Ce rol are cilindrul conformator în etapa de ambalare?",
+    "options": [
+      { "id": "A", "text": "Este tubul în care se toarnă masa de ambalat pentru formarea tiparului", "correct": true },
+      { "id": "B", "text": "Este prima porțiune a tiparului cu care metalul face contact la turnare", "correct": false },
+      { "id": "C", "text": "Este rezervorul metalic dintre machetă și canalul secundar", "correct": false },
+      { "id": "D", "text": "Este hârtia umezită care participă la expansiunea higroscopică", "correct": false },
+      { "id": "E", "text": "Este creuzetul în care se topește aliajul", "correct": false }
+    ],
+    "explanation": "Cilindrul conformator este tubul în care se introduce masa de ambalat. Prima porțiune de contact a metalului este conul de turnare.",
+    "source": "PPF-Curs-5.pdf, slide Poziționarea canalelor - cilindrul conformator"
+  },
+  {
+    "id": 8,
+    "topic": "Hârtia de tapetare",
+    "difficulty": "hard",
+    "question": "Care afirmații despre hârtia de tapetare a conformatorului sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Se folosește la interiorul cilindrului conformator când acesta este din plastic sau metal", "correct": true },
+      { "id": "B", "text": "Permite expansiunea masei de ambalat în priză și la încălzire", "correct": true },
+      { "id": "C", "text": "Hârtia umezită participă la expansiunea higroscopică", "correct": true },
+      { "id": "D", "text": "Hârtia din azbest nu se mai folosește deoarece este cancerigenă", "correct": true },
+      { "id": "E", "text": "Hârtia ceramică pe bază de fibre de aluminosilicat trebuie obligatoriu umezită", "correct": false }
+    ],
+    "explanation": "Cursul menționează rolul de expansiune/desprindere și clasifică hârtia în azbest (nefolosită), celuloză (se umezește), ceramică pe bază de fibre de aluminosilicat (nu se umezește) și mixtă.",
+    "source": "PPF-Curs-5.pdf, slide Poziționarea canalelor - hârtia de tapetare"
+  },
+  {
+    "id": 9,
+    "topic": "Distanța față de marginea conformatorului",
+    "difficulty": "medium",
+    "question": "Care este intervalul recomandat pentru grosimea masei de ambalat de la suprafața/marginea liberă până la machetă?",
+    "options": [
+      { "id": "A", "text": "6-10 mm", "correct": true },
+      { "id": "B", "text": "1-2 mm", "correct": false },
+      { "id": "C", "text": "2,5-3 mm", "correct": false },
+      { "id": "D", "text": "10-15 mm", "correct": false },
+      { "id": "E", "text": "3-5 mm", "correct": false }
+    ],
+    "explanation": "Cursul precizează dimensiunea maximă de 6-10 mm; grosimi mai mari nu asigură evacuarea gazelor, iar cele mai mici nu asigură rezistența mecanică.",
+    "source": "PPF-Curs-5.pdf, slide Poziționarea canalelor - schemă conformator"
+  },
+  {
+    "id": 10,
+    "topic": "Tehnica clasică de atașare a canalelor",
+    "difficulty": "hard",
+    "question": "Care afirmații descriu tehnica clasică de atașare a canalelor la machetă?",
+    "options": [
+      { "id": "A", "text": "Utilizează tije de 1,5-3 mm diametru și aproximativ 3 cm lungime", "correct": true },
+      { "id": "B", "text": "Tijele se aplică perpendicular pe machetă, pe cuspizii nefuncționali", "correct": true },
+      { "id": "C", "text": "La 1-2 mm de machetă se realizează un rezervor de 3-4 mm diametru", "correct": true },
+      { "id": "D", "text": "Tijele converg spre un punct aflat la 3 cm de suprafața machetei", "correct": true },
+      { "id": "E", "text": "Canalul intermediar paralel cu macheta este obligatoriu și are lungimea PPF", "correct": false }
+    ],
+    "explanation": "Primele patru descriu tehnica clasică. Canalul intermediar lung, paralel cu suprafața machetei, este caracteristic tehnicii Heraeus/Bego.",
+    "source": "PPF-Curs-5.pdf, slide Tehnica clasică"
+  },
+  {
+    "id": 11,
+    "topic": "Tehnica Heraeus",
+    "difficulty": "hard",
+    "question": "În tehnica Heraeus, care caracteristici sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Folosește canale secundare, intermediare și principale", "correct": true },
+      { "id": "B", "text": "Canalele secundare se aplică primele, câte unul pe fiecare element al PPF", "correct": true },
+      { "id": "C", "text": "Canalul intermediar este paralel cu suprafața machetei și are lungimea PPF", "correct": true },
+      { "id": "D", "text": "Canalele principale sunt două tije mai groase decât canalul intermediar și se unesc la 10-15 mm de acesta", "correct": true },
+      { "id": "E", "text": "Folosește numai tije simple de 1,5 mm fără canal intermediar", "correct": false }
+    ],
+    "explanation": "Tehnica Heraeus folosește sistemul secundar-intermediar-principal. Tija simplă fără canal intermediar nu descrie această tehnică.",
+    "source": "PPF-Curs-5.pdf, slide Tehnica Heraeus"
+  },
+  {
+    "id": 12,
+    "topic": "Tehnica Bego",
+    "difficulty": "medium",
+    "question": "Ce diferențiază tehnica Bego față de Heraeus, conform cursului?",
+    "options": [
+      { "id": "A", "text": "Păstrează sistemul cu canale secundare, intermediare și principale, dar canalele secundare și canalul intermediar sunt mai groase", "correct": true },
+      { "id": "B", "text": "Renunță complet la canalele principale", "correct": false },
+      { "id": "C", "text": "Folosește exclusiv canale oarbe de 0,5-1 mm", "correct": false },
+      { "id": "D", "text": "Nu fixează tijele pe conul conformator", "correct": false },
+      { "id": "E", "text": "Este o tehnică de curățare chimică a aliajelor nobile", "correct": false }
+    ],
+    "explanation": "Cursul afirmă că Bego este exact ca Heraeus ca sistem, dar cu canale secundare și intermediare mai groase.",
+    "source": "PPF-Curs-5.pdf, slide Tehnica Bego"
+  },
+  {
+    "id": 13,
+    "topic": "Cântărirea machetei",
+    "difficulty": "medium",
+    "question": "Care formulă este folosită pentru estimarea cantității de metal necesare la turnare?",
+    "options": [
+      { "id": "A", "text": "Greutatea cerii x densitatea metalului = cantitatea de metal necesară", "correct": true },
+      { "id": "B", "text": "Greutatea metalului x expansiunea higroscopică = greutatea cerii", "correct": false },
+      { "id": "C", "text": "Diametrul canalului x lungimea canalului = masa aliajului", "correct": false },
+      { "id": "D", "text": "Densitatea metalului / greutatea cerii = contracția aliajului", "correct": false },
+      { "id": "E", "text": "Greutatea pulberii de ambalat x 0,4% = cantitatea de metal", "correct": false }
+    ],
+    "explanation": "După poziționarea tijelor, macheta se cântărește, iar formula dată este greutatea cerii înmulțită cu densitatea metalului.",
+    "source": "PPF-Curs-5.pdf, slide Cântărirea machetei"
+  },
+  {
+    "id": 14,
+    "topic": "Canale de degazare și răcire",
+    "difficulty": "hard",
+    "question": "Care afirmații despre canalele de degazare/răcire sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Canalele de degazare permit evacuarea rapidă a gazelor acumulate la încălzire și turnare", "correct": true },
+      { "id": "B", "text": "Pot fi directe sau oarbe", "correct": true },
+      { "id": "C", "text": "Au diametrul de 0,5-1 mm", "correct": true },
+      { "id": "D", "text": "Canalele de răcire oarbe au traseu de 3-5 mm", "correct": true },
+      { "id": "E", "text": "Au rolul de a mări deliberat contracția corpului de punte", "correct": false }
+    ],
+    "explanation": "Canalele de degazare evacuează gazele, iar cele de răcire disipă căldura din zonele groase și egalizează răcirea; nu urmăresc creșterea contracției.",
+    "source": "PPF-Curs-5.pdf, slide Canale de degazare/răcire"
+  },
+  {
+    "id": 15,
+    "topic": "Mase de ambalat",
+    "difficulty": "hard",
+    "question": "Care condiție este prezentată ca fiind cea mai importantă pentru masa de ambalat?",
+    "options": [
+      { "id": "A", "text": "Să aibă coeficient de expansiune egal cu coeficientul de contracție al aliajului metalic", "correct": true },
+      { "id": "B", "text": "Să fie complet lipsită de porozitate după priză", "correct": false },
+      { "id": "C", "text": "Să reacționeze chimic cu aliajul pentru a crește retenția", "correct": false },
+      { "id": "D", "text": "Să fie obligatoriu pe bază de silicați pentru toate aliajele", "correct": false },
+      { "id": "E", "text": "Să nu reziste la temperaturi înalte, pentru a se dezambala ușor", "correct": false }
+    ],
+    "explanation": "Cursul marchează drept cea mai importantă condiție compensarea contracției aliajului prin expansiunea masei de ambalat. Materialul trebuie și să fie poros, rezistent termic și inert chimic.",
+    "source": "PPF-Curs-5.pdf, slide Condiții impuse masei de ambalat"
+  },
+  {
+    "id": 16,
+    "topic": "Tipuri de mase de ambalat",
+    "difficulty": "hard",
+    "question": "Care asocieri între tipul masei de ambalat și utilizare sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Sulfați: pentru aliaje nobile cu interval de topire sub 1000 grade C", "correct": true },
+      { "id": "B", "text": "Fosfați: utilizați cel mai frecvent, inclusiv cu aliaje Ni-Cr, Co-Cr și aliaje nobile cu Au/Pt mai ridicat sau Pd-Ag", "correct": true },
+      { "id": "C", "text": "Silicați: pentru proteze scheletate și supraproteze, cu Co-Cr și aliaje pe bază de Ti", "correct": true },
+      { "id": "D", "text": "Sulfați: recomandați pentru aliaje cu interval de topire mare deoarece sulfatul de calciu nu se descompune", "correct": false },
+      { "id": "E", "text": "Fosfați: exclusiv pentru lucrări de acrilat fără metal", "correct": false }
+    ],
+    "explanation": "Cursul distinge mase pe bază de sulfați, fosfați și silicați. Sulfații se evită cu aliaje cu interval de topire mare, deoarece se poate descompune sulfatul de calciu.",
+    "source": "PPF-Curs-5.pdf, slide Principalele tipuri de mase de ambalat"
+  },
+  {
+    "id": 17,
+    "topic": "Prepararea masei de ambalat",
+    "difficulty": "hard",
+    "question": "Care succesiune descrie corect prepararea masei de ambalat în tehnica cu un singur material?",
+    "options": [
+      { "id": "A", "text": "Dozare pulbere, dozare lichid, malaxare manuală scurtă, malaxare în vacuum-malaxor, introducerea pastei sub vibrație, apoi îndepărtarea tiparului după priză", "correct": true },
+      { "id": "B", "text": "Topirea aliajului, dozarea pulberii, introducerea pastei, apoi aplicarea canalelor secundare", "correct": false },
+      { "id": "C", "text": "Încălzire la 950 grade C, malaxare manuală 2 minute, dozare lichid și abia apoi dozare pulbere", "correct": false },
+      { "id": "D", "text": "Sablare, degresare chimică, dozare pulbere și cimentare provizorie", "correct": false },
+      { "id": "E", "text": "Doar amestecare manuală timp de 45-60 secunde, fără vacuum-malaxor", "correct": false }
+    ],
+    "explanation": "Cursul descrie tehnica actuală într-un singur material: dozare pulbere/lichid, amestecare manuală maxim 15 secunde, vacuum-malaxare conform producătorului, introducere sub vibrație și proceduri după priză.",
+    "source": "PPF-Curs-5.pdf, slide Tehnica de preparare a masei de ambalat"
+  },
+  {
+    "id": 18,
+    "topic": "Expansiunea masei de ambalat",
+    "difficulty": "hard",
+    "question": "Care afirmații privind expansiunea masei de ambalat sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Expansiunea compensează contracția de solidificare a aliajului", "correct": true },
+      { "id": "B", "text": "Aliajele de aur se micșorează aproximativ 1,5%, iar aliajele nichel-crom aproximativ 2,4%", "correct": true },
+      { "id": "C", "text": "Expansiunea poate fi de priză, higroscopică și termică", "correct": true },
+      { "id": "D", "text": "Expansiunea higroscopică este prezentată ca cea mai mare, aproximativ 1,2-2,2%", "correct": true },
+      { "id": "E", "text": "Expansiunea termică este inutilă deoarece tiparul se menține permanent la temperatura camerei", "correct": false }
+    ],
+    "explanation": "Cursul explică necesitatea compensării contracției aliajului și enumeră cele trei tipuri de expansiune. Expansiunea termică apare prin încălzirea tiparului.",
+    "source": "PPF-Curs-5.pdf, slides Expansiunea masei de ambalat"
+  },
+  {
+    "id": 19,
+    "topic": "Preîncălzire și încălzire",
+    "difficulty": "hard",
+    "question": "Care afirmații despre preîncălzirea și încălzirea tiparului sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Preîncălzirea ridică temperatura cuptorului până la 250 grade C în 30 minute și se menține la această temperatură", "correct": true },
+      { "id": "B", "text": "Preîncălzirea urmărește topirea cerii, evaporarea apei și începerea dilatării termice", "correct": true },
+      { "id": "C", "text": "Încălzirea urcă de la 250 grade C la 950-1000 grade C pentru Ni-Cr, Co-Cr și Pd-Ag", "correct": true },
+      { "id": "D", "text": "Pentru aliaje nobile, temperatura indicată este 700-750 grade C", "correct": true },
+      { "id": "E", "text": "Încălzirea se face pentru hidratarea masei de ambalat, fără arderea machetei", "correct": false }
+    ],
+    "explanation": "Cursul separă preîncălzirea la 250 grade C de încălzirea la temperatura corelată cu aliajul; scopurile includ arderea completă a machetei, evaporarea apei și dilatarea termică.",
+    "source": "PPF-Curs-5.pdf, slides Preîncălzirea/Încălzirea"
+  },
+  {
+    "id": 20,
+    "topic": "Topirea aliajului",
+    "difficulty": "hard",
+    "question": "Care asocieri între sursa de topire și indicațiile din curs sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Flacăra oxihidrică ajunge la aproximativ 3000 grade C și nu se utilizează la aliaje ce conțin Pd", "correct": true },
+      { "id": "B", "text": "Acetilenă + oxigen ajunge la aproximativ 3000 grade C și este folosită pentru aliaje inoxidabile", "correct": true },
+      { "id": "C", "text": "Vapori de benzină + oxigen ajung la 1200-2000 grade C și sunt pentru aliaje nobile și seminobile", "correct": true },
+      { "id": "D", "text": "Topirea electrică poate fi prin inducție, arc voltaic sau rezistență", "correct": true },
+      { "id": "E", "text": "Gaze naturale cu oxigen produc mereu peste 3000 grade C, independent de raportul gaz-oxigen", "correct": false }
+    ],
+    "explanation": "Cursul diferențiază sursele cu flacără și topirea electrică. Temperatura flăcării cu gaze naturale depinde de cantitatea de gaz și de raportul gaz-oxigen.",
+    "source": "PPF-Curs-5.pdf, slide Topirea aliajului - surse de topire"
+  },
+  {
+    "id": 21,
+    "topic": "Aparate de turnare",
+    "difficulty": "medium",
+    "question": "Care descriere corespunde castomatului cu suprapresiune?",
+    "options": [
+      { "id": "A", "text": "Este identic cu castomatul convențional, dar conține pompă de vacuum și pompă de suprapresiune; la topire folosește vacuum, iar la turnare suprapresiune", "correct": true },
+      { "id": "B", "text": "Este o centrifugă manuală verticală acționată prin 10-15 rotații", "correct": false },
+      { "id": "C", "text": "Este o centrifugă orizontală cu resort, cu 3 ture pentru aliaje nobile și 4 pentru nenobile", "correct": false },
+      { "id": "D", "text": "Este un creuzet ceramic pentru Ni-Cr și Co-Cr", "correct": false },
+      { "id": "E", "text": "Este un dispozitiv de curățare chimică cu aqua regia", "correct": false }
+    ],
+    "explanation": "Castomatul cu suprapresiune adaugă vacuum și suprapresiune față de castomatul convențional, folosind vacuum la topire și suprapresiune la turnare.",
+    "source": "PPF-Curs-5.pdf, slide Castomatul cu suprapresiune"
+  },
+  {
+    "id": 22,
+    "topic": "Creuzete",
+    "difficulty": "hard",
+    "question": "Care asocieri între creuzet și aliaj sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Creuzete din lut + grafit - pentru aliaje nobile", "correct": true },
+      { "id": "B", "text": "Creuzete din carbon - pentru aliaje nobile și aliaje nobile pentru tehnica metalo-ceramică", "correct": true },
+      { "id": "C", "text": "Creuzete din quartz - pentru aliaje cu interval înalt de topire", "correct": true },
+      { "id": "D", "text": "Creuzete ceramice - pentru aliaje pe bază de Ni-Cr, Co-Cr, Pd-Ag", "correct": true },
+      { "id": "E", "text": "Creuzete din plastic - pentru aliaje inoxidabile", "correct": false }
+    ],
+    "explanation": "Cursul listează lut+grafit, carbon, quartz și ceramică în funcție de tipul de aliaj; creuzetele din plastic nu sunt menționate pentru topire.",
+    "source": "PPF-Curs-5.pdf, slide Creuzete"
+  },
+  {
+    "id": 23,
+    "topic": "Dezambalarea tiparului",
+    "difficulty": "hard",
+    "question": "Care afirmații despre dezambalarea tiparului și tratamentele termice sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Dezambalarea este eliberarea piesei protetice turnate din masa de ambalat", "correct": true },
+      { "id": "B", "text": "Se face doar după răcirea lentă a conformatorului, minimum o oră", "correct": true },
+      { "id": "C", "text": "Călirea crește rezistența la abraziune și duritatea, dar scade rezistența la încovoiere", "correct": true },
+      { "id": "D", "text": "Revenirea presupune ridicarea metalului la 200-300 grade C și răcire lentă, crescând tenacitatea", "correct": true },
+      { "id": "E", "text": "Toate aliajele trebuie imersate imediat în apă după turnare pentru dezintegrarea masei de ambalat", "correct": false }
+    ],
+    "explanation": "Imersarea imediată este menționată doar pentru aliaje nobile cu conținut mare de Au. Călirea poate fi folosită numai dacă este urmată de revenire.",
+    "source": "PPF-Curs-5.pdf, slide Dezambalarea tiparului"
+  },
+  {
+    "id": 24,
+    "topic": "Curățarea piesei turnate",
+    "difficulty": "hard",
+    "question": "Care afirmații despre sablare și curățarea chimică sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Sablarea proiectează particule abrazive până când metalul devine mat, curat și rugos", "correct": true },
+      { "id": "B", "text": "Oxidul de alumină, sferele de sticlă și carbura de siliciu sunt materiale de sablare menționate", "correct": true },
+      { "id": "C", "text": "PMMA este indicat pentru aliaje nobile", "correct": true },
+      { "id": "D", "text": "Curățarea chimică se folosește doar pentru aliaje nobile și este un proces foarte toxic", "correct": true },
+      { "id": "E", "text": "Curățarea chimică cu acizi este metoda universală pentru Ni-Cr, Co-Cr și acrilate", "correct": false }
+    ],
+    "explanation": "Cursul limitează curățarea chimică la aliaje nobile și listează acizi precum clorhidric, sulfuric, fosforic, fluorhidric și aqua regia.",
+    "source": "PPF-Curs-5.pdf, slides Dezambalarea - sablare/curățare chimică"
+  },
+  {
+    "id": 25,
+    "topic": "Prelucrarea mecanică",
+    "difficulty": "hard",
+    "question": "Care succesiune și scopuri aparțin prelucrării mecanice a PPF turnate?",
+    "options": [
+      { "id": "A", "text": "Prelucrarea mecanică cuprinde planare, netezire, finisare și lustruire", "correct": true },
+      { "id": "B", "text": "Planarea include secționarea tijelor, modificarea contururilor cu discul și accentuarea șanțurilor", "correct": true },
+      { "id": "C", "text": "Netezirea urmărește fețe externe netede și perfectarea punctelor de contact", "correct": true },
+      { "id": "D", "text": "Finisarea are scop estetic și igienic, îndepărtând striurile și neregularitățile", "correct": true },
+      { "id": "E", "text": "Lustruirea se realizează înainte de sablare, pentru a fixa masa de ambalat pe metal", "correct": false }
+    ],
+    "explanation": "Cursul cere ca prelucrarea mecanică să se facă după sablare și o împarte în planare, netezire, finisare și lustruire.",
+    "source": "PPF-Curs-5.pdf, slides Prelucrarea mecanică"
+  },
+  {
+    "id": 26,
+    "topic": "Adaptarea pe bont",
+    "difficulty": "hard",
+    "question": "Care reguli sunt corecte pentru adaptarea piesei turnate pe bont în etapa de planare?",
+    "options": [
+      { "id": "A", "text": "Adaptarea se face după secționarea tijelor", "correct": true },
+      { "id": "B", "text": "Nu se forțează introducerea pe bont", "correct": true },
+      { "id": "C", "text": "Zonele de retenție pot fi identificate cu spray de ocluzie, stearat de zinc, ruj sau marker nepermanent", "correct": true },
+      { "id": "D", "text": "Modificările interne se fac selectiv, din aproape în aproape, cu freze nediamantate cu inel galben-roșu", "correct": true },
+      { "id": "E", "text": "Se șlefuiește toată fața internă pentru a obține rapid inserția", "correct": false }
+    ],
+    "explanation": "Cursul avertizează explicit: nu se șlefuiește toată fața internă; se intervine selectiv în zonele marcate.",
+    "source": "PPF-Curs-5.pdf, slide Planarea - adaptarea pe bont"
+  },
+  {
+    "id": 27,
+    "topic": "Lustruirea",
+    "difficulty": "hard",
+    "question": "Care asocieri privind pastele/materialele de lustruit sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Oxid de Fe roșu cu liant gras - lucrări de aur", "correct": true },
+      { "id": "B", "text": "Oxid de Cr verde - aliaje inoxidabile", "correct": true },
+      { "id": "C", "text": "Carbonat de Ca purificat cu apă - lucrări de acrilat sau aur", "correct": true },
+      { "id": "D", "text": "Piatră ponce sau cuarț/feldspat cu apă - lucrări acrilice", "correct": true },
+      { "id": "E", "text": "Acid fluorhidric - pastă de lustruit pentru toate aliajele", "correct": false }
+    ],
+    "explanation": "Acidul fluorhidric este menționat la curățarea chimică pentru mase de ambalat pe bază de fosfați, nu ca pastă de lustruit.",
+    "source": "PPF-Curs-5.pdf, slide Lustruirea - paste de lustruit"
+  },
+  {
+    "id": 28,
+    "topic": "Prelucrarea mecanică",
+    "difficulty": "hard",
+    "question": "Care două afirmații diferențiază corect finisarea de lustruirea PPF metalice?",
+    "options": [
+      { "id": "A", "text": "Finisarea îndepărtează striurile și neregularitățile rămase sau create cu freza", "correct": true },
+      { "id": "B", "text": "Lustruirea asigură alunecarea mai bună a părților moi și alimentelor pe suprafața lucrării", "correct": true },
+      { "id": "C", "text": "Finisarea se face înainte de sablare și înainte de planare", "correct": false },
+      { "id": "D", "text": "Lustruirea presupune secționarea tijelor cu discuri de diametru mare", "correct": false },
+      { "id": "E", "text": "Finisarea se realizează obligatoriu cu acid fluorhidric", "correct": false }
+    ],
+    "explanation": "Finisarea are rolul de a elimina striuri/neregularități, iar lustruirea urmărește efect estetic și igienic prin suprafață netedă.",
+    "source": "PPF-Curs-5.pdf, slides Finisarea și Lustruirea"
+  }
+]

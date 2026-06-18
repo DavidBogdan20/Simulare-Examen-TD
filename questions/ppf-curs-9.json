@@ -1,0 +1,317 @@
+[
+  {
+    "id": 1,
+    "topic": "Discuri multistrat Y-TZP",
+    "difficulty": "hard",
+    "question": "Care afirmații despre discurile multistrat pentru Y-TZP sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Prezintă cel puțin trei nuanțe în același disc: enamel, strat de tranziție și dentină", "correct": true },
+      { "id": "B", "text": "Nuanța lucrărilor se prefigurează în CAM prin poziționarea în anumite zone ale discului", "correct": true },
+      { "id": "C", "text": "Discurile multicolor se colorează doar după sinterizare prin pigmentare externă sau microstratificare", "correct": true },
+      { "id": "D", "text": "Pot avea translucidități diferite, cu proprietăți mecanice corelate conținutului de ZrO2", "correct": true },
+      { "id": "E", "text": "Necesită obligatoriu imersie înainte de sinterizare pentru a obține orice nuanță", "correct": false }
+    ],
+    "explanation": "La multistrat nuanța se controlează prin poziționarea în disc; colorarea se face post-sinterizare prin pigmentare externă/microstratificare.",
+    "source": "PPF- Curs 9.pdf, slide Colorarea - tehnica discului multistrat"
+  },
+  {
+    "id": 2,
+    "topic": "Colorarea Y-TZP",
+    "difficulty": "hard",
+    "question": "Care reguli sunt corecte pentru imersarea/colorarea selectivă a Y-TZP?",
+    "options": [
+      { "id": "A", "text": "Sunt recomandate teste în laborator pentru îmbunătățirea tehnicii", "correct": true },
+      { "id": "B", "text": "Diferite discuri pot fi pigmentate cu aceeași gamă de coloranți doar după pretestare riguroasă", "correct": true },
+      { "id": "C", "text": "Timpul de imersie trebuie corelat cu indicațiile producătorului și monitorizat cu cronometru", "correct": true },
+      { "id": "D", "text": "Imersarea insuficientă poate da colorare superficială sau nuanță prea deschisă", "correct": true },
+      { "id": "E", "text": "Imersarea îndelungată previne orice diferență de culoare între corpul de punte și elementele de agregare", "correct": false }
+    ],
+    "explanation": "Cursul avertizează că imersarea îndelungată poate produce nuanță prea închisă și diferențe corp de punte/elemente de agregare.",
+    "source": "PPF- Curs 9.pdf, slide Colorarea Y-TZP"
+  },
+  {
+    "id": 3,
+    "topic": "Sinterizarea Y-TZP",
+    "difficulty": "hard",
+    "question": "Care afirmații despre sinterizarea Y-TZP sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Este procesul termic de modificare a rețelei cristaline a Y-TZP", "correct": true },
+      { "id": "B", "text": "Are loc în intervalul 1450-1550 grade C", "correct": true },
+      { "id": "C", "text": "Depinde de transluciditate, tipul discului și tipul de restaurație", "correct": true },
+      { "id": "D", "text": "Depinde și de compoziția chimică a materialului", "correct": true },
+      { "id": "E", "text": "Nu influențează contracția Y-TZP", "correct": false }
+    ],
+    "explanation": "Cursul precizează că sinterizarea afectează și contracția Y-TZP.",
+    "source": "PPF- Curs 9.pdf, slides Sinterizarea Y-TZP"
+  },
+  {
+    "id": 4,
+    "topic": "Temperatura de sinterizare",
+    "difficulty": "medium",
+    "question": "Ce efect are sinterizarea Y-TZP la temperatură prea mare?",
+    "options": [
+      { "id": "A", "text": "Crește transluciditatea, dar scade rezistența mecanică", "correct": true },
+      { "id": "B", "text": "Crește simultan rezistența mecanică și opacitatea maximă", "correct": false },
+      { "id": "C", "text": "Nu modifică deloc proprietățile materialului", "correct": false },
+      { "id": "D", "text": "Transformă Y-TZP în PMMA", "correct": false },
+      { "id": "E", "text": "Elimină necesitatea sinterizării rapide", "correct": false }
+    ],
+    "explanation": "Cursul indică un compromis: temperatura prea mare crește translucența în detrimentul rezistenței mecanice.",
+    "source": "PPF- Curs 9.pdf, slide Sinterizarea - compoziție și temperatură"
+  },
+  {
+    "id": 5,
+    "topic": "Cuptorul de sinterizare",
+    "difficulty": "hard",
+    "question": "Care reguli privind cuptorul de sinterizare pentru zirconiu sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Nu trebuie utilizat pentru alte tipuri de lucrări, de exemplu metalo-ceramică", "correct": true },
+      { "id": "B", "text": "Necesită calibrare cel puțin o dată pe lună cu inele de zirconiu și grosimetru/șubler digital", "correct": true },
+      { "id": "C", "text": "Curățarea se face săptămânal cu bucăți de zirconiu sau discuri consumate", "correct": true },
+      { "id": "D", "text": "Regimul de curățare include urcare 25-1600 grade C și menținere 4 ore la temperatura maximă", "correct": true },
+      { "id": "E", "text": "Impurificarea cuptorului nu poate modifica niciodată culoarea Y-TZP", "correct": false }
+    ],
+    "explanation": "Cursul avertizează că utilizarea cuptorului pentru alte lucrări îl impurifică și Y-TZP își modifică culoarea.",
+    "source": "PPF- Curs 9.pdf, slide Sinterizarea - cuptor"
+  },
+  {
+    "id": 6,
+    "topic": "Poziționarea la sinterizare",
+    "difficulty": "hard",
+    "question": "Care afirmații despre poziționarea lucrărilor Y-TZP la sinterizare sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Se utilizează recipiente ceramice cu capac, de preferat", "correct": true },
+      { "id": "B", "text": "Lucrările se plasează pe bile de ZrO2, nu direct în recipient", "correct": true },
+      { "id": "C", "text": "Bilele compensează mișcarea lucrărilor generată de contracția la sinterizare", "correct": true },
+      { "id": "D", "text": "Restaurațiile nu trebuie să se atingă reciproc, iar perlele nu se forțează în ambrazuri", "correct": true },
+      { "id": "E", "text": "Recipientul trebuie închis ermetic, fără ventilație", "correct": false }
+    ],
+    "explanation": "Cursul precizează că poziționarea capacului trebuie să asigure ventilația; recipientul nu se închide etanș.",
+    "source": "PPF- Curs 9.pdf, slides Poziționarea la sinterizare"
+  },
+  {
+    "id": 7,
+    "topic": "Elemente de încălzire",
+    "difficulty": "medium",
+    "question": "Care afirmație despre elementele de încălzire ale cuptoarelor de sinterizare este corectă?",
+    "options": [
+      { "id": "A", "text": "Pot fi din carbură de siliciu sau silicidă de molibden, necesitând mentenanță prin ciclul de curățare", "correct": true },
+      { "id": "B", "text": "Sunt întotdeauna din PMMA și se schimbă după fiecare lucrare", "correct": false },
+      { "id": "C", "text": "Cele din carbură de siliciu depun oxid de molibden pe lucrare", "correct": false },
+      { "id": "D", "text": "Cele din silicidă de molibden nu depun oxizi și nu necesită capac", "correct": false },
+      { "id": "E", "text": "Nu influențează niciodată curățenia mediului de sinterizare", "correct": false }
+    ],
+    "explanation": "Cursul indică elemente din carbură de siliciu, cu depunere de quartz, și din silicidă de molibden, cu depunere de oxizi și necesitatea capacului.",
+    "source": "PPF- Curs 9.pdf, slide Elemente de încălzire"
+  },
+  {
+    "id": 8,
+    "topic": "Prelucrare post-sinterizare",
+    "difficulty": "hard",
+    "question": "Care obiective și reguli sunt corecte pentru prelucrarea mecanică post-sinterizare a Y-TZP?",
+    "options": [
+      { "id": "A", "text": "Perfectarea punctelor de contact", "correct": true },
+      { "id": "B", "text": "Ajustarea marginilor îngroșate în etapa CAD", "correct": true },
+      { "id": "C", "text": "Minimă ajustare a formei", "correct": true },
+      { "id": "D", "text": "Recomandabil cu răcire continuă și freze diamantate dedicate pentru zirconiu", "correct": true },
+      { "id": "E", "text": "Se recomandă freze care generează căldură și scântei pentru a crește duritatea", "correct": false }
+    ],
+    "explanation": "Prelucrarea nu se realizează cu freze care generează căldură sau scântei; se recomandă răcire continuă.",
+    "source": "PPF- Curs 9.pdf, slide Prelucrarea mecanică post-sinterizare"
+  },
+  {
+    "id": 9,
+    "topic": "Pigmentarea externă Y-TZP",
+    "difficulty": "hard",
+    "question": "Care afirmații despre pigmentarea externă a Y-TZP sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Este recomandată pentru discuri multistrat sau precolorate prin aplicare selectivă de colorant", "correct": true },
+      { "id": "B", "text": "Pigmenții trebuie să aibă temperatura de ardere sub 900 grade C", "correct": true },
+      { "id": "C", "text": "Glaze LT poate fi aplicat ca spray, pastă sau pulbere cu lichid și ars la 780-800 grade C", "correct": true },
+      { "id": "D", "text": "Suprafețele interne se curăță după aplicarea glaze-ului pentru a preveni dificultăți de adaptare/cimentare", "correct": true },
+      { "id": "E", "text": "Supraglazurarea este aspectul corect urmărit sistematic", "correct": false }
+    ],
+    "explanation": "Cursul arată aspect corect, glazurare insuficientă și supraglazurare ca situații distincte; supraglazurarea nu este scopul.",
+    "source": "PPF- Curs 9.pdf, slides Pigmentarea externă"
+  },
+  {
+    "id": 10,
+    "topic": "Cutback Y-TZP",
+    "difficulty": "hard",
+    "question": "Care afirmații despre cutback + microstratificare pe Y-TZP sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Este recomandată pentru discuri multistrat sau precolorate prin aplicare selectivă", "correct": true },
+      { "id": "B", "text": "Cutback-ul trebuie realizat în etapa de design CAD pentru structurile integral ceramice", "correct": true },
+      { "id": "C", "text": "Realizarea cutback-ului în alte etape crește riscul de fisuri/fracturi", "correct": true },
+      { "id": "D", "text": "Realizarea tardivă a cutback-ului prelungește timpul și uzează instrumentele", "correct": true },
+      { "id": "E", "text": "Cutback-ul post-sinterizare este preferat deoarece nu afectează niciodată zirconia", "correct": false }
+    ],
+    "explanation": "Cursul recomandă cutback în CAD tocmai pentru a evita fisuri, fracturi, timp suplimentar și uzura instrumentelor.",
+    "source": "PPF- Curs 9.pdf, slide Cutback + microstratificare"
+  },
+  {
+    "id": 11,
+    "topic": "VITA Rapid Layer Technology",
+    "difficulty": "hard",
+    "question": "Care afirmații despre VITA Rapid Layer Technology sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Implică frezarea unui schelet de zirconiu și a unui strat exterior feldspatic", "correct": true },
+      { "id": "B", "text": "Cele două componente suprapuse se cimentează", "correct": true },
+      { "id": "C", "text": "Scheletul Y-TZP se sablează cu Al2O3 la maximum 2,5 bari", "correct": true },
+      { "id": "D", "text": "Suprafața internă feldspatică se gravează cu acid fluorhidric 5% timp de 60 secunde, apoi se aplică silan", "correct": true },
+      { "id": "E", "text": "Nu implică design separat pentru schelet și suprastructură", "correct": false }
+    ],
+    "explanation": "Tehnologia presupune design de schelet și suprastructură, adaptare, tratamente de suprafață și cimentare compozită.",
+    "source": "PPF- Curs 9.pdf, slide VITA Rapid Layer Technology"
+  },
+  {
+    "id": 12,
+    "topic": "Disilicat de litiu - variante",
+    "difficulty": "medium",
+    "question": "Care variante constructive pentru PPF din disilicat de litiu sunt menționate?",
+    "options": [
+      { "id": "A", "text": "PPF anterioară maxim 3 elemente, sub 11 mm", "correct": true },
+      { "id": "B", "text": "PPF posterioară maxim 3 elemente, ultimul element de agregare PM2, sub 9 mm", "correct": true },
+      { "id": "C", "text": "Cu stratificare sau monolitic", "correct": true },
+      { "id": "D", "text": "PPF totală de 14-16 elemente ca indicație generală pentru disilicat", "correct": false },
+      { "id": "E", "text": "PPF posterioară extinsă cu molar terminal în orice condiții", "correct": false }
+    ],
+    "explanation": "Cursul limitează disilicatul la PPF anterioare și posterioare scurte, cu ultimul stâlp PM2.",
+    "source": "PPF- Curs 9.pdf, slide Litiu disilicat - variante constructive"
+  },
+  {
+    "id": 13,
+    "topic": "Disilicat de litiu - procesare",
+    "difficulty": "hard",
+    "question": "Care clasificări după tehnica de lucru sunt corecte pentru disilicatul de litiu?",
+    "options": [
+      { "id": "A", "text": "Frezare: se frezează în stadiul precristalizat sau cristalizat", "correct": true },
+      { "id": "B", "text": "Presare: se presează în tipar la cald", "correct": true },
+      { "id": "C", "text": "Disilicatul frezat implică frezare umedă a blocului în fază precristalizată și cristalizare la 850 grade C", "correct": true },
+      { "id": "D", "text": "Disilicatul presat implică încălzire la 850 grade C și presare la 930 grade C", "correct": true },
+      { "id": "E", "text": "Disilicatul se frezează uscat în stadiu presinterizat ca Y-TZP", "correct": false }
+    ],
+    "explanation": "Pentru disilicat frezat cursul indică frezare umedă; frezarea uscată presinterizată aparține Y-TZP.",
+    "source": "PPF- Curs 9.pdf, slides Litiu disilicat frezat/presat"
+  },
+  {
+    "id": 14,
+    "topic": "Conectori disilicat",
+    "difficulty": "hard",
+    "question": "Care afirmații despre conectorii pentru PPF din disilicat de litiu sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Dimensiunea conectorilor trebuie să fie mai mare de 16 mm2 indiferent de modul de realizare", "correct": true },
+      { "id": "B", "text": "Raportul înălțime/lățime trebuie să fie mai mare de 5:4", "correct": true },
+      { "id": "C", "text": "Trebuie considerate secțiunea, forma, lungimea și lățimea conectorilor", "correct": true },
+      { "id": "D", "text": "Pentru integral ceramice nu contează lungimea conectorului, doar culoarea", "correct": false },
+      { "id": "E", "text": "Conectorul poate fi sub 4 mm2 în orice PPF posterioară", "correct": false }
+    ],
+    "explanation": "Cursul cere conectori peste 16 mm2 și raport H/L peste 5:4 pentru disilicat.",
+    "source": "PPF- Curs 9.pdf, slide Conectori disilicat"
+  },
+  {
+    "id": 15,
+    "topic": "Presarea disilicatului full-contur",
+    "difficulty": "hard",
+    "question": "Care pași apar în tehnica presării disilicatului cu morfologie + glazură + pigmentare?",
+    "options": [
+      { "id": "A", "text": "Model cu bont mobil, Die Hardner și lac distanțator", "correct": true },
+      { "id": "B", "text": "Machetă full-contur din ceară, canale de turnare/presare și cântărirea cerii", "correct": true },
+      { "id": "C", "text": "Ambalare în masă specifică și încălzire la 850 grade C", "correct": true },
+      { "id": "D", "text": "Presare la 850-890 grade C, răcire lentă, secționare și sablare", "correct": true },
+      { "id": "E", "text": "Frezare uscată a discului Y-TZP cu V-Factor 20-25%", "correct": false }
+    ],
+    "explanation": "Frezarea Y-TZP nu aparține tehnicii de presare a disilicatului.",
+    "source": "PPF- Curs 9.pdf, slides Presare disilicat - full-contur"
+  },
+  {
+    "id": 16,
+    "topic": "Cutback disilicat presat",
+    "difficulty": "hard",
+    "question": "Care elemente apar în tehnica presării cu cutback + microstratificare pentru disilicat?",
+    "options": [
+      { "id": "A", "text": "Realizarea unei chei de silicon pentru verificarea cutback-ului incizal", "correct": true },
+      { "id": "B", "text": "Cutback vestibular și incizal cu muchii rotunjite", "correct": true },
+      { "id": "C", "text": "Verificarea cutback-ului cu indexul de silicon după sablare/prelucrare", "correct": true },
+      { "id": "D", "text": "Aplicarea enamelului și efectelor, apoi glazură și pigmentare externă", "correct": true },
+      { "id": "E", "text": "Eliminarea completă a fazei de ambalare", "correct": false }
+    ],
+    "explanation": "Tehnica rămâne una de presare și include ambalare în masă specifică.",
+    "source": "PPF- Curs 9.pdf, slides Presare disilicat - cutback"
+  },
+  {
+    "id": 17,
+    "topic": "Suprapresare pe Y-TZP",
+    "difficulty": "hard",
+    "question": "Care afirmații despre suprapresarea pe schelet de Y-TZP sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Se utilizează mai frecvent ceramică feldspatică", "correct": true },
+      { "id": "B", "text": "Macheta se modelează direct pe scheletul de zirconiu din ceară pentru presare", "correct": true },
+      { "id": "C", "text": "Grosimea machetei trebuie asigurată între minimum 0,7 mm și maximum 2 mm", "correct": true },
+      { "id": "D", "text": "Scheletul + macheta cu canalele se cântăresc înainte de presare", "correct": true },
+      { "id": "E", "text": "Nu se folosesc canale de presare în această tehnică", "correct": false }
+    ],
+    "explanation": "Tehnica include atașarea canalelor prin tehnica clasică și cântărirea ansamblului.",
+    "source": "PPF- Curs 9.pdf, slides Suprapresare pe Y-TZP"
+  },
+  {
+    "id": 18,
+    "topic": "Frezarea disilicatului",
+    "difficulty": "hard",
+    "question": "Care pași apar în tehnica frezării disilicatului de litiu?",
+    "options": [
+      { "id": "A", "text": "Pregătirea modelului cu bont mobil și scanarea modelului, bonturilor și antagonistului", "correct": true },
+      { "id": "B", "text": "Design și planificarea strategiei de frezare", "correct": true },
+      { "id": "C", "text": "Frezare în mediu umed", "correct": true },
+      { "id": "D", "text": "Glazurare/pigmentare externă și cristalizare sau cutback, foundation, enamel și ciclu termic", "correct": true },
+      { "id": "E", "text": "Adâncirea ambrazurilor cu disc metalic", "correct": false }
+    ],
+    "explanation": "Cursul avertizează că ambrazurile nu se adâncesc cu disc metalic.",
+    "source": "PPF- Curs 9.pdf, slides Litiu disilicat - frezare"
+  },
+  {
+    "id": 19,
+    "topic": "Comparație mecanică",
+    "difficulty": "hard",
+    "question": "Care comparații mecanice disilicat de litiu vs Y-TZP sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Disilicatul presat are rezistență la încovoiere 370-460 MPa", "correct": true },
+      { "id": "B", "text": "Disilicatul frezat are rezistență la încovoiere 262-350 MPa", "correct": true },
+      { "id": "C", "text": "Y-TZP are rezistență la încovoiere 500-1200 MPa și KIC 5-10 MPa√m", "correct": true },
+      { "id": "D", "text": "La Zr translucid, rezistența la încovoiere scade la 500-900 MPa", "correct": true },
+      { "id": "E", "text": "Disilicatul stratificat are rezistență la fractură dublă față de monolitic", "correct": false }
+    ],
+    "explanation": "Cursul precizează că PPF din disilicat stratificate au rezistența la fractură la jumătate față de cele monolitice.",
+    "source": "PPF- Curs 9.pdf, slide Comparație mecanică disilicat vs Y-TZP"
+  },
+  {
+    "id": 20,
+    "topic": "Indicații clinice comparative",
+    "difficulty": "hard",
+    "question": "Care concluzii comparative disilicat de litiu vs Y-TZP sunt susținute de curs?",
+    "options": [
+      { "id": "A", "text": "Pentru PPF de 3-4 elemente, raportul cost/beneficiu estetic-rezistență indică încă zirconiu ca material ales", "correct": true },
+      { "id": "B", "text": "PPF 3 elemente din disilicat au avut rată de supraviețuire 71,5% după 10 ani, cu fracturarea conectorilor ca principală complicație", "correct": true },
+      { "id": "C", "text": "PPF monolitice au rezultate mai bune decât cele stratificate în datele prezentate", "correct": true },
+      { "id": "D", "text": "Restaurările stratificate au rate de succes la 5 ani mai mici decât PPF monolitice", "correct": true },
+      { "id": "E", "text": "Disilicatul este recomandat ca primă alegere pentru toate PPF totale", "correct": false }
+    ],
+    "explanation": "Cursul concluzionează că zirconiu rămâne materialul ales pentru PPF de 3-4 elemente când se cântăresc estetica și rezistența.",
+    "source": "PPF- Curs 9.pdf, slide Indicații clinice comparative"
+  },
+  {
+    "id": 21,
+    "topic": "Glazurare Y-TZP",
+    "difficulty": "hard",
+    "question": "Care două afirmații sunt corecte despre aplicarea glaze-ului LT la Y-TZP?",
+    "options": [
+      { "id": "A", "text": "Glaze LT poate fi spray, pastă sau pulbere cu lichid", "correct": true },
+      { "id": "B", "text": "După aplicarea glaze-ului, suprafețele interne se curăță pentru a preveni dificultățile de adaptare și cimentare", "correct": true },
+      { "id": "C", "text": "Glaze LT se arde obligatoriu peste 1200 grade C", "correct": false },
+      { "id": "D", "text": "Glaze-ul trebuie păstrat pe suprafețele interne pentru a crește fricțiunea la cimentare", "correct": false },
+      { "id": "E", "text": "Glazurarea externă este interzisă la discuri multistrat", "correct": false }
+    ],
+    "explanation": "Cursul indică glaze LT la 780-800 grade C și curățarea suprafețelor interne pentru adaptare/cimentare.",
+    "source": "PPF- Curs 9.pdf, slide Pigmentarea externă"
+  }
+]

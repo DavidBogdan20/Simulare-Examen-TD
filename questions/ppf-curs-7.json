@@ -1,0 +1,377 @@
+[
+  {
+    "id": 1,
+    "topic": "Definiție RDC",
+    "difficulty": "medium",
+    "question": "Care afirmație definește corect PPF din rășini diacrilice compozite (RDC)?",
+    "options": [
+      { "id": "A", "text": "Sunt PPF realizate prin polimerizare din RDC, prin metode directe sau indirecte, provizorii sau de lungă durată, simple sau armate cu fibre", "correct": true },
+      { "id": "B", "text": "Sunt PPF masiv metalice realizate doar prin turnare din Co-Cr", "correct": false },
+      { "id": "C", "text": "Sunt exclusiv restaurări mobilizabile din PMMA termopolimerizabil", "correct": false },
+      { "id": "D", "text": "Sunt materiale fără fază organică și fără polimerizare", "correct": false },
+      { "id": "E", "text": "Sunt indicate doar pentru obturații fluide în pedodonție", "correct": false }
+    ],
+    "explanation": "Cursul prezintă PPF din RDC ca lucrări polimerizate, directe/indirecte, provizorii sau de lungă durată, simple sau ranforsate.",
+    "source": "Curs PPF- 7.pdf, slide PPF din RDC - definiție"
+  },
+  {
+    "id": 2,
+    "topic": "Compoziția RDC",
+    "difficulty": "hard",
+    "question": "Care sunt cele trei componente ale sistemelor RDC?",
+    "options": [
+      { "id": "A", "text": "Faza organică, continuă", "correct": true },
+      { "id": "B", "text": "Faza anorganică, discontinuă, adică umplutura", "correct": true },
+      { "id": "C", "text": "Agenții de cuplare silanici", "correct": true },
+      { "id": "D", "text": "Masa de ambalat pe bază de fosfați", "correct": false },
+      { "id": "E", "text": "Conul conformator de turnare", "correct": false }
+    ],
+    "explanation": "RDC sunt sisteme trifazice: fază organică, fază anorganică și agenți silanici de cuplare.",
+    "source": "Curs PPF- 7.pdf, slide Compoziție RDC"
+  },
+  {
+    "id": 3,
+    "topic": "Rolul fazelor RDC",
+    "difficulty": "hard",
+    "question": "Care asociere între componenta RDC și rolul ei este corectă?",
+    "options": [
+      { "id": "A", "text": "Faza organică influențează tipul/proporția monomerilor, modul de polimerizare și contracția de priză", "correct": true },
+      { "id": "B", "text": "Faza anorganică influențează rezistența la compresie, abrazie, contracția de priză și expansiunea termică", "correct": true },
+      { "id": "C", "text": "Agenții silanici asigură o legătură eficientă între faze", "correct": true },
+      { "id": "D", "text": "Faza organică este umplutura discontinuă radioopacă", "correct": false },
+      { "id": "E", "text": "Faza anorganică eliberează radicali liberi pentru inițierea prizei", "correct": false }
+    ],
+    "explanation": "Cursul separă rolurile fazei organice, anorganice și ale silanilor; inițierea radicalică aparține sistemului de inițiere din faza organică.",
+    "source": "Curs PPF- 7.pdf, slide Rolul componentelor RDC"
+  },
+  {
+    "id": 4,
+    "topic": "Faza organică",
+    "difficulty": "hard",
+    "question": "Care afirmații despre faza organică a RDC sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Monomerii de bază au vâscozitate mare și contracție de polimerizare redusă", "correct": true },
+      { "id": "B", "text": "BIS-GMA, UDMA, BIS-MA, BIS-EMA și BIS-PMA sunt exemple de monomeri de bază", "correct": true },
+      { "id": "C", "text": "Monomerii de diluție au vâscozitate mică, dar hidrofilie mare, pot absorbi apă și pot reduce proprietățile mecanice", "correct": true },
+      { "id": "D", "text": "Camforchinona este activată de lumină", "correct": true },
+      { "id": "E", "text": "Inhibitorii de polimerizare se adaugă în proporții mari pentru a bloca definitiv priza", "correct": false }
+    ],
+    "explanation": "Faza organică include monomeri de bază, de diluție, inițiatori și aditivi; inhibitorii sub 1% asigură păstrarea, nu blocarea definitivă.",
+    "source": "Curs PPF- 7.pdf, slide Faza organică"
+  },
+  {
+    "id": 5,
+    "topic": "Faza anorganică",
+    "difficulty": "medium",
+    "question": "Care materiale sunt enumerate ca parte a fazei anorganice a RDC?",
+    "options": [
+      { "id": "A", "text": "Cuarț", "correct": true },
+      { "id": "B", "text": "Silice coloidală", "correct": true },
+      { "id": "C", "text": "Alumino-silicați și boro-silicați", "correct": true },
+      { "id": "D", "text": "Fibre de sticlă și oxizi metalici", "correct": true },
+      { "id": "E", "text": "Peroxid de benzoil ca umplutură anorganică principală", "correct": false }
+    ],
+    "explanation": "Peroxidul de benzoil este sistem de inițiere, nu umplutură anorganică.",
+    "source": "Curs PPF- 7.pdf, slide Faza anorganică"
+  },
+  {
+    "id": 6,
+    "topic": "Umplutura anorganică",
+    "difficulty": "hard",
+    "question": "Care clasificări privind umplutura anorganică sunt corecte?",
+    "options": [
+      { "id": "A", "text": "După dimensiune: macro, micro, hibridă, microhibridă și nano", "correct": true },
+      { "id": "B", "text": "După distribuție: omogenă sau heterogenă", "correct": true },
+      { "id": "C", "text": "Macroumplutura este menționată ca nefiind folosită în RDC moderne", "correct": true },
+      { "id": "D", "text": "Dimensiunea și distribuția particulelor determină proporția de umplutură", "correct": true },
+      { "id": "E", "text": "Distribuția heterogenă înseamnă absența completă a particulelor prepolimerizate", "correct": false }
+    ],
+    "explanation": "Cursul clasifică umplutura după dimensiune și distribuție, iar distribuția heterogenă este asociată particulelor prepolimerizate.",
+    "source": "Curs PPF- 7.pdf, slides Faza anorganică - dimensiune/distribuție"
+  },
+  {
+    "id": 7,
+    "topic": "Agenți de cuplare",
+    "difficulty": "hard",
+    "question": "Care afirmații despre agenții de cuplare silanici sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Asigură dispersarea uniformă a umpluturii în faza organică", "correct": true },
+      { "id": "B", "text": "Realizează o legătură puternică și stabilă în timp între cele două faze", "correct": true },
+      { "id": "C", "text": "Silanizarea formează legături chimice între silani și suprafața particulelor de umplutură", "correct": true },
+      { "id": "D", "text": "Gruparea polimerizabilă a silanilor participă la reacția de polimerizare cu monomerul", "correct": true },
+      { "id": "E", "text": "Silanizarea urmărește separarea fazei anorganice de matricea organică", "correct": false }
+    ],
+    "explanation": "Silanizarea are rol de cuplare, dispersie și legare chimică a umpluturii la matrice, nu de separare.",
+    "source": "Curs PPF- 7.pdf, slide Agenții de cuplare"
+  },
+  {
+    "id": 8,
+    "topic": "Clasificarea RDC",
+    "difficulty": "hard",
+    "question": "Care clasificări ale RDC sunt conforme cu cursul?",
+    "options": [
+      { "id": "A", "text": "După inițiere ISO 4049: clasa 1 autopolimerizabile", "correct": true },
+      { "id": "B", "text": "După inițiere ISO 4049: clasa 2 cu sursă externă de energie, aplicată intraoral sau extraoral", "correct": true },
+      { "id": "C", "text": "După inițiere ISO 4049: clasa 3 cu polimerizare duală", "correct": true },
+      { "id": "D", "text": "După consistență: fluide, flowable, vâscoase, compactabile", "correct": true },
+      { "id": "E", "text": "RDC fluide sunt prezentate ca utilizate curent în tehnica dentară pentru PPF", "correct": false }
+    ],
+    "explanation": "Fluidele sunt menționate ca neutilizate în tehnica dentară, fiind agenți de sigilare în pedodonție.",
+    "source": "Curs PPF- 7.pdf, slide Clasificare RDC"
+  },
+  {
+    "id": 9,
+    "topic": "Condiții pentru RDC",
+    "difficulty": "medium",
+    "question": "Care condiții necesare pentru RDC sunt menționate în curs?",
+    "options": [
+      { "id": "A", "text": "Biocompatibilitate și rată mare de conversie", "correct": true },
+      { "id": "B", "text": "Stabilitate cromatică și rezistență la uzură", "correct": true },
+      { "id": "C", "text": "Compatibilitate cu cimenturile pentru fixare provizorie", "correct": true },
+      { "id": "D", "text": "Conductibilitate termică redusă și stabilitate dimensională la întărire", "correct": true },
+      { "id": "E", "text": "Contracție dimensională obligatoriu peste 10%", "correct": false }
+    ],
+    "explanation": "Cursul indică stabilitatea dimensională la întărire în intervalul 0,9-3%, în funcție de umplutură, monomer, cantitate și polimerizare.",
+    "source": "Curs PPF- 7.pdf, slide Condiții necesare pentru RDC"
+  },
+  {
+    "id": 10,
+    "topic": "RDC indirecte vs directe",
+    "difficulty": "hard",
+    "question": "Care sunt avantaje ale RDC indirecte față de cele directe?",
+    "options": [
+      { "id": "A", "text": "Control mai bun al contracției de polimerizare, spațiul mic fiind ocupat de ciment", "correct": true },
+      { "id": "B", "text": "Polimerizare secundară prin căldură, lumină intensă și/sau presiune, cu rată de conversie ridicată", "correct": true },
+      { "id": "C", "text": "Rezistență mai bună la uzura ocluzală, cu rată anuală de abrazie sub 5 microni", "correct": true },
+      { "id": "D", "text": "Control mai bun al contactelor, formelor și morfologiei ocluzale", "correct": true },
+      { "id": "E", "text": "Eliminarea completă a necesității cimentării", "correct": false }
+    ],
+    "explanation": "Cimentarea rămâne necesară și este chiar menționată la dezavantaje prin contracția stratului subțire de ciment la interfață.",
+    "source": "Curs PPF- 7.pdf, slides Avantajele RDC indirecte vs directe"
+  },
+  {
+    "id": 11,
+    "topic": "Dezavantaje RDC indirecte",
+    "difficulty": "hard",
+    "question": "Care dezavantaje ale RDC indirecte față de cele directe sunt menționate?",
+    "options": [
+      { "id": "A", "text": "Cost crescut prin implicarea laboratorului, amprentare și PPF provizorie", "correct": true },
+      { "id": "B", "text": "Sacrificiu crescut al țesuturilor dure pentru calea de inserție și îndepărtare", "correct": true },
+      { "id": "C", "text": "Dificultate de modificare sau adăugare de culoare în cabinet fără trusă similară", "correct": true },
+      { "id": "D", "text": "Număr crescut de ședințe de tratament", "correct": true },
+      { "id": "E", "text": "Rată de conversie obligatoriu mai mică decât la compozitele directe", "correct": false }
+    ],
+    "explanation": "Cursul indică rata de conversie ridicată ca avantaj al compozitelor indirecte de laborator, nu ca dezavantaj.",
+    "source": "Curs PPF- 7.pdf, slide Dezavantajele RDC indirecte vs directe"
+  },
+  {
+    "id": 12,
+    "topic": "Variante constructive",
+    "difficulty": "medium",
+    "question": "Care variante constructive pentru PPF din RDC sunt enumerate?",
+    "options": [
+      { "id": "A", "text": "Sisteme de imobilizare în parodontopatii - șina de imobilizare", "correct": true },
+      { "id": "B", "text": "PPF adezivă, incluzând PPF Maryland", "correct": true },
+      { "id": "C", "text": "PPF anterioare nearmate", "correct": true },
+      { "id": "D", "text": "PPF posterioare ranforsate cu elemente de agregare incrustații sau coroane de înveliș", "correct": true },
+      { "id": "E", "text": "Proteze totale acrilice mobilizabile", "correct": false }
+    ],
+    "explanation": "Cursul listează variante fixe din RDC; proteza totală mobilizabilă nu face parte din această listă.",
+    "source": "Curs PPF- 7.pdf, slide Variante constructive"
+  },
+  {
+    "id": 13,
+    "topic": "Indicații și contraindicații",
+    "difficulty": "hard",
+    "question": "Care perechi indicație/contraindicație sunt corecte pentru PPF din RDC?",
+    "options": [
+      { "id": "A", "text": "Indicație: spații edentate reduse, maxim PPF de 3-4 elemente", "correct": true },
+      { "id": "B", "text": "Indicație: alergii la aliaje metalice și preparări minim invazive pe dinții stâlpi", "correct": true },
+      { "id": "C", "text": "Contraindicație: spații edentate extinse, minim 3 dinți absenți", "correct": true },
+      { "id": "D", "text": "Contraindicație: igienă defectuoasă, pretenții estetice ridicate sau izolare dificilă", "correct": true },
+      { "id": "E", "text": "Indicație majoră: restaurări ceramice sau metalice în arcada antagonistă deoarece nu produc uzură", "correct": false }
+    ],
+    "explanation": "Restaurările ceramice/metalice antagoniste sunt contraindicație deoarece pot induce uzura PPF.",
+    "source": "Curs PPF- 7.pdf, slide Indicații/contraindicații"
+  },
+  {
+    "id": 14,
+    "topic": "Ranforsarea RDC",
+    "difficulty": "hard",
+    "question": "Care afirmații despre ranforsarea RDC indirecte sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Ranforsarea se poate face cu fibre neimpregnate sau preimpregnate cu rășini", "correct": true },
+      { "id": "B", "text": "Arhitectura fibrelor poate fi unidirecțională, împletită, țesătură sau plasă", "correct": true },
+      { "id": "C", "text": "Fibrele pot fi din polietilenă, sticlă, polipropilenă, carbon, aramidă, kevlar sau quartz", "correct": true },
+      { "id": "D", "text": "Fibrele consolidează RDC transferând tensiunea de la matricea de rășină către fibră", "correct": true },
+      { "id": "E", "text": "Fibrele au rol exclusiv cromatic, fără funcție mecanică", "correct": false }
+    ],
+    "explanation": "Cursul prezintă fibrele ca elemente de ranforsare mecanică ce preiau tensiunile din matricea de rășină.",
+    "source": "Curs PPF- 7.pdf, slides Ranforsarea RDC indirecte"
+  },
+  {
+    "id": 15,
+    "topic": "Forme de prezentare RDC",
+    "difficulty": "medium",
+    "question": "Cum sunt prezentate RDC indirecte în curs?",
+    "options": [
+      { "id": "A", "text": "În seringi opace pentru prevenirea fotopolimerizării accidentale", "correct": true },
+      { "id": "B", "text": "Cu marcaj colorat pentru tipul de strat: opaque, dentină, enamel etc.", "correct": true },
+      { "id": "C", "text": "Cu data expirării, nuanța și eventual vâscozitatea", "correct": true },
+      { "id": "D", "text": "Pot exista seringi/flacoane speciale cu izolanți, lichid de modelare sau coloranți", "correct": true },
+      { "id": "E", "text": "Exclusiv în lingouri metalice pentru topire", "correct": false }
+    ],
+    "explanation": "RDC sunt prezentate în seringi opace și accesorii specifice, nu ca lingouri metalice.",
+    "source": "Curs PPF- 7.pdf, slide Forme de prezentare RDC indirecte"
+  },
+  {
+    "id": 16,
+    "topic": "Protocol PPF armat cu fibră",
+    "difficulty": "hard",
+    "question": "Care etape tehnice specifice RDC apar în protocolul pentru PPF armat cu fibră?",
+    "options": [
+      { "id": "A", "text": "Izolare cu separator și dezinfectare", "correct": true },
+      { "id": "B", "text": "Măsurare și decupare fibră", "correct": true },
+      { "id": "C", "text": "Capă din Opaque Dentină și aplicare fibră ocluzal, axial și proximal", "correct": true },
+      { "id": "D", "text": "Aplicare dentină, cut-back, efecte de culoare și enamel", "correct": true },
+      { "id": "E", "text": "Topirea aliajului cu flacără acetilenă-oxigen", "correct": false }
+    ],
+    "explanation": "Protocolul RDC include stratificare și fotopolimerizare, nu topire de aliaj.",
+    "source": "Curs PPF- 7.pdf, slide Protocol PPF armat cu fibră"
+  },
+  {
+    "id": 17,
+    "topic": "Premise Indirect",
+    "difficulty": "hard",
+    "question": "Care afirmații despre sistemul Premise Indirect sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Este compozit hibrid de generația a II-a, foto-baro-termopolimerizabil în atmosferă de azot", "correct": true },
+      { "id": "B", "text": "Parametrii indicați sunt 147 grade C și 5 bar, cu rată de conversie 98,5%", "correct": true },
+      { "id": "C", "text": "Are 16 nuanțe în cheia Vita Classical plus nuanțe gingivale", "correct": true },
+      { "id": "D", "text": "Este indicat pentru PPF armate cu schelet metalic, fibre, PPF Maryland, punți adezive și șine de imobilizare", "correct": true },
+      { "id": "E", "text": "Este un acrilat autopolimerizabil folosit exclusiv prin tehnica ruloului", "correct": false }
+    ],
+    "explanation": "Premise Indirect este un sistem RDC de laborator cu polimerizare complexă, nu o simplă RA autopolimerizabilă.",
+    "source": "Curs PPF- 7.pdf, slides Premise Indirect"
+  },
+  {
+    "id": 18,
+    "topic": "Stratificare Premise Indirect",
+    "difficulty": "hard",
+    "question": "Care reguli de stratificare Premise Indirect sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Dentina primară conferă nuanța de bază și rezistență crescută", "correct": true },
+      { "id": "B", "text": "Dentina facială oferă forma de bază și are capacitate bună de lustruire", "correct": true },
+      { "id": "C", "text": "Incizalul conferă transluciditate asemănătoare enamelului", "correct": true },
+      { "id": "D", "text": "Dentina facială nu trebuie să depășească 1,5 mm, iar dentina primară trebuie acoperită complet de dentina facială", "correct": true },
+      { "id": "E", "text": "Rubber Sep este pigment ocluzal intern, nu izolator", "correct": false }
+    ],
+    "explanation": "Rubber Sep este lichid de separare/izolare și lac distanțator pe bonturi, nu pigment.",
+    "source": "Curs PPF- 7.pdf, slides Premise Indirect - materiale și stratificare"
+  },
+  {
+    "id": 19,
+    "topic": "Gradia Plus",
+    "difficulty": "hard",
+    "question": "Care afirmații despre Gradia Plus sunt susținute de curs?",
+    "options": [
+      { "id": "A", "text": "Este sistem compozit nanohibrid de generație nouă, fotopolimerizabil", "correct": true },
+      { "id": "B", "text": "Are două vâscozități: Heavy Body și Light Body", "correct": true },
+      { "id": "C", "text": "Light Body este flowable și se injectează", "correct": true },
+      { "id": "D", "text": "Air Barrier este mediu inert pentru prevenirea stratului de reacție în fotopolimerizare", "correct": true },
+      { "id": "E", "text": "Nu poate folosi primeri pentru metal, acrilat sau ceramică", "correct": false }
+    ],
+    "explanation": "Cursul listează Metal Primer Z, Acrylic Primer și Ceramic Primer II pentru legături specifice.",
+    "source": "Curs PPF- 7.pdf, slides Gradia Plus"
+  },
+  {
+    "id": 20,
+    "topic": "Injectarea Gradia Plus",
+    "difficulty": "hard",
+    "question": "Care pași aparțin tehnicii injectării în amprentă de silicon transparentă cu Gradia Plus?",
+    "options": [
+      { "id": "A", "text": "Aplicarea lacului distanțator pe modelul duplicat și realizarea machetei din ceară", "correct": true },
+      { "id": "B", "text": "Aplicarea tijelor de 3-4 mm pe machetă și realizarea conformatorului din silicon fluid transparent", "correct": true },
+      { "id": "C", "text": "Îndepărtarea machetei cu steamerul și aplicarea Separatorului pe bonturi și dinții vecini", "correct": true },
+      { "id": "D", "text": "Injectarea Light Body până la refluarea prin orificii, fotopolimerizare prin conformator, apoi prelucrare/lustruire", "correct": true },
+      { "id": "E", "text": "Turnarea aliajului în conformatorul de silicon la 950 grade C", "correct": false }
+    ],
+    "explanation": "Tehnica este una de injectare și fotopolimerizare a RDC, nu de turnare a metalului.",
+    "source": "Curs PPF- 7.pdf, slides Gradia Plus - injectare în silicon transparent"
+  },
+  {
+    "id": 21,
+    "topic": "Estenia C&B",
+    "difficulty": "hard",
+    "question": "Care afirmații despre sistemul Estenia C&B sunt corecte?",
+    "options": [
+      { "id": "A", "text": "Cervical conferă nuanță de bază și rezistență crescută", "correct": true },
+      { "id": "B", "text": "Dentina oferă forma de bază a restaurării și are capacitate bună de lustruire", "correct": true },
+      { "id": "C", "text": "Enamel conferă transluciditate asemănătoare enamelului", "correct": true },
+      { "id": "D", "text": "Transparent creează senzația de profunzime la nivel coronar", "correct": true },
+      { "id": "E", "text": "Body Opaque este material de sablare cu oxid de alumină", "correct": false }
+    ],
+    "explanation": "Body Opaque este folosit pentru mascarea substratului metalic, nu pentru sablare.",
+    "source": "Curs PPF- 7.pdf, slide Estenia C&B - materiale"
+  },
+  {
+    "id": 22,
+    "topic": "Estenia C&B - fibră",
+    "difficulty": "hard",
+    "question": "Care pași din tehnica Estenia C&B pentru scheletul din fibră sunt corecți?",
+    "options": [
+      { "id": "A", "text": "Pentru spațiu constant de dentină între fibră și mucoasă, bontul corespunzător corpului de punte se ridică 1 mm", "correct": true },
+      { "id": "B", "text": "Se folosește o tijă de ceară de 2,5-3 mm pentru machetarea formei scheletului din fibră", "correct": true },
+      { "id": "C", "text": "EG Core se imersează în apă fierbinte la 80 grade C timp de 3 minute", "correct": true },
+      { "id": "D", "text": "EG Fiber se fotopolimerizează 60 secunde sub conformatorul transparent EG Core", "correct": true },
+      { "id": "E", "text": "EG Fiber se topește în creuzet ceramic și se toarnă în tipar", "correct": false }
+    ],
+    "explanation": "Estenia folosește conformare și fotopolimerizare a fibrei, nu topire/turnare.",
+    "source": "Curs PPF- 7.pdf, slides Estenia C&B - schelet EG Fiber"
+  },
+  {
+    "id": 23,
+    "topic": "Polimerizare Estenia C&B",
+    "difficulty": "medium",
+    "question": "Care protocol final de polimerizare este indicat pentru Estenia C&B în curs?",
+    "options": [
+      { "id": "A", "text": "Aplicare Air Barrier, fotopolimerizare 300 secunde, desprindere de pe model și termopolimerizare 15 minute la 100-110 grade C", "correct": true },
+      { "id": "B", "text": "Preîncălzire la 250 grade C și turnare Ni-Cr", "correct": false },
+      { "id": "C", "text": "Autopolimerizare exclusivă în cavitatea bucală timp de 2 minute", "correct": false },
+      { "id": "D", "text": "Sablare cu PMMA și călire imediată în apă", "correct": false },
+      { "id": "E", "text": "Termobaropolimerizare în azot la 147 grade C și 5 bar pentru toate sistemele Estenia", "correct": false }
+    ],
+    "explanation": "Pentru Estenia C&B cursul indică Air Barrier, fotopolimerizare 300 secunde și termopolimerizare 15 minute la 100-110 grade C.",
+    "source": "Curs PPF- 7.pdf, slide Estenia C&B - finalizare"
+  },
+  {
+    "id": 24,
+    "topic": "RDC față de RA",
+    "difficulty": "hard",
+    "question": "Care avantaje ale RDC față de rășinile acrilice (RA) sunt menționate?",
+    "options": [
+      { "id": "A", "text": "Dilatare termică redusă, apropiată de țesuturile naturale", "correct": true },
+      { "id": "B", "text": "Contracție mai redusă la polimerizare și absorbție de apă redusă", "correct": true },
+      { "id": "C", "text": "Performanțe mecanice superioare față de PMMA", "correct": true },
+      { "id": "D", "text": "Adeziune fizico-chimică la scheletul metalic, spre deosebire de legătura metal-PMMA doar macromecanică", "correct": true },
+      { "id": "E", "text": "Instabilitate cromatică mai mare și îmbătrânire accelerată", "correct": false }
+    ],
+    "explanation": "Cursul prezintă RDC ca având îmbătrânire ștearsă, efecte fizionomice îmbunătățite și stabilitate cromatică relativ bună.",
+    "source": "Curs PPF- 7.pdf, slide Avantajele RDC față de RA"
+  },
+  {
+    "id": 25,
+    "topic": "Clasificarea RDC",
+    "difficulty": "hard",
+    "question": "Care două afirmații sunt corecte despre clasificarea RDC după consistența inițială?",
+    "options": [
+      { "id": "A", "text": "RDC pot fi încadrate ca fluide, flowable, vâscoase sau compactabile", "correct": true },
+      { "id": "B", "text": "Materialele fluide nu sunt utilizate în tehnica dentară, fiind menționate ca agenți de sigilare în pedodonție", "correct": true },
+      { "id": "C", "text": "Toate RDC fluide sunt principalele materiale pentru scheletele PPF posterioare", "correct": false },
+      { "id": "D", "text": "Consistența inițială este identică pentru toate sistemele RDC indirecte", "correct": false },
+      { "id": "E", "text": "Clasificarea după consistență exclude materialele flowable", "correct": false }
+    ],
+    "explanation": "Cursul listează fluide, flowable, vâscoase și compactabile, dar precizează că fluidele nu sunt folosite în tehnica dentară.",
+    "source": "Curs PPF- 7.pdf, slide Clasificare RDC"
+  }
+]

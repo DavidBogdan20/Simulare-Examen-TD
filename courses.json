@@ -1,22 +1,62 @@
 [
   {
     "id": "ppf-curs-1",
-    "name": "PPF Curs 1 — Edentația parțială",
+    "name": "PPF Curs 1 - Edentatia partiala",
     "file": "questions/ppf-curs-1.json"
   },
   {
     "id": "ppf-curs-2",
-    "name": "PPF Curs 2 — Componente, clasificare, câmp protetic",
+    "name": "PPF Curs 2 - Componente, clasificare, camp protetic",
     "file": "questions/ppf-curs-2.json"
   },
   {
     "id": "ppf-curs-3",
-    "name": "PPF Curs 3 — Biomecanica PPF: principii de tratament",
+    "name": "PPF Curs 3 - Biomecanica PPF",
     "file": "questions/ppf-curs-3.json"
   },
   {
     "id": "ppf-curs-4",
-    "name": "PPF Curs 4",
+    "name": "PPF Curs 4 - Etape clinico-tehnice si amprentare",
     "file": "questions/ppf-curs-4.json"
+  },
+  {
+    "id": "ppf-curs-5",
+    "name": "PPF Curs 5 - PPF masiv metalica",
+    "file": "questions/ppf-curs-5.json"
+  },
+  {
+    "id": "ppf-curs-6",
+    "name": "PPF Curs 6 - PPF acrilica",
+    "file": "questions/ppf-curs-6.json"
+  },
+  {
+    "id": "ppf-curs-7",
+    "name": "PPF Curs 7 - PPF din RDC",
+    "file": "questions/ppf-curs-7.json"
+  },
+  {
+    "id": "ppf-curs-8",
+    "name": "PPF Curs 8 - PPF integral ceramica",
+    "file": "questions/ppf-curs-8.json"
+  },
+  {
+    "id": "ppf-curs-9",
+    "name": "PPF Curs 9 - Y-TZP si disilicat de litiu",
+    "file": "questions/ppf-curs-9.json"
+  },
+  {
+    "id": "ppf-curs-10",
+    "name": "PPF Curs 10 - PPF mixte metalo-ceramice",
+    "file": "questions/ppf-curs-10.json"
+  },
+  {
+    "id": "ppf-curs-11",
+    "name": "PPF Curs 11 - Tehnologia PPF metalo-ceramice",
+    "file": "questions/ppf-curs-11.json"
+  },
+  {
+    "id": "ppf-curs-12",
+    "name": "PPF Curs 12 - PPF metalo-acrilice, metalo-compozit si PEEK",
+    "file": "questions/ppf-curs-12.json"
   }
 ]
