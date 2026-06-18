@@ -1,0 +1,437 @@
+[
+  {
+    "id": 1,
+    "topic": "Metode de realizare a punților",
+    "difficulty": "medium",
+    "question": "Care metodă de realizare a punților dentare NU SE MAI FOLOSEȘTE în practica curentă?",
+    "options": [
+      { "id": "A", "text": "Metoda clasică (realizarea punții din elemente separate, solidarizate prin lipire)", "correct": true },
+      { "id": "B", "text": "Metoda modernă (componenta metalică realizată printr-o turnare unică)", "correct": false },
+      { "id": "C", "text": "Metoda de frezare CAD/CAM", "correct": false },
+      { "id": "D", "text": "Metoda prin imprimare 3D a machetei calcinabile", "correct": false },
+      { "id": "E", "text": "Metoda fuziunii patului cu pulberi metalice", "correct": false }
+    ],
+    "explanation": "Metoda clasică constă în realizarea punții din elemente separate: microprotezele de agregare se obțin în prima fază și se solidarizează prin lipire la corpul de punte în faza a doua. Deși are avantajele adaptării individuale și accesibilității, durată mai lungă, mai multe ședinţe și imprecizii generate de execuția în mai multe etape fac ca aceasta să NU SE MAI FOLOSEASCĂ ÎN PRACTICA CURENTĂ.",
+    "source": "PPF-Curs-4.pdf, slide Detalierea etapelor clinico-tehnice — Metoda clasică"
+  },
+  {
+    "id": 2,
+    "topic": "Metode de realizare a punților",
+    "difficulty": "medium",
+    "question": "Care sunt avantajele metodei MODERNE de realizare a punților dentare (turnare unică)?",
+    "options": [
+      { "id": "A", "text": "Reducerea duratei tratamentului prin dispariția unor faze și ședințe de tratament", "correct": true },
+      { "id": "B", "text": "Absența lipiturii evită accidentele mecanice", "correct": true },
+      { "id": "C", "text": "Aprecierea gradului de adaptare individuală a microprotezelor pe bont este mai facilă", "correct": false },
+      { "id": "D", "text": "Defectele care apar într-o zonă nu compromit restul punții", "correct": false },
+      { "id": "E", "text": "Nu necesită condiții materiale și tehnice speciale", "correct": false }
+    ],
+    "explanation": "Metoda modernă (turnare unică a componentei metalice) are 2 avantaje: 1. Reducerea duratei tratamentului prin dispariția unor faze și ședințe; 2. Absența lipiturii evită accidentele mecanice. Dezavantajele includ: apreciere mai dificilă a adaptării individuale, depistarea elementelor care împiedică inserția este dificilă, defectele pot compromite întreaga punte, necesită pregătire profesională și condiții optime.",
+    "source": "PPF-Curs-4.pdf, slide Detalierea etapelor clinico-tehnice — Metoda modernă"
+  },
+  {
+    "id": 3,
+    "topic": "Etape clinico-tehnice PPF",
+    "difficulty": "hard",
+    "question": "Care este ordinea corectă a etapelor clinico-tehnice de realizare a punților dentare?",
+    "options": [
+      { "id": "A", "text": "Examinarea → Pregătire preprotetică → Măsuri protezare provizorie → Pregătirea dinților stâlpi → Protezare provizorie → Amprentare → Realizare parte metalică → Probă și adaptare → Cimentare", "correct": true },
+      { "id": "B", "text": "Examinarea → Amprentare → Pregătire preprotetică → Pregătirea dinților stâlpi → Realizare parte metalică → Protezare provizorie → Probă și adaptare → Cimentare", "correct": false },
+      { "id": "C", "text": "Pregătire preprotetică → Examinarea → Pregătirea dinților stâlpi → Amprentare → Realizare parte metalică → Probă și adaptare → Cimentare", "correct": false },
+      { "id": "D", "text": "Examinarea → Pregătire preprotetică → Pregătirea dinților stâlpi → Amprentare → Protezare provizorie → Realizare parte metalică → Probă și adaptare → Cimentare", "correct": false },
+      { "id": "E", "text": "Amprentare → Examinarea → Pregătire preprotetică → Pregătirea dinților stâlpi → Realizare parte metalică → Probă și adaptare → Cimentare", "correct": false }
+    ],
+    "explanation": "Ordinea corectă a celor 9 etape clinico-tehnice este: 1. Examinarea pacientului și stabilirea indicațiilor; 2. Pregătirea preprotetică; 3. Măsuri în vederea protezării provizorii; 4. Pregătirea dinților stâlpi; 5. Protezarea provizorie; 6. Amprentarea câmpului protetic; 7. Realizarea părții metalice în laborator (modelul de lucru, machetă, pregătire ambalare, ambalare, turnare, prelucrare mecanică); 8. Proba și adaptarea punții; 9. Cimentarea provizorie sau definitivă.",
+    "source": "PPF-Curs-4.pdf, slide Etape clinico-tehnice"
+  },
+  {
+    "id": 4,
+    "topic": "Pregătirea preprotetică",
+    "difficulty": "hard",
+    "question": "Care dintre următoarele fac parte din etapa de PREGĂTIRE PREPROTETICĂ înainte de realizarea PPF?",
+    "options": [
+      { "id": "A", "text": "Ablația lucrărilor protetice incorecte", "correct": true },
+      { "id": "B", "text": "Tratamentul leziunilor odontale complicate și al leziunilor parodontale", "correct": true },
+      { "id": "C", "text": "Tratamentul disfuncției ocluzale", "correct": true },
+      { "id": "D", "text": "Tratamentul mucoasei și al crestei alveolare edentate pentru viitoarele raporturi cu corpul de punte", "correct": true },
+      { "id": "E", "text": "Amprentarea câmpului protetic pentru realizarea modelului de lucru", "correct": false }
+    ],
+    "explanation": "Pregătirea preprotetică cuprinde toate măsurile pentru pregătirea pacientului și câmpului protetic: ablația lucrărilor protetice incorecte, tratamente odontale (cu refacerea celor necorespunzătoare), tratamentul leziunilor odontale complicate, tratamentul leziunilor parodontale, tratamentul disfuncției ocluzale, tratamentul mucoasei și al crestei alveolare edentate și tratamentul dinților stâlpi în vederea acoperirii cu microproteze. Amprentarea este o etapă clinico-tehnică separată (etapa 6).",
+    "source": "PPF-Curs-4.pdf, slide Pregătirea preprotetică"
+  },
+  {
+    "id": 5,
+    "topic": "Amprentarea câmpului protetic",
+    "difficulty": "medium",
+    "question": "Ce este AMPRENTA în protetica fixă?",
+    "options": [
+      { "id": "A", "text": "Copia negativă a câmpului protetic", "correct": true },
+      { "id": "B", "text": "Copia pozitivă a câmpului protetic", "correct": false },
+      { "id": "C", "text": "Reproducerea machetei în ceară a elementelor de agregare", "correct": false },
+      { "id": "D", "text": "Înregistrarea relațiilor interocluzale ale celor două arcade", "correct": false },
+      { "id": "E", "text": "Modelul de gips obținut pe baza reproducerii câmpului protetic", "correct": false }
+    ],
+    "explanation": "Amprenta = copia NEGATIVĂ a câmpului protetic. Scopurile amprentei sunt: redarea cât mai fidelă a detaliilor și dimensiunii câmpului protetic și permiterea realizării unui model corect care la rândul lui să reproducă cât mai exact toate caracteristicile câmpului protetic.",
+    "source": "PPF-Curs-4.pdf, slide AMPRENTAREA CÂMPULUI PROTETIC — definiție"
+  },
+  {
+    "id": 6,
+    "topic": "Amprentarea câmpului protetic",
+    "difficulty": "hard",
+    "question": "Care sunt OBIECTIVELE amprentei câmpului protetic în protetica fixă?",
+    "options": [
+      { "id": "A", "text": "Redarea cât mai fidelă a formei, dimensiunilor și detaliilor preparației", "correct": true },
+      { "id": "B", "text": "Preluarea și redarea cu fidelitate maximă a rapoartelor preparației cu parodonțiul marginal", "correct": true },
+      { "id": "C", "text": "Înregistrarea și redarea cât mai corectă a reliefului dinților antagoniști", "correct": true },
+      { "id": "D", "text": "Redarea exactă a rapoartelor preparației cu dinții vecini", "correct": true },
+      { "id": "E", "text": "Înregistrarea mișcărilor mandibulei în toate planurile spațiale", "correct": false }
+    ],
+    "explanation": "Obiectivele amprentei sunt 5: 1. Redarea fidelă a formei/dimensiunilor/detaliilor preparației; 2. Preluarea rapoartelor preparației cu parodonțiul marginal; 3. Înregistrarea reliefului dinților antagoniști; 4. Redarea rapoartelor preparației cu dinții vecini; 5. Posibilitatea obținerii unui model de lucru cât mai exact. Înregistrarea mișcărilor mandibulei este funcția articulatorului, nu a amprentei.",
+    "source": "PPF-Curs-4.pdf, slide AMPRENTAREA CÂMPULUI PROTETIC — Obiective"
+  },
+  {
+    "id": 7,
+    "topic": "Etapele amprentării",
+    "difficulty": "medium",
+    "question": "Care este succesiunea corectă a etapelor amprentării câmpului protetic?",
+    "options": [
+      { "id": "A", "text": "Controlul fluidelor → Evicțiunea gingivală → Pregătirea amprentării → Amprentarea propriu-zisă → Controlul amprentei → Dezinfectarea amprentei", "correct": true },
+      { "id": "B", "text": "Evicțiunea gingivală → Controlul fluidelor → Pregătirea amprentării → Amprentarea propriu-zisă → Dezinfectarea → Controlul amprentei", "correct": false },
+      { "id": "C", "text": "Pregătirea amprentării → Controlul fluidelor → Evicțiunea gingivală → Amprentarea propriu-zisă → Controlul amprentei → Dezinfectarea", "correct": false },
+      { "id": "D", "text": "Controlul fluidelor → Pregătirea amprentării → Evicțiunea gingivală → Amprentarea propriu-zisă → Controlul amprentei → Dezinfectarea", "correct": false },
+      { "id": "E", "text": "Controlul fluidelor → Evicțiunea gingivală → Amprentarea propriu-zisă → Pregătirea amprentării → Controlul amprentei → Dezinfectarea", "correct": false }
+    ],
+    "explanation": "Etapele amprentării sunt în ordine: 1. Controlul fluidelor bucale (rulouri vată, aspirator salivă, medicație antisialogogă); 2. Evicțiunea gingivală; 3. Pregătirea amprentării (materiale, portamprente, tehnica); 4. Amprentarea propriu-zisă; 5. Controlul amprentei; 6. Dezinfectarea amprentei.",
+    "source": "PPF-Curs-4.pdf, slide AMPRENTAREA CÂMPULUI PROTETIC — Etapele amprentării"
+  },
+  {
+    "id": 8,
+    "topic": "Controlul fluidelor bucale",
+    "difficulty": "hard",
+    "question": "Care este medicamentul utilizat ca medicație antisialogogă pentru controlul fluidelor bucale înaintea amprentării?",
+    "options": [
+      { "id": "A", "text": "Clonidina (antihipertensiv) 0,2 mg", "correct": true },
+      { "id": "B", "text": "Atropina (anticolinergic) 0,5 mg", "correct": false },
+      { "id": "C", "text": "Adrenalina (simpatomimetic) 0,1 mg", "correct": false },
+      { "id": "D", "text": "Lidocaína (anestezic local) 2%", "correct": false },
+      { "id": "E", "text": "Ibuprofen (antiinflamator) 400 mg", "correct": false }
+    ],
+    "explanation": "Medicația antisialogogă utilizată pentru controlul fluidelor bucale este CLONIDINA, un antihipertensiv, administrată în doză de 0,2 mg. Celelalte mijloace de control al fluidelor sunt: rulouri de vată și comprese și aspiratorul de salivă / aspiratorul chirurgical.",
+    "source": "PPF-Curs-4.pdf, slide AMPRENTAREA CÂMPULUI PROTETIC — Controlul fluidelor bucale"
+  },
+  {
+    "id": 9,
+    "topic": "Evicțiunea gingivală",
+    "difficulty": "medium",
+    "question": "Care este SCOPUL evicțiunii gingivale în etapa de amprentare?",
+    "options": [
+      { "id": "A", "text": "Facilitarea accesului materialului de amprentă în zona subgingivală, atunci când limita cervicală a preparației a fost plasată la nivel subgingival sau juxtagingival", "correct": true },
+      { "id": "B", "text": "Îndepărtarea permanentă a gingiei de pe dintele stâlp pentru a expune limita preparației", "correct": false },
+      { "id": "C", "text": "Crearea spațiului necesar pentru cimentarea viitoarei microproteze", "correct": false },
+      { "id": "D", "text": "Hemostaza locală pentru a evita sângerarea în timpul preparației dintelui stâlp", "correct": false },
+      { "id": "E", "text": "Sterilizarea șanțului gingival înainte de amprentare", "correct": false }
+    ],
+    "explanation": "Evicțiunea gingivală are scopul de a facilita accesul materialului de amprentă în zona subgingivală atunci când limita cervicală a preparației a fost plasată la nivel subgingival sau juxtagingival. Intervenția trebuie să asigure în zona subgingivală un spațiu lipsit de fluide (pentru momentul amprentării) cu adâncime și grosime care să permită etalarea materialului de amprentă.",
+    "source": "PPF-Curs-4.pdf, slide EVICȚIUNEA GINGIVALĂ — Scop"
+  },
+  {
+    "id": 10,
+    "topic": "Evicțiunea gingivală",
+    "difficulty": "hard",
+    "question": "Care metodă de evicțiune gingivală este UTILIZATĂ CEL MAI FRECVENT în practica clinică?",
+    "options": [
+      { "id": "A", "text": "Metoda chemo-mecanică cu șnur preimpregnat", "correct": true },
+      { "id": "B", "text": "Metoda mecanică cu șnur de bumbac simplu, neimpregnat", "correct": false },
+      { "id": "C", "text": "Chiuretajul gingival rotativ", "correct": false },
+      { "id": "D", "text": "Electrochirurgia", "correct": false },
+      { "id": "E", "text": "Metoda chimică cu substanțe vasoconstrictoare", "correct": false }
+    ],
+    "explanation": "Dintre toate metodele de evicțiune gingivală (mecanice, chimice, chemo-mecanice, chiuretajul gingival rotativ, electrochirurgia), metoda chemo-mecanică cu ȘNUR PREIMPREGNAT este cea utilizată cel mai frecvent. Metoda chemo-mecanică include și: șnur impregnat după aplicare, benzi de retracție, hidrocoloid reversibil injectat.",
+    "source": "PPF-Curs-4.pdf, slide EVICȚIUNEA GINGIVALĂ — Metode utilizate — șnur preimpregnat"
+  },
+  {
+    "id": 11,
+    "topic": "Evicțiunea gingivală",
+    "difficulty": "hard",
+    "question": "Care sunt metodele de evicțiune gingivală enumerate în curs?",
+    "options": [
+      { "id": "A", "text": "Mecanice (șnur de bumbac simplu neimpregnat)", "correct": true },
+      { "id": "B", "text": "Chimice (vasoconstrictoare, substanțe astringente, decongestionanți nazali/oftalmici)", "correct": true },
+      { "id": "C", "text": "Chemo-mecanice (șnur preimpregnat, șnur impregnat după aplicare, benzi de retracție, hidrocoloid reversibil injectat)", "correct": true },
+      { "id": "D", "text": "Chiuretajul gingival rotativ și electrochirurgia", "correct": true },
+      { "id": "E", "text": "Excizia gingivală cu laser Er:YAG exclusiv", "correct": false }
+    ],
+    "explanation": "Metodele de evicțiune gingivală sunt: 1. Mecanice (șnur bumbac simplu, neimpregnat); 2. Chimice (vasoconstrictoare, substanțe astringente, decongestionanți nazali/oftalmici); 3. Chemo-mecanice (șnur preimpregnat — cel mai frecvent!, șnur impregnat după aplicare, benzi de retracție, hidrocoloid reversibil injectat); 4. Chiuretajul gingival rotativ; 5. Electrochirurgia. Laserul Er:YAG nu este menționat în curs.",
+    "source": "PPF-Curs-4.pdf, slide EVICȚIUNEA GINGIVALĂ — Metode utilizate"
+  },
+  {
+    "id": 12,
+    "topic": "Portamprente",
+    "difficulty": "medium",
+    "question": "Care sunt tipurile de portamprente utilizate în protetica fixă?",
+    "options": [
+      { "id": "A", "text": "Standard (metalice și din mase plastice)", "correct": true },
+      { "id": "B", "text": "Individuale (acrilat și placă bază fotopolimerizabilă)", "correct": true },
+      { "id": "C", "text": "Portamprente din silicon de condensare", "correct": false },
+      { "id": "D", "text": "Portamprente din ceară termoplastică", "correct": false },
+      { "id": "E", "text": "Portamprente din gutapercă", "correct": false }
+    ],
+    "explanation": "Portamprentele sunt suporturi rigide în care se aplică materialele de amprentă. Există 2 categorii: Standard (metalice sau din mase plastice) și Individuale (din acrilat sau placă bază fotopolimerizabilă). Portamprentele individuale se realizează pe modelul de studiu al pacientului respectiv.",
+    "source": "PPF-Curs-4.pdf, slide AMPRENTAREA CÂMPULUI PROTETIC — Portamprentele"
+  },
+  {
+    "id": 13,
+    "topic": "Clasificarea materialelor de amprentă",
+    "difficulty": "hard",
+    "question": "Conform clasificării Munteanu și Bratu, care sunt categoriile de materiale de amprentă și exemplele corespunzătoare?",
+    "options": [
+      { "id": "A", "text": "Rigide și semirigide ireversibile: gipsuri, polimeri acrilici, paste ZOE", "correct": true },
+      { "id": "B", "text": "Rigide reversibile (termoplastice): compounduri, stents, gutapercă, ceruri, materiale bucoplastice", "correct": true },
+      { "id": "C", "text": "Elastice reversibile: hidrocoloizi agar-agar", "correct": true },
+      { "id": "D", "text": "Elastice ireversibile: alginate, elastomeri de sinteză, polisulfuri, siliconi, polieteri, poliuretano-dimetilmetacrilat", "correct": true },
+      { "id": "E", "text": "Elastice termoactivabile: siliconi de adiție speciali, polieteri speciali — categorie separată de elastici ireversibili", "correct": false }
+    ],
+    "explanation": "Clasificarea materialelor de amprentă după D.Munteanu și D.Bratu are 4 categorii: 1. Rigide și semirigide ireversibile (gipsuri, polimeri acrilici, paste ZOE); 2. Rigide reversibile/termoplastice (compounduri, stents, gutapercă, ceruri, materiale bucoplastice); 3. Elastice reversibile (hidrocoloizi agar-agar); 4. Elastice ireversibile (alginate, elastomeri de sinteză, polisulfuri, siliconi, polieteri, poliuretano-dimetilmetacrilat). Nu există o categorie separată de elastice termoactivabile.",
+    "source": "PPF-Curs-4.pdf, slide AMPRENTAREA CÂMPULUI PROTETIC — Clasificarea materialelor"
+  },
+  {
+    "id": 14,
+    "topic": "Tehnici de amprentare",
+    "difficulty": "medium",
+    "question": "Conform nomenclaturii Witz (1977), care sunt tipurile de amprente UNIMAXILARE?",
+    "options": [
+      { "id": "A", "text": "Amprenta obișnuită sau într-un timp", "correct": true },
+      { "id": "B", "text": "Amprenta în doi timpi și amprenta de spălare (în două faze)", "correct": true },
+      { "id": "C", "text": "Amprenta în dublu amestec și amprenta compusă (sandwich)", "correct": true },
+      { "id": "D", "text": "Amprenta pentru RCR", "correct": true },
+      { "id": "E", "text": "Amprenta totalizantă cu hidrocoloid reversibil simplu", "correct": false }
+    ],
+    "explanation": "Conform nomenclaturii Witz (1977) pentru clasificarea tehnicilor de amprentare, amprentele unimaxilare includ: amprenta obișnuită sau într-un timp, amprenta în doi timpi, amprenta de spălare (în două faze), amprenta în dublu amestec, amprenta compusă (sandwich), amprenta pentru RCR. La acestea se adaugă amprenta bimaxilară ca categorie separată.",
+    "source": "PPF-Curs-4.pdf, slide AMPRENTAREA — Tehnici de amprentare — nomenclatura Witz 1977"
+  },
+  {
+    "id": 15,
+    "topic": "Tehnici de amprentare",
+    "difficulty": "hard",
+    "question": "Care afirmații sunt CORECTE despre amprenta OBIȘNUITĂ (într-un timp)?",
+    "options": [
+      { "id": "A", "text": "Materialul ales se depune într-o lingură universală, care este așezată pe câmpul protetic", "correct": true },
+      { "id": "B", "text": "Această amprentă se realizează pentru înregistrarea dinților antagoniști", "correct": true },
+      { "id": "C", "text": "Materialul folosit este în general hidrocoloizii ireversibili", "correct": true },
+      { "id": "D", "text": "Se realizează în 2 faze distincte: prima faza cu elastomer chitos, a doua cu elastomer fluid", "correct": false },
+      { "id": "E", "text": "Este indicată exclusiv pentru amprentarea câmpului protetic principal cu dinți preparați", "correct": false }
+    ],
+    "explanation": "Amprenta obișnuită: materialul se depune într-o lingură universală; se realizează pentru înregistrarea dinților antagoniști; materialul folosit = în general hidrocoloizii ireversibili. Realizarea în 2 faze (chitos + fluid) este specifică amprentei de SPĂLARE sau amprentei ÎN DOI TIMPI, nu amprentei obișnuite.",
+    "source": "PPF-Curs-4.pdf, slide Tehnici de amprentare — Amprenta obișnuită"
+  },
+  {
+    "id": 16,
+    "topic": "Tehnici de amprentare",
+    "difficulty": "hard",
+    "question": "Care afirmații sunt CORECTE privind amprenta DE SPĂLARE (wash technique)?",
+    "options": [
+      { "id": "A", "text": "Se obține în 2 faze: faza 1 = elastomer solid (chit) pe câmpul protetic → priza → îndepărtarea amprentei", "correct": true },
+      { "id": "B", "text": "Evicțiunea șanțului gingival se realizează ÎNTRE cele 2 faze ale amprentării", "correct": true },
+      { "id": "C", "text": "Pregătirea amprentei din chit (pentru faza 2) include decuparea șanțurilor triunghiulare la nivelul fețelor vestibulare și orale", "correct": true },
+      { "id": "D", "text": "Faza 2: elastomerul fluid se depune în șanțul gingivo-dentar, pe suprafața bontului și în impresiunile din elastomerul chitos, după care lingura se reintroduce", "correct": true },
+      { "id": "E", "text": "Cele 2 materiale (chit și fluid) polimerizează simultan, în același timp, fără a fi scoasă amprenta din cavitatea bucală", "correct": false }
+    ],
+    "explanation": "Amprenta de spălare (wash technique): Faza 1 — elastomerul solid (chit) se aplică, se lasă să prizeze complet, apoi amprenta se îndepărtează. Evicțiunea gingivală se face ÎNTRE cele 2 faze. Amprenta din chit se pregătește (spălată, uscată, eliminate zonele retentive, decupate șanțuri triunghiulare). Faza 2 — elastomerul fluid se injectează și lingura se reintroduce; după priză (2-4 min) se îndepărtează. Polimerizarea simultană a ambelor materiale este specifică amprentei COMPUSE (sandwich), nu amprentei de spălare.",
+    "source": "PPF-Curs-4.pdf, slide Tehnici de amprentare — Amprenta de spălare"
+  },
+  {
+    "id": 17,
+    "topic": "Înregistrarea ocluziei",
+    "difficulty": "hard",
+    "question": "Care condiții trebuie respectate la realizarea înregistrării ocluziei?",
+    "options": [
+      { "id": "A", "text": "Trebuie să cuprindă cât mai mulți dinți", "correct": true },
+      { "id": "B", "text": "Nu trebuie să depășească ecuatorul clinic", "correct": true },
+      { "id": "C", "text": "Nu trebuie să acopere sub nicio formă părțile moi deoarece acestea reprezintă zone reziliente", "correct": true },
+      { "id": "D", "text": "Nu trebuie să fie perforată în cazul înregistrării RC", "correct": true },
+      { "id": "E", "text": "Se realizează obligatoriu cu silicon de adiție, alte materiale nefiind acceptabile", "correct": false }
+    ],
+    "explanation": "Înregistrarea ocluziei (amprentă a fețelor ocluzale ale ambelor arcade în raportul dorit) trebuie: să cuprindă cât mai mulți dinți; să nu depășească ecuatorul clinic; să nu acopere sub nicio formă părțile moi (zone reziliente); să nu fie perforată în cazul înregistrării RC. Materialele acceptate includ: ceară de ocluzie (Beautypink), ceară armată cu folie de aluminiu (Aluwax), polieteri speciali (Ramitec-ESPE), siliconi de adiție speciali.",
+    "source": "PPF-Curs-4.pdf, slide Tehnici de amprentare — Înregistrarea ocluziei"
+  },
+  {
+    "id": 18,
+    "topic": "Dezinfectarea amprentei",
+    "difficulty": "hard",
+    "question": "Care materiale de amprentă necesită Glutaraldehide ca dezinfectant acceptat?",
+    "options": [
+      { "id": "A", "text": "Siliconi (Glutaraldehide; Iodoform 1:213 sau Hipoclorit de sodiu 1:10)", "correct": true },
+      { "id": "B", "text": "Pastă ZOE (Glutaraldehide; Iodoform 1:213)", "correct": true },
+      { "id": "C", "text": "Alginat (Iodoform 1:213 sau Hipoclorit de sodiu 1:10 — fără Glutaraldehide)", "correct": false },
+      { "id": "D", "text": "Polieteri (Iodoform 1:213 sau Hipoclorit de sodiu 1:10 — fără Glutaraldehide)", "correct": false },
+      { "id": "E", "text": "Hidrocoloizi reversibili (Iodoform 1:213 sau Hipoclorit de sodiu 1:10 — fără Glutaraldehide)", "correct": false }
+    ],
+    "explanation": "Glutaraldehidele sunt dezinfectanți acceptați pentru: Siliconi (împreună cu Iodoform 1:213 sau Hipoclorit sodiu 1:10) și Pastă ZOE (împreună cu Iodoform 1:213 — fără Hipoclorit). Alginatul, polieterii, hidrocoloizii reversibili și stents-urile necesită doar Iodoform 1:213 sau Hipoclorit de sodiu 1:10, fără glutaraldehide.",
+    "source": "PPF-Curs-4.pdf, slide AMPRENTAREA — Dezinfectarea amprentei"
+  },
+  {
+    "id": 19,
+    "topic": "Dezinfectarea portamprentelor",
+    "difficulty": "medium",
+    "question": "Care este modalitatea de igienizare a portamprentelor metalice (aluminiu, cromate) vs a portamprentelor individuale/plastice?",
+    "options": [
+      { "id": "A", "text": "Portamprente aluminiu/cromate: sterilizare în autoclav sau sterilizare uscată; portamprente individuale din rășini acrilice și plastic: se aruncă după utilizare", "correct": true },
+      { "id": "B", "text": "Portamprente aluminiu/cromate: imersie în Glutaraldehide; portamprente individuale: sterilizare uscată", "correct": false },
+      { "id": "C", "text": "Toate tipurile de portamprente: sterilizare în autoclav", "correct": false },
+      { "id": "D", "text": "Portamprente aluminiu: se aruncă după utilizare; portamprente cromate: sterilizare uscată", "correct": false },
+      { "id": "E", "text": "Toate tipurile de portamprente: dezinfecție cu Hipoclorit de sodiu 1:10", "correct": false }
+    ],
+    "explanation": "Portamprentele metalice (aluminiu și cromate) se sterilizează în autoclav sau prin sterilizare uscată (pot fi reutilizate). Portamprentele individuale din rășini acrilice și portamprentele din plastic SE ARUNCĂ după utilizare (nu se sterilizează).",
+    "source": "PPF-Curs-4.pdf, slide AMPRENTAREA — Dezinfectarea amprentei — PORTAMPRENTE"
+  },
+  {
+    "id": 20,
+    "topic": "Controlul amprentei",
+    "difficulty": "hard",
+    "question": "Care criterii trebuie verificate la controlul (recepția) amprentei în laboratorul de tehnică dentară?",
+    "options": [
+      { "id": "A", "text": "Integritatea amprentei trebuie să redea, cu exactitate, imaginea câmpului protetic în totalitate", "correct": true },
+      { "id": "B", "text": "Amprenta să nu prezinte goluri prin interpunerea bulelor de aer", "correct": true },
+      { "id": "C", "text": "Materialul de amprentare să fie fixat la portamprentă", "correct": true },
+      { "id": "D", "text": "Amprenta să nu fie ștearsă și să nu prezinte dubluri ale unor grupuri de dinți", "correct": true },
+      { "id": "E", "text": "Amprenta trebuie să fie de culoare albastră pentru a certifica dezinfectarea corectă", "correct": false }
+    ],
+    "explanation": "La controlul (recepția) amprentei se verifică: integritatea amprentei (redarea exactă a câmpului protetic în totalitate); imaginea suprafețelor ocluzale ale dinților vecini și antagoniști să fie corect redate; rapoartele ocluzale în amprentele monobloc să fie corecte; să nu prezinte goluri (bule de aer); materialul de amprentare să fie fixat la portamprentă; amprenta să nu fie ștearsă; amprenta să nu prezinte dubluri ale unor grupuri de dinți. Culoarea nu este un criteriu de validare.",
+    "source": "PPF-Curs-4.pdf, slide RECEPȚIA AMPRENTEI ȘI A FIȘEI — Controlul amprentei"
+  },
+  {
+    "id": 21,
+    "topic": "Montarea în simulator",
+    "difficulty": "medium",
+    "question": "Care simulator NU SE FOLOSEȘTE în tehnologia protezelor parțiale fixe?",
+    "options": [
+      { "id": "A", "text": "Ocluzo-cheia distală", "correct": true },
+      { "id": "B", "text": "Ocluzorul", "correct": false },
+      { "id": "C", "text": "Articulatorul cu valori medii, neadaptabil", "correct": false },
+      { "id": "D", "text": "Articulatorul cu valori medii, semiadaptabil", "correct": false },
+      { "id": "E", "text": "Articulatorul total programabil", "correct": false }
+    ],
+    "explanation": "Ocluzo-cheia distală NU SE FOLOSEȘTE în PPF. Simulatoarele utilizate sunt: Ocluzorul (pentru cazuri ușoare, cu precădere zona frontală), Articulatorul cu valori medii neadaptabil, Articulatorul cu valori medii semiadaptabil și Articulatorul total programabil.",
+    "source": "PPF-Curs-4.pdf, slide Montarea în simulator"
+  },
+  {
+    "id": 22,
+    "topic": "Montarea în simulator",
+    "difficulty": "medium",
+    "question": "Care sunt indicațiile OCLUZORULUI ca simulator în tehnica dentară?",
+    "options": [
+      { "id": "A", "text": "Se utilizează pentru cazuri ușoare", "correct": true },
+      { "id": "B", "text": "Se utilizează cu precădere pentru zona frontală a arcadei", "correct": true },
+      { "id": "C", "text": "Se utilizează pentru toate cazurile de PPF, indiferent de complexitate", "correct": false },
+      { "id": "D", "text": "Se utilizează cu precădere pentru zona laterală a arcadei", "correct": false },
+      { "id": "E", "text": "Este simulatorul recomandat pentru PPF totale complexe cu disfuncții ocluzale", "correct": false }
+    ],
+    "explanation": "Ocluzorul este indicat pentru: cazuri ușoare și cu precădere pentru zona FRONTALĂ a arcadei. Nu este recomandat pentru cazuri complexe sau pentru zona laterală (unde sunt necesare articulatoare mai precise pentru reproducerea mișcărilor mandibulare).",
+    "source": "PPF-Curs-4.pdf, slide Montarea în simulator — Ocluzorul"
+  },
+  {
+    "id": 23,
+    "topic": "Tehnici de obținere a machetei",
+    "difficulty": "hard",
+    "question": "Care sunt tehnicile de obținere a machetei PPF enumerate în curs?",
+    "options": [
+      { "id": "A", "text": "Tehnica răcirii gradate (imersie + picurare), tehnica prin picurare, tehnica ambutisare + picurare", "correct": true },
+      { "id": "B", "text": "Tehnica adiției și tehnica conformatorului", "correct": true },
+      { "id": "C", "text": "Frezarea (în rășină calcinabilă sau în metal direct) și imprimarea 3D (în rășină calcinabilă sau în metal direct)", "correct": true },
+      { "id": "D", "text": "Tehnica injectării în matriță de silicon", "correct": false },
+      { "id": "E", "text": "Tehnica galvanoplastiei pentru obținerea machetei metalice directe", "correct": false }
+    ],
+    "explanation": "Tehnicile de obținere a machetei PPF sunt 7: 1. Tehnica răcirii gradate (imersie + picurare); 2. Tehnica prin picurare; 3. Tehnica ambutisare + picurare; 4. Tehnica adiției; 5. Tehnica conformatorului; 6. Frezare (a. în rășină calcinabilă → ambalare + turnare; b. în metal — se obține PPF direct); 7. Imprimare 3D (a. în rășină calcinabilă; b. în metal — PPF direct). Tehnica injectării în matriță sau galvanoplastia nu sunt menționate.",
+    "source": "PPF-Curs-4.pdf, slide Macheta — Tehnici de obținere a machetei"
+  },
+  {
+    "id": 24,
+    "topic": "Tehnici de machetare",
+    "difficulty": "hard",
+    "question": "Care afirmații sunt CORECTE privind tehnica răcirii gradate (imersie + picurare)?",
+    "options": [
+      { "id": "A", "text": "Bontul este izolat la nivelul coroanei înainte de imersare", "correct": true },
+      { "id": "B", "text": "Ceara mai rece produce o capă mai GROASĂ; ceara mai încălzită produce o capă mai SUBȚIRE", "correct": true },
+      { "id": "C", "text": "În jurul bontului se formează o capă de ceară cu grosime de 0,30-0,40 mm", "correct": true },
+      { "id": "D", "text": "Forma definitivă a machetei se obține prin depunerea cerii picătură cu picătură cu spatula electrică sau picurătorul", "correct": true },
+      { "id": "E", "text": "Corpul de punte se modelează exclusiv prin imersarea conexiunii dintre retentorii de ceară în baia de imersie", "correct": false }
+    ],
+    "explanation": "Tehnica răcirii gradate: bontul se izolează (soluții apoase, detergențe, saponate) → imersare → capă de ceară 0,30-0,40mm; ceară mai rece = capă groasă; ceară mai încălzită = capă subțire → forma definitivă prin picurare cu spatulă electrică sau picurător → corpul de punte se modelează prin aplicarea unei tije de ceară între elementele de agregare (în zona punctelor de contact proximale) și modelarea morfologiei prin picurare → modelajul cu spatula prin răzuire netezește fețele.",
+    "source": "PPF-Curs-4.pdf, slide Tehnica răcirii gradate"
+  },
+  {
+    "id": 25,
+    "topic": "Tehnici de machetare",
+    "difficulty": "hard",
+    "question": "Care este caracteristica distinctivă a tehnicii ADIȚIEI față de celelalte tehnici de machetare?",
+    "options": [
+      { "id": "A", "text": "Macheta începe cu realizarea feței ocluzale (vârful cuspizilor → crestele sagitale → crestele V/O/axiale → crestele marginale), cu modelele montate în articulator", "correct": true },
+      { "id": "B", "text": "Macheta începe cu realizarea unei cape de imersie în băița de ceară", "correct": false },
+      { "id": "C", "text": "Se utilizează o folie de 0,6 mm plastiată deasupra flăcării pentru realizarea capei inițiale", "correct": false },
+      { "id": "D", "text": "Se utilizează conformatoare siliconice preformate pentru obținerea feței ocluzale", "correct": false },
+      { "id": "E", "text": "Corpul de punte este realizat primul, înaintea elementelor de agregare", "correct": false }
+    ],
+    "explanation": "Tehnica adiției se caracterizează prin faptul că modelele sunt montate în articulator și macheta ÎNCEPE CU FAȚA OCLUZALĂ, construind-o pas cu pas: localizarea vârfului cuspizilor → crestele sagitale → crestele vestibulare, orale și axiale → crestele marginale. Fețele laterale se modelează ulterior în raport cu morfologia dinților vecini. Relieful feței ocluzale este cuspidat cu maximum de eficiență masticatorie.",
+    "source": "PPF-Curs-4.pdf, slide Tehnica adiției"
+  },
+  {
+    "id": 26,
+    "topic": "Frezarea CAD/CAM",
+    "difficulty": "medium",
+    "question": "Care sunt cele 3 tehnologii distincte care compun procesul de FREZARE CAD/CAM în tehnica dentară?",
+    "options": [
+      { "id": "A", "text": "Scanarea (captura topografiei câmpului de lucru), Designul digital (aplicații software pentru prefigurarea piesei protetice) și Fabricarea (transpunerea designului într-un obiect fizic)", "correct": true },
+      { "id": "B", "text": "Amprenta digitală, Modelarea virtuală și Imprimarea 3D", "correct": false },
+      { "id": "C", "text": "Scanarea, Polimerizarea și Frezarea propriu-zisă", "correct": false },
+      { "id": "D", "text": "CAD (design asistat de calculator), CAM (fabricare asistată de calculator) și CNC (control numeric computerizat)", "correct": false },
+      { "id": "E", "text": "Scanarea globală, Scanarea pe bonturi și Designul digital", "correct": false }
+    ],
+    "explanation": "Frezarea CAD/CAM se bazează pe 3 tehnologii distincte: I) Scanarea = procesul utilizat pentru a captura topografia câmpului de lucru; II) Designul digital = aplicațiile software utilizate pentru prefigurarea viitoarei piese protetice; III) Fabricarea = procesul tehnologic de transpunere a designului într-un obiect fizic (frezarea propriu-zisă).",
+    "source": "PPF-Curs-4.pdf, slide Tehnici de obținere a machetei — FREZAREA — 3 tehnologii distincte"
+  },
+  {
+    "id": 27,
+    "topic": "Frezarea CAD/CAM",
+    "difficulty": "hard",
+    "question": "Care sunt pașii etapei de DESIGN (CAD) în procesul de frezare a PPF?",
+    "options": [
+      { "id": "A", "text": "Trasarea zonei de închidere marginală și stabilirea axei de inserție", "correct": true },
+      { "id": "B", "text": "Stabilirea spațiului pentru ciment (spacer) și alegerea librăriei/generarea designului", "correct": true },
+      { "id": "C", "text": "Stabilirea dimensiunii și poziției individuale a fiecărui element al PPF și poziționarea/conformarea conectorilor", "correct": true },
+      { "id": "D", "text": "Selectarea strategiei de frezare, poziționarea tijelor de suport și generarea programului de frezare (pași ai etapei CAM)", "correct": false },
+      { "id": "E", "text": "Scanarea globală a modelului de lucru și scanarea dințiilor stâlpi (pași ai etapei de Scanare)", "correct": false }
+    ],
+    "explanation": "Etapa de Design (CAD) cuprinde 6 pași: 1. Trasarea zonei de închidere marginală; 2. Stabilirea axei de inserție; 3. Stabilirea spațiului pentru ciment (spacer); 4. Alegerea librăriei/Generarea designului; 5. Stabilirea dimensiunii și poziției individuale a fiecărui element al PPF; 6. Poziționarea și conformarea conectorilor. Selectarea strategiei de frezare, pozitionarea tijelor de suport și generarea programului aparțin etapei de CAM.",
+    "source": "PPF-Curs-4.pdf, slide Tehnici de obținere a machetei — FREZAREA — Design-ul"
+  },
+  {
+    "id": 28,
+    "topic": "Frezarea CAD/CAM",
+    "difficulty": "hard",
+    "question": "Care afirmații sunt CORECTE privind axele de mișcare ale sistemelor de FREZARE CAD/CAM dentară?",
+    "options": [
+      { "id": "A", "text": "Există 3 axe carteziene: X (lungime, înainte-înapoi), Y (lățime, stânga-dreapta), Z (înălțime, sus-jos)", "correct": true },
+      { "id": "B", "text": "Există 2 axe de rotație: A (rotație în jurul axei X) și B (rotație în jurul axei Y)", "correct": true },
+      { "id": "C", "text": "Majoritatea sistemelor de frezare de cabinet utilizează 4 axe", "correct": true },
+      { "id": "D", "text": "Sistemele de laborator utilizează 4 sau 5 axe", "correct": true },
+      { "id": "E", "text": "Sistemele cu 3 axe (numai carteziene, fără axe de rotație) sunt cele mai performante pentru frezarea protezelor fixe complexe", "correct": false }
+    ],
+    "explanation": "Sistemele de frezare CAD/CAM au: 3 axe carteziene (X-lungime: înainte-înapoi; Y-lățime: stânga-dreapta; Z-înălțime: sus-jos) și 2 axe de rotație (A-rotație în jurul axei X; B-rotație în jurul axei Y). Sisteme de cabinet = în general 4 axe; sisteme de laborator = 4 sau 5 axe. Sistemele cu mai multe axe sunt mai performante, nu cele cu numai 3 axe.",
+    "source": "PPF-Curs-4.pdf, slide Tehnici de obținere a machetei — FREZAREA — III. Frezarea — axe"
+  },
+  {
+    "id": 29,
+    "topic": "Fișa de laborator",
+    "difficulty": "medium",
+    "question": "Ce informații trebuie menționate pe FIȘA DE LABORATOR la recepția amprentei?",
+    "options": [
+      { "id": "A", "text": "Elementele de agregare solicitate și forma corpului de punte", "correct": true },
+      { "id": "B", "text": "Aspectul punții din punct de vedere estetic și materialele din care trebuie confecționată", "correct": true },
+      { "id": "C", "text": "Dimensiunea vestibulo-orală a fețelor ocluzale și indicații pentru modelarea fețelor ocluzale", "correct": true },
+      { "id": "D", "text": "Solicitări în legătură cu forma și mărimea intermediarilor", "correct": true },
+      { "id": "E", "text": "Protocolul de aplicare a anesteziei locale utilizate în ședința de șlefuire", "correct": false }
+    ],
+    "explanation": "Pe fișa de laborator se menționează: elementele de agregare solicitate, forma corpului de punte, aspectul PPF din punct de vedere estetic, materialele din care trebuie confecționată puntea, dimensiunea vestibulo-orală a fețelor ocluzale, indicații în vederea modelării fețelor ocluzale și solicitări în legătură cu forma/mărimea intermediarilor. Protocolul de anestezie ține de managementul clinic și nu se include pe fișa de laborator.",
+    "source": "PPF-Curs-4.pdf, slide RECEPȚIA AMPRENTEI ȘI A FIȘEI — fișa de laborator"
+  }
+]

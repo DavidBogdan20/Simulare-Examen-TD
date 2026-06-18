@@ -13,5 +13,10 @@
     "id": "ppf-curs-3",
     "name": "PPF Curs 3 — Biomecanica PPF: principii de tratament",
     "file": "questions/ppf-curs-3.json"
+  },
+  {
+    "id": "ppf-curs-4",
+    "name": "PPF Curs 4",
+    "file": "questions/ppf-curs-4.json"
   }
 ]
