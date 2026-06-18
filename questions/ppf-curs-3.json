@@ -1,0 +1,512 @@
+[
+  {
+    "id": 1,
+    "topic": "Principii generale PPF",
+    "difficulty": "medium",
+    "question": "Care sunt cele 3 principii generale valabile pentru toate punțile dentare, indiferent de tehnica de realizare?",
+    "options": [
+      { "id": "A", "text": "Principiul biofuncțional", "correct": true },
+      { "id": "B", "text": "Principiul profilactic", "correct": true },
+      { "id": "C", "text": "Principiul biomecanic", "correct": true },
+      { "id": "D", "text": "Principiul estetic", "correct": false },
+      { "id": "E", "text": "Principiul economic", "correct": false }
+    ],
+    "explanation": "Toate punțile dentare trebuie să corespundă celor 3 principii general valabile: biofuncțional, profilactic și biomecanic. Principiile estetic sau economic nu sunt menționate ca principii generale ale tratamentului edentației parțiale prin PPF.",
+    "source": "PPF-Curs-3.pdf, slide Principii generale în tratamentul edentației parțiale prin PPF"
+  },
+  {
+    "id": 2,
+    "topic": "Principiul biofuncțional",
+    "difficulty": "medium",
+    "question": "Conform principiului biofuncțional, restaurarea integrității arcadei dentare cu ajutorul PPF se realizează în scopul restabilirii căror funcții majore ale aparatului dento-maxilar?",
+    "options": [
+      { "id": "A", "text": "Fizionomia", "correct": true },
+      { "id": "B", "text": "Fonația", "correct": true },
+      { "id": "C", "text": "Masticația", "correct": true },
+      { "id": "D", "text": "Deglutiția", "correct": false },
+      { "id": "E", "text": "Respirația orală", "correct": false }
+    ],
+    "explanation": "Principiul biofuncțional vizează restabilirea a 3 funcții majore ale aparatului dento-maxilar: fizionomia, fonația și masticația. Deglutiția și respirația orală nu sunt menționate ca funcții vizate de principiul biofuncțional în cursul PPF.",
+    "source": "PPF-Curs-3.pdf, slide 1. Principiul biofuncțional"
+  },
+  {
+    "id": 3,
+    "topic": "Principiul biofuncțional - fizionomia",
+    "difficulty": "hard",
+    "question": "Care condiții trebuie respectate pentru ca PPF să îndeplinească principiul biofuncțional privind FIZIONOMIA?",
+    "options": [
+      { "id": "A", "text": "Forma fețelor V ale dinților artificiali = identică cu cea a dinților naturali de pe aceeași arcadă", "correct": true },
+      { "id": "B", "text": "Dimensiunile fețelor V = în armonie cu dinții restanți", "correct": true },
+      { "id": "C", "text": "Culoarea = cât mai apropiată de dinții restanți", "correct": true },
+      { "id": "D", "text": "Se ține cont de curba vestibulară a arcadelor și de curbele de ocluzie", "correct": true },
+      { "id": "E", "text": "Forma fețelor V ale dinților artificiali = identică cu cea a dinților antagoniști", "correct": false }
+    ],
+    "explanation": "Condițiile de fizionomie sunt: forma fețelor V identică cu dinții naturali de pe aceeași arcadă (nu cu antagoniștii — aceștia se iau în corelație cu forma, nu cu identic); dimensiunile identice cu dinții absenți și în armonie cu restanții; culoarea apropiată de dinții restanți; respectarea curbei vestibulare și a curbelor de ocluzie.",
+    "source": "PPF-Curs-3.pdf, slide Fizionomia — condiții"
+  },
+  {
+    "id": 4,
+    "topic": "Principiul biofuncțional - fizionomia",
+    "difficulty": "hard",
+    "question": "Prin ce mijloace se poate realiza ANIMAREA PPF conform principiului biofuncțional?",
+    "options": [
+      { "id": "A", "text": "Prin realizarea unor malpoziții dentare", "correct": true },
+      { "id": "B", "text": "Prin individualizarea coroanelor", "correct": true },
+      { "id": "C", "text": "Prin realizarea unui relief ocluzal plat pentru uniformizare", "correct": false },
+      { "id": "D", "text": "Prin utilizarea exclusivă a materialelor ceramice", "correct": false },
+      { "id": "E", "text": "Prin lărgirea dimensiunii vestibulo-orale a corpului de punte", "correct": false }
+    ],
+    "explanation": "Animarea PPF se poate realiza prin realizarea unor malpoziții dentare sau prin individualizarea coroanelor. Relieful plat, ceramica exclusivă sau lărgirea V-O nu sunt mijloace de animare menționate în curs.",
+    "source": "PPF-Curs-3.pdf, slide Fizionomia — animarea PPF"
+  },
+  {
+    "id": 5,
+    "topic": "Principiul biofuncțional - fonația",
+    "difficulty": "hard",
+    "question": "La ce aspecte se acordă atenție la modelarea corpului de punte pentru respectarea principiului biofuncțional privind FONAȚIA?",
+    "options": [
+      { "id": "A", "text": "Modelajul feței palatinale a corpului de punte", "correct": true },
+      { "id": "B", "text": "Poziția corpului de punte în sens vestibulo-oral", "correct": true },
+      { "id": "C", "text": "Dimensiunea în sens cervico-incizal și V-O identice cu ale dinților naturali", "correct": true },
+      { "id": "D", "text": "Realizarea unui corp de punte cu față palatinală convexă pronunțat", "correct": false },
+      { "id": "E", "text": "Culoarea corpului de punte identică cu a dinților adiacenți", "correct": false }
+    ],
+    "explanation": "Pentru fonație se acordă atenție la: 1) modelajul feței palatinale a corpului de punte (pe care se sprijină vârful limbii la emiterea consoanelor), 2) poziția corpului de punte în sens vestibulo-oral, 3) dimensiunea în sens cervico-incizal și V-O identice cu ale dinților naturali. Culoarea nu influențează fonația.",
+    "source": "PPF-Curs-3.pdf, slide Fonația — atenția la"
+  },
+  {
+    "id": 6,
+    "topic": "Principiul biofuncțional - masticația",
+    "difficulty": "medium",
+    "question": "Care condiții trebuie respectate pentru ca PPF să realizeze o masticație eficientă (principiul biofuncțional)?",
+    "options": [
+      { "id": "A", "text": "Fețele ocluzale ale PPF să prezinte dimensiuni identice/asemănătoare cu fețele ocluzale ale dinților naturali pierduți", "correct": true },
+      { "id": "B", "text": "Relieful fețelor ocluzale să fie cuspidat cu toate elementele bine exprimate în concordanță cu individualizarea stereotipiilor musculare", "correct": true },
+      { "id": "C", "text": "Raportul de contact cu dinții antagoniști să fie funcțional, cu multiple contacte stabile și simultane", "correct": true },
+      { "id": "D", "text": "Fețele ocluzale ale PPF să prezinte relief plat pentru a nu intercepta mișcările mandibulei", "correct": false },
+      { "id": "E", "text": "Corpul de punte să fie cât mai îngust în sens mezio-distal pentru a reduce forțele masticatorii", "correct": false }
+    ],
+    "explanation": "Masticația eficientă prin PPF se realizează prin: dimensiuni ocluzale identice/asemănătoare cu dinții naturali pierduți; relief ocluzal cuspidat în concordanță cu stereotipiile musculare; contact funcțional cu multiple contacte stabile și simultane cu antagoniștii (pentru transmiterea presiunilor în axul dinților stâlpi). Relieful plat reduce eficiența masticatorie.",
+    "source": "PPF-Curs-3.pdf, slide Masticația — condiții"
+  },
+  {
+    "id": 7,
+    "topic": "Principiul profilactic - aspecte",
+    "difficulty": "hard",
+    "question": "Care sunt aspectele a căror respectare este necesară pentru punerea în practică a principiului PROFILACTIC al PPF?",
+    "options": [
+      { "id": "A", "text": "Direcția corpului de punte și lățimea V-O a corpului de punte", "correct": true },
+      { "id": "B", "text": "Relieful ocluzal și raportul corpului de punte cu creasta edentată", "correct": true },
+      { "id": "C", "text": "Protecția papilei interdentare și calitățile fizico-chimice ale materialelor", "correct": true },
+      { "id": "D", "text": "Rezistența mecanică, stabilitatea și echilibrul PPF", "correct": false },
+      { "id": "E", "text": "Inserția și retenția PPF", "correct": false }
+    ],
+    "explanation": "Principiul profilactic cuprinde 6 aspecte: 1. Direcția corpului de punte, 2. Relieful ocluzal, 3. Lățimea V-O a corpului de punte, 4. Raportul corpului de punte cu creasta edentată, 5. Protecția papilei interdentare, 6. Calitățile fizico-chimice ale materialelor. Rezistența mecanică, stabilitatea, echilibrul, inserția și retenția aparțin principiului BIOMECANIC.",
+    "source": "PPF-Curs-3.pdf, slide 2. Principiul profilactic"
+  },
+  {
+    "id": 8,
+    "topic": "Principiul profilactic - direcția corpului de punte",
+    "difficulty": "hard",
+    "question": "Când apare nocivitatea forțelor masticatorii asupra implantării dinților stâlpi?",
+    "options": [
+      { "id": "A", "text": "Când forțele masticatorii prezintă componente orizontale", "correct": true },
+      { "id": "B", "text": "Când forțele sunt proiectate în afara poligonului de sprijin parodontal al dintelui stâlp", "correct": true },
+      { "id": "C", "text": "Când forțele masticatorii se transmit în axul lung al dinților stâlpi", "correct": false },
+      { "id": "D", "text": "Când forțele masticatorii se transmit exclusiv pe componentă verticală", "correct": false },
+      { "id": "E", "text": "Când receptorii parodontali activează protecția autoprotectivă la forțele supraliminare", "correct": false }
+    ],
+    "explanation": "Nocivitatea forțelor masticatorii asupra implantării dinților stâlpi apare DOAR pentru componentele orizontale ale acestora SAU când forțele sunt proiectate în afara poligonului de susținere (poligonul de sprijin parodontal al dintelui). Transmiterea forțelor în axul lung este FIZIOLOGICĂ și nu este nocivă.",
+    "source": "PPF-Curs-3.pdf, slide Direcția corpului de punte — nocivitate"
+  },
+  {
+    "id": 9,
+    "topic": "Principiul profilactic - direcția corpului de punte",
+    "difficulty": "hard",
+    "question": "Care afirmație este CORECTĂ privind realizarea în linie dreaptă față de cea curbă a corpului de punte?",
+    "options": [
+      { "id": "A", "text": "Realizarea dreaptă situează forțele masticatorii în POLIGONUL de sprijin parodontal al dinților stâlpi", "correct": true },
+      { "id": "B", "text": "Realizarea dreaptă poate fi respectată pentru punțile zonei laterale a arcadei", "correct": false },
+      { "id": "C", "text": "Realizarea curbă situează forțele masticatorii în POLIGONUL de sprijin parodontal", "correct": false },
+      { "id": "D", "text": "Realizarea dreaptă creează un moment de rotație cu efecte nocive", "correct": false },
+      { "id": "E", "text": "Estetica facială permite realizarea dreaptă și în zona frontală a arcadei", "correct": false }
+    ],
+    "explanation": "Realizarea DREAPTĂ a corpului de punte situează forțele în POLIGONUL de sprijin parodontal (favorabil). Realizarea CURBĂ situează forțele ÎN AFARA poligonului, creând un moment de rotație cu efecte NOCIVE. Dezideratul profilactic al realizării drepte poate fi îndeplinit DOAR pentru zona LATERALĂ — estetica facială nu permite realizarea dreaptă în zona frontală.",
+    "source": "PPF-Curs-3.pdf, slide Direcția corpului de punte — linie dreaptă vs curbă"
+  },
+  {
+    "id": 10,
+    "topic": "Principiul profilactic - lățimea V-O",
+    "difficulty": "hard",
+    "question": "Care sunt consecințele MĂRIRII dimensionale a lățimii vestibulo-orale a corpului de punte?",
+    "options": [
+      { "id": "A", "text": "Situează forțele de masticație în afara poligonului parodontal de susținere", "correct": true },
+      { "id": "B", "text": "Apare tendința de rotație vestibulo-orală a punții", "correct": true },
+      { "id": "C", "text": "Situează forțele de masticație în interiorul poligonului de sprijin parodontal", "correct": false },
+      { "id": "D", "text": "Elimină posibilele forțe de rotație", "correct": false },
+      { "id": "E", "text": "Îmbunătățește stabilitatea PPF și favorizează transmiterea fiziologică a forțelor", "correct": false }
+    ],
+    "explanation": "Mărirea dimensională V-O a corpului de punte situează forțele de masticație în AFARA poligonului parodontal de susținere și apare tendința de ROTAȚIE vestibulo-orală a punții. Subdimensionarea V-O (micșorarea) este măsura profilactică recomandată pentru eliminarea forțelor de rotație.",
+    "source": "PPF-Curs-3.pdf, slide Lățimea V-O a corpului de punte"
+  },
+  {
+    "id": 11,
+    "topic": "Principiul profilactic - lățimea V-O",
+    "difficulty": "medium",
+    "question": "Care afirmații sunt CORECTE privind gestionarea dimensiunii vestibulo-orale a corpului de punte conform principiului profilactic?",
+    "options": [
+      { "id": "A", "text": "Între mărire și micșorare este de preferat MICȘORAREA dimensiunii V-O", "correct": true },
+      { "id": "B", "text": "Reducerea dimensională se face din cuspizii inactivi: vestibulari la maxilar, linguali la mandibulă", "correct": true },
+      { "id": "C", "text": "Cuspizii de sprijin nu trebuie afectați dimensional", "correct": true },
+      { "id": "D", "text": "Reducerea dimensională se face din cuspizii inactivi: linguali la maxilar, vestibulari la mandibulă", "correct": false },
+      { "id": "E", "text": "Între mărire și micșorare este de preferat MĂRIREA dimensiunii V-O", "correct": false }
+    ],
+    "explanation": "Principii pentru lățimea V-O: se PREFERĂ MICȘORAREA față de mărire; cuspizii de sprijin NU se afectează dimensional; reducerea se face din cuspizii INACTIVI: vestibulari la MAXILAR, linguali la MANDIBULĂ (nu invers).",
+    "source": "PPF-Curs-3.pdf, slide Lățimea V-O a corpului de punte — micșorare preferată"
+  },
+  {
+    "id": 12,
+    "topic": "Principiul profilactic - relieful ocluzal",
+    "difficulty": "medium",
+    "question": "Câte tipuri de contacte ocluzale poate stabili corpul de punte cu dinții antagoniști, conform cursului?",
+    "options": [
+      { "id": "A", "text": "3 tipuri: contact tripodic, contact vârf cuspid-planșeu fosă, contact în suprafață", "correct": true },
+      { "id": "B", "text": "2 tipuri: contact cuspid-cuspid și contact cuspid-fosă", "correct": false },
+      { "id": "C", "text": "4 tipuri: tripodic, vârf-planșeu, în suprafață, punct-punct", "correct": false },
+      { "id": "D", "text": "3 tipuri: contact centric, contact excentric, contact de lucru", "correct": false },
+      { "id": "E", "text": "2 tipuri: contact în intercuspidare maximă și contact în relație centrică", "correct": false }
+    ],
+    "explanation": "Conform cursului, corpul de punte poate stabili 3 tipuri de contacte ocluzale: 1. contact tripodic, 2. contact vârf cuspid-planșeu fosă (fund fosă), 3. contact în suprafață.",
+    "source": "PPF-Curs-3.pdf, slide Relieful ocluzal — tipuri de contacte ocluzale"
+  },
+  {
+    "id": 13,
+    "topic": "Principiul profilactic - contact tripodic",
+    "difficulty": "hard",
+    "question": "Care caracteristici definesc CONTACTUL TRIPODIC al corpului de punte cu dinții antagoniști?",
+    "options": [
+      { "id": "A", "text": "Un cuspid se angrenează într-o fosetă antagonistă, fixându-se prin 3 puncte, fără atingerea fondului fosetei", "correct": true },
+      { "id": "B", "text": "Rapoartele ocluzale sunt stabile, mandibula păstrându-și poziția spațială față de maxilar", "correct": true },
+      { "id": "C", "text": "Eficiența masticatorie este maximă", "correct": true },
+      { "id": "D", "text": "Foseta este largă iar cuspidul ascuțit ia contact numai cu planșeul fosetei", "correct": false },
+      { "id": "E", "text": "Se produc contacte întinse între pantele cuspidiene", "correct": false }
+    ],
+    "explanation": "Contactul tripodic: cuspid se fixează în fosetă antagonistă prin 3 puncte fără a atinge fondul fosetei; rapoarte ocluzale stabile; eficiență masticatorie MAXIMĂ. Caracteristicile cu foseta largă și cuspidul ascuțit descriu contactul vârf cuspid-planșeu fosă; contactele între pantele cuspidiene sunt specifice contactului în suprafață.",
+    "source": "PPF-Curs-3.pdf, slide Contactul tripodic"
+  },
+  {
+    "id": 14,
+    "topic": "Principiul profilactic - contact în suprafață",
+    "difficulty": "hard",
+    "question": "Care afirmații sunt CORECTE privind contactul ocluzal ÎN SUPRAFAȚĂ al corpului de punte?",
+    "options": [
+      { "id": "A", "text": "Rezultă din trecerea de la morfologia ocluzală primară la morfologia ocluzală secundară", "correct": true },
+      { "id": "B", "text": "Stabilitatea mandibulei în intercuspidare maximă este perfectă", "correct": true },
+      { "id": "C", "text": "Eficiența masticatorie este redusă comparativ cu contactul tripodic și contactul vârf cuspid-planșeu fosă", "correct": true },
+      { "id": "D", "text": "Mișcările mandibulei pot fi blocate de interferențe dentare, PPF devenind factor iatrogen al disfuncției ocluzale", "correct": true },
+      { "id": "E", "text": "Eficiența masticatorie este maximă și rapoartele ocluzale sunt identice cu contactul tripodic", "correct": false }
+    ],
+    "explanation": "Contactul în suprafață: rezultă din morfologia ocluzală secundară; contacte întinse între pantele cuspidiene; stabilitate perfectă în intercuspidare maximă; eficiență masticatorie REDUSĂ față de tripodic și față de vârf cuspid; mișcările mandibulei pot fi blocate → PPF = factor iatrogen al disfuncției ocluzale.",
+    "source": "PPF-Curs-3.pdf, slide Contactul în suprafață"
+  },
+  {
+    "id": 15,
+    "topic": "Principiul profilactic - protecția papilei interdentare",
+    "difficulty": "medium",
+    "question": "Ce consecință poate apărea prin traumatizarea papilei interdentare de către PPF?",
+    "options": [
+      { "id": "A", "text": "Inflamația papilei cu repercursiuni asupra parodonțiului de susținere și implantării dintelui stâlp", "correct": true },
+      { "id": "B", "text": "Stimularea proliferării papilei și îmbunătățirea troficității parodontale", "correct": false },
+      { "id": "C", "text": "Retracție gingivală izolată fără implicarea parodonțiului de susținere", "correct": false },
+      { "id": "D", "text": "Creșterea rezistenței mecanice a dintelui stâlp", "correct": false },
+      { "id": "E", "text": "Formarea de os de neoformație la nivelul crestei alveolare", "correct": false }
+    ],
+    "explanation": "Traumatizarea papilei interdentare poate cauza inflamația acesteia, cu repercursiuni asupra parodonțiului de susținere și, în consecință, asupra implantării dintelui stâlp. La modelarea machetei corpului de punte, în locul de joncțiune cu elementele de agregare, trebuie lăsat spațiul papilei.",
+    "source": "PPF-Curs-3.pdf, slide Protecția papilei interdentare"
+  },
+  {
+    "id": 16,
+    "topic": "Principiul profilactic - igienă precare",
+    "difficulty": "medium",
+    "question": "Care sunt consecințele igienei precare în utilizarea PPF?",
+    "options": [
+      { "id": "A", "text": "Halena", "correct": true },
+      { "id": "B", "text": "Retenția alimentară", "correct": true },
+      { "id": "C", "text": "Reacție inflamatorie a țesuturilor moi periprotetice", "correct": true },
+      { "id": "D", "text": "Depuneri de tartru", "correct": true },
+      { "id": "E", "text": "Fracturarea corpului de punte prin suprasolicitare ocluzală", "correct": false }
+    ],
+    "explanation": "Consecințele igienei precare în utilizarea PPF sunt: halena, retenția alimentară, reacție inflamatorie a țesuturilor moi periprotetice și depuneri de tartru. Fracturarea corpului de punte prin suprasolicitare ocluzală ține de principiul biomecanic, nu de igienă.",
+    "source": "PPF-Curs-3.pdf, slide Raportul corpului de punte cu creasta edentată — consecințele igienei precare"
+  },
+  {
+    "id": 17,
+    "topic": "Principiul biomecanic - rezistența mecanică",
+    "difficulty": "medium",
+    "question": "Care este definiția REZISTENȚEI MECANICE a PPF?",
+    "options": [
+      { "id": "A", "text": "Proprietatea PPF de a suporta eforturile interioare ce apar în structura lor sub acțiunea sarcinilor exterioare datorate funcțiilor (masticația) sau parafuncțiilor (bruxism)", "correct": true },
+      { "id": "B", "text": "Capacitatea PPF de a se opune forțelor dislocante cu direcție laterală sau componentelor laterale ale forțelor", "correct": false },
+      { "id": "C", "text": "Calitatea PPF de a se insera și dezinsera pe dinții stâlpi fără a provoca disconfort pacientului", "correct": false },
+      { "id": "D", "text": "Proprietatea PPF de a-și menține forma și volumul pe toată durata de utilizare, indiferent de forțele aplicate", "correct": false },
+      { "id": "E", "text": "Capacitatea PPF de a transmite forțele masticatorii exclusiv în axul lung al dinților stâlpi", "correct": false }
+    ],
+    "explanation": "Rezistența mecanică = proprietatea PPF de a suporta eforturile interioare ce apar în structura lor sub acțiunea unor sarcini exterioare, datorate funcțiilor (masticația) sau parafuncțiilor (bruxism). Definiția din opțiunea B descrie STABILITATEA, nu rezistența mecanică.",
+    "source": "PPF-Curs-3.pdf, slide 3. Principiul biomecanic — Rezistenta mecanică"
+  },
+  {
+    "id": 18,
+    "topic": "Principiul biomecanic - rezistența mecanică",
+    "difficulty": "medium",
+    "question": "De care elemente ale PPF este asigurată REZISTENȚA MECANICĂ?",
+    "options": [
+      { "id": "A", "text": "Dinții stâlpi", "correct": true },
+      { "id": "B", "text": "Elementele de agregare", "correct": true },
+      { "id": "C", "text": "Corpul de punte", "correct": true },
+      { "id": "D", "text": "Materialul de cimentare (cimentul de fixare)", "correct": false },
+      { "id": "E", "text": "Conectorii izolat, independent de celelalte elemente", "correct": false }
+    ],
+    "explanation": "Rezistența mecanică este asigurată de TOATE elementele PPF: dinții stâlpi, elementele de agregare și corpul de punte. Cimentul de fixare contribuie la retenție, nu la rezistența mecanică propriu-zisă a PPF.",
+    "source": "PPF-Curs-3.pdf, slide Rezistenta mecanică — este asigurată de toate elementele PPF"
+  },
+  {
+    "id": 19,
+    "topic": "Principiul biomecanic - evaluarea dinților stâlpi",
+    "difficulty": "hard",
+    "question": "Care criterii intră în evaluarea STRUCTURII CORONARE a dinților stâlpi?",
+    "options": [
+      { "id": "A", "text": "Obturații (extindere, infiltrație marginală, integritate)", "correct": true },
+      { "id": "B", "text": "Coroane de acoperire (material, infiltrație marginală, tip preparație)", "correct": true },
+      { "id": "C", "text": "Distru cții coronare (abfractii, eroziuni, abrazii, atritii, fracturi, fisuri)", "correct": true },
+      { "id": "D", "text": "Fațete de abrazie (severitate, cauze, implicații endo)", "correct": true },
+      { "id": "E", "text": "Lungimea rădăcinii intraosoase și aria ligamentului parodontal", "correct": false }
+    ],
+    "explanation": "Structura coronară a dinților stâlpi se evaluează prin: obturații, coroane de acoperire, colorații, carii, distrucții coronare (abfractii, eroziuni, abrazii, atritii, fracturi, fisuri), pigmentări, fațete de abrazie. Lungimea rădăcinii intraosoase și aria ligamentului parodontal aparțin evaluării statusului parodontal, nu structurii coronare.",
+    "source": "PPF-Curs-3.pdf, slide Rezistenta mecanică — Dinții stâlpi — 1. Structura coronară"
+  },
+  {
+    "id": 20,
+    "topic": "Principiul biomecanic - status endodontic",
+    "difficulty": "medium",
+    "question": "Ce evaluează examinarea STATUSULUI ENDODONTIC al dinților stâlpi?",
+    "options": [
+      { "id": "A", "text": "Dacă dintele este vital sau non-vital", "correct": true },
+      { "id": "B", "text": "Expunerea pulpară ca urmare a unui proces carios sau traumatism", "correct": true },
+      { "id": "C", "text": "Corectitudinea tratamentelor endodontice efectuate", "correct": true },
+      { "id": "D", "text": "Potențialele patologii endodontice (pulpită reversibilă, necroză pulpară, parodontită apicală, chist radicular)", "correct": true },
+      { "id": "E", "text": "Aria ligamentului parodontal și raportul coroană/rădăcină", "correct": false }
+    ],
+    "explanation": "Statusul endodontic se evaluează prin examinare clinică și rx retroalveolare și cuprinde: vitalitate/non-vitalitate, expunere pulpară, corectitudinea tratamentelor endodontice, patologii endodontice potențiale (pulpită reversibilă, necroză pulpară, depășire apex, parodontită apicală, chist radicular). Aria ligamentului parodontal și raportul CR aparțin evaluării statusului parodontal.",
+    "source": "PPF-Curs-3.pdf, slide Rezistenta mecanică — Dinții stâlpi — 2. Status endodontic"
+  },
+  {
+    "id": 21,
+    "topic": "Principiul biomecanic - inserția PPF",
+    "difficulty": "hard",
+    "question": "Care cerință trebuie îndeplinită de suprafețele axiale ale dinților stâlpi pentru a permite inserția/dezinserția PPF?",
+    "options": [
+      { "id": "A", "text": "Suprafețele axiale trebuie să fie convergente spre ocluzal 6-10°, fără zone retentive", "correct": true },
+      { "id": "B", "text": "Suprafețele axiale trebuie să fie paralele între ele, fără nicio convergență", "correct": false },
+      { "id": "C", "text": "Suprafețele axiale trebuie să fie divergente spre ocluzal 6-10° pentru a asigura retenția", "correct": false },
+      { "id": "D", "text": "Suprafețele axiale trebuie să fie convergente spre ocluzal minim 20°", "correct": false },
+      { "id": "E", "text": "Suprafețele axiale trebuie să prezinte zone retentive pentru creșterea retenției", "correct": false }
+    ],
+    "explanation": "Suprafețele axiale ale dinților stâlpi trebuie să fie CONVERGENTE spre ocluzal 6-10°, fără zone retentive, pentru a permite inserția/dezinserția PPF. Discrepanțele corelate cu axele diferite ale stâlpilor se evaluează cu paralelograful (pe model), paralelometrul (intraoral) sau sistemele de scanare.",
+    "source": "PPF-Curs-3.pdf, slide Rezistenta mecanică — Dinții stâlpi — 3. Înclinația dintelui"
+  },
+  {
+    "id": 22,
+    "topic": "Principiul biomecanic - basculările dinților stâlpi",
+    "difficulty": "hard",
+    "question": "Care modalități de corecție pot fi aplicate pentru basculările dinților stâlpi sau vecini?",
+    "options": [
+      { "id": "A", "text": "Șlefuiri selective", "correct": true },
+      { "id": "B", "text": "Ortodontic", "correct": true },
+      { "id": "C", "text": "PPF telescopat", "correct": true },
+      { "id": "D", "text": "PPF din mai multe bucăți + conector non-rigid", "correct": true },
+      { "id": "E", "text": "Extracția dintelui stâlp și înlocuirea cu implant, indiferent de situația clinică", "correct": false }
+    ],
+    "explanation": "Basculările dinților vecini sau ale dinților stâlpi pot fi corectate prin: șlefuiri selective, șlefuire + acoperire cu coroane de înveliș ± includere în PPF, ortodontic, PPF telescopat, PPF din mai multe bucăți + conector non-rigid. Extracția imediată nu este menționată ca modalitate de corecție a basculărilor.",
+    "source": "PPF-Curs-3.pdf, slide Rezistenta mecanică — Dinții stâlpi — 3. Basculările pot fi corectate"
+  },
+  {
+    "id": 23,
+    "topic": "Principiul biomecanic - raportul coroană/rădăcină",
+    "difficulty": "hard",
+    "question": "Care sunt valorile raportului COROANĂ/RĂDĂCINĂ (CR) optim și minim conform cursului?",
+    "options": [
+      { "id": "A", "text": "CR Optim = 1/2; CR Minim = 1/1", "correct": true },
+      { "id": "B", "text": "CR Optim = 1/1; CR Minim = 2/1", "correct": false },
+      { "id": "C", "text": "CR Optim = 2/3; CR Minim = 1/2", "correct": false },
+      { "id": "D", "text": "CR Optim = 1/3; CR Minim = 1/2", "correct": false },
+      { "id": "E", "text": "CR Optim = 1/1; CR Minim = 1/2", "correct": false }
+    ],
+    "explanation": "Raportul coroană/rădăcină = lungimea dintelui măsurată de la nivel ocluzal până la nivelul crestei alveolare comparată cu lungimea rădăcinii intraosoase. Valorile sunt: Optim = 1/2 (coroana mai scurtă decât rădăcina de 2 ori); Minim = 1/1 (coroana egală cu rădăcina).",
+    "source": "PPF-Curs-3.pdf, slide Statusul parodontal — Raportul coroană/rădăcină"
+  },
+  {
+    "id": 24,
+    "topic": "Principiul biomecanic - raportul coroană/rădăcină",
+    "difficulty": "hard",
+    "question": "Un raport CR sub 1/1 poate fi considerat ADECVAT protezării prin PPF dacă:",
+    "options": [
+      { "id": "A", "text": "Arcada antagonistă este alcătuită de dinți artificiali (forțele ocluzale sunt diminuante)", "correct": true },
+      { "id": "B", "text": "Arcada antagonistă este reprezentată de dinți mobili afectați parodontal", "correct": true },
+      { "id": "C", "text": "Arcada antagonistă este reprezentată de o proteză totală", "correct": true },
+      { "id": "D", "text": "Pacientul este adult tânăr cu gingia atașată la joncțiunea smalț-cement", "correct": false },
+      { "id": "E", "text": "Dintele stâlp este un molar cu rădăcini divergente", "correct": false }
+    ],
+    "explanation": "Un CR sub 1/1 poate fi considerat adecvat dacă: arcada antagonistă este alcătuită de dinți artificiali (forțele ocluzale sunt diminuante), sau de dinți mobili afectați parodontal, sau de o proteză totală. Vârsta pacientului și morfologia rădăcinii dintelui stâlp nu sunt criterii care schimbă acceptabilitatea CR-ului sub 1/1.",
+    "source": "PPF-Curs-3.pdf, slide Statusul parodontal — Raportul CR sub 1/1 adecvat dacă"
+  },
+  {
+    "id": 25,
+    "topic": "Principiul biomecanic - configurația rădăcinii",
+    "difficulty": "hard",
+    "question": "Care afirmații sunt CORECTE privind configurația rădăcinilor dinților stâlpi în terapia PPF?",
+    "options": [
+      { "id": "A", "text": "Sunt preferați ca stâlpi acei dinți care au mai multe rădăcini", "correct": true },
+      { "id": "B", "text": "Rădăcinile divergente oferă suport parodontal mult mai bun decât rădăcinile care converg și fuzionează sau au configurație conică", "correct": true },
+      { "id": "C", "text": "Un dinte monoradicular cu curburi în treimea apicală este de preferat unei rădăcini aproape netede și drepte", "correct": true },
+      { "id": "D", "text": "Configurația radiculară se evaluează radiografic, cel mai bine cu rx intraorale retroalveolare și nu pe ortopantomografii", "correct": true },
+      { "id": "E", "text": "Rădăcinile cu diametrul mezio-distal mai mare decât cel vestibulo-oral sunt preferate", "correct": false }
+    ],
+    "explanation": "Toate afirmațiile A, B, C, D sunt corecte conform cursului. E este incorectă — cursul precizează că rădăcinile cu diametrul V-O MAI MARE decât cel M-D sunt preferate (nu invers). De exemplu PM1 max (diametru V-O mare) este mai valoros ca stâlp decât IC max (rădăcina sferică pe secțiune), deși au aceeași suprafață radiculară.",
+    "source": "PPF-Curs-3.pdf, slide Statusul parodontal — Configurația rădăcinii"
+  },
+  {
+    "id": 26,
+    "topic": "Principiul biomecanic - Legea lui Ante",
+    "difficulty": "medium",
+    "question": "Care este enunțul LEGII LUI ANTE în contextul terapiei PPF?",
+    "options": [
+      { "id": "A", "text": "Suprafața radiculară a dinților restanți trebuie să egaleze sau chiar să depășească suprafața radiculară a dinților înlocuiți", "correct": true },
+      { "id": "B", "text": "Suprafața radiculară a dinților restanți trebuie să fie cel puțin jumătate din suprafața radiculară a dinților înlocuiți", "correct": false },
+      { "id": "C", "text": "Numărul dinților stâlpi trebuie să fie cel puțin egal cu numărul intermediarilor PPF", "correct": false },
+      { "id": "D", "text": "Suprafața coronară a dinților stâlpi trebuie să egaleze sau să depășească suprafața coronară a dinților înlocuiți", "correct": false },
+      { "id": "E", "text": "Aria ligamentului parodontal al dinților stâlpi trebuie să fie de cel puțin 2 ori mai mare decât aria dinților înlocuiți", "correct": false }
+    ],
+    "explanation": "Legea lui Ante: suprafața RADICULARĂ a dinților RESTANȚI trebuie să EGALEZE sau chiar să DEPĂȘEASCĂ suprafața radiculară a dinților ÎNLOCUIȚI. Când suprafața radiculară combinată a stâlpilor este mai mică decât a dinților care trebuie înlocuiți, realizarea PPF devine riscantă.",
+    "source": "PPF-Curs-3.pdf, slide Statusul parodontal — Aria ligamentului parodontal — Legea lui Ante"
+  },
+  {
+    "id": 27,
+    "topic": "Principiul biomecanic - ligamentul parodontal",
+    "difficulty": "hard",
+    "question": "Care sunt funcțiile ligamentului parodontal (fibrele Sharpey) conform cursului?",
+    "options": [
+      { "id": "A", "text": "Absorbant de șocuri", "correct": true },
+      { "id": "B", "text": "Transmitere de forțe", "correct": true },
+      { "id": "C", "text": "Formare și remodelare", "correct": true },
+      { "id": "D", "text": "Nutritivă și senzorială", "correct": true },
+      { "id": "E", "text": "Protecție imunologică specifică împotriva bacteriilor carioase", "correct": false }
+    ],
+    "explanation": "Funcțiile ligamentului parodontal (format din fibre de colagen incluse în os și cement) sunt 5: 1. absorbant de șocuri, 2. transmitere de forțe, 3. formare și remodelare, 4. nutritivă, 5. senzorială. Protecția imunologică specifică nu este menționată ca funcție a ligamentului parodontal.",
+    "source": "PPF-Curs-3.pdf, slide Statusul parodontal — Aria ligamentului parodontal — funcțiile ligamentului parodontal"
+  },
+  {
+    "id": 28,
+    "topic": "Principiul biomecanic - rezistența elementelor de agregare",
+    "difficulty": "hard",
+    "question": "Care este ordinea DESCRESCĂTOARE a rezistenței mecanice a tipurilor de elemente de agregare (retentorii) PPF?",
+    "options": [
+      { "id": "A", "text": "Coroana cu grosime totală (masivă) > Coroana de substituție (DCR) > Coroanele mixte > Coroane de înveliș parțiale > Inlay", "correct": true },
+      { "id": "B", "text": "Inlay > Coroane de înveliș parțiale > Coroanele mixte > Coroana de substituție > Coroana cu grosime totală", "correct": false },
+      { "id": "C", "text": "Coroanele mixte > Coroana de substituție (DCR) > Coroana cu grosime totală > Coroane de înveliș parțiale > Inlay", "correct": false },
+      { "id": "D", "text": "Coroana de substituție (DCR) > Coroana cu grosime totală > Coroanele mixte > Inlay > Coroane de înveliș parțiale", "correct": false },
+      { "id": "E", "text": "Coroana cu grosime totală > Coroanele mixte > Coroana de substituție (DCR) > Inlay > Coroane de înveliș parțiale", "correct": false }
+    ],
+    "explanation": "Ordinea DESCRESCĂTOARE a rezistenței mecanice a elementelor de agregare: 1. Coroana cu grosime totală (masivă) — cea mai rezistentă; 2. Coroana de substituție (DCR); 3. Coroanele mixte; 4. Coroane de înveliș parțiale; 5. Inlay — cea mai puțin rezistentă.",
+    "source": "PPF-Curs-3.pdf, slide Rezistenta mecanică — Elementele de agregare"
+  },
+  {
+    "id": 29,
+    "topic": "Principiul biomecanic - rezistența materialelor",
+    "difficulty": "hard",
+    "question": "Care este ordinea DESCRESCĂTOARE a rezistenței mecanice a materialelor utilizate pentru elementele de agregare ale PPF?",
+    "options": [
+      { "id": "A", "text": "Aliaje metalice (Cr-Co, Ni-Cr > Ag-Pd > Au) > Ceramică > Compozit > Acrilat", "correct": true },
+      { "id": "B", "text": "Ceramică > Aliaje metalice > Compozit > Acrilat", "correct": false },
+      { "id": "C", "text": "Au > Ag-Pd > Cr-Co > Ni-Cr > Ceramică > Compozit > Acrilat", "correct": false },
+      { "id": "D", "text": "Acrilat > Compozit > Ceramică > Aliaje metalice", "correct": false },
+      { "id": "E", "text": "Aliaje metalice (Au > Ag-Pd > Cr-Co, Ni-Cr) > Ceramică > Compozit > Acrilat", "correct": false }
+    ],
+    "explanation": "Ordinea descrescătoare a rezistenței materialelor: 1. Aliaje metalice (Cr-Co, Ni-Cr — cel mai rezistente, > Ag-Pd > Au); 2. Ceramică; 3. Compozit; 4. Acrilat — cel mai puțin rezistent. Aliajele nobile (Au) sunt mai puțin rezistente decât aliajele de Cr-Co sau Ni-Cr.",
+    "source": "PPF-Curs-3.pdf, slide Rezistenta mecanică — Elementele de agregare — Materialul utilizat"
+  },
+  {
+    "id": 30,
+    "topic": "Principiul biomecanic - stabilitatea PPF",
+    "difficulty": "medium",
+    "question": "Care afirmații sunt CORECTE privind STABILITATEA PPF?",
+    "options": [
+      { "id": "A", "text": "Stabilitatea = calitatea PPF de a se opune eficient acțiunii forțelor dislocante cu direcție laterală", "correct": true },
+      { "id": "B", "text": "Stabilitatea depinde de adaptarea retentorilor PPF la bonturile dentare (fricțiunea PPF)", "correct": true },
+      { "id": "C", "text": "Cei mai stabili retentori PPF = coroanele de acoperire totale și coroanele de substituție", "correct": true },
+      { "id": "D", "text": "Stabilitatea depinde exclusiv de materialul din care este confecționată PPF", "correct": false },
+      { "id": "E", "text": "Cei mai stabili retentori PPF = inlay-urile și coroanele de înveliș parțiale", "correct": false }
+    ],
+    "explanation": "Stabilitatea PPF: calitatea de a se opune forțelor dislocante laterale; depinde de adaptarea retentorilor la bonturi (fricțiunea PPF) și de dimensiunea și morfologia coronară a bonturilor; cei mai stabili retentori = coroanele de acoperire totale și coroanele de substituție. Inlay-urile și coroanele parțiale sunt cele mai puțin stabile.",
+    "source": "PPF-Curs-3.pdf, slide 3. Principiul biomecanic — Stabilitatea, sprijinul și echilibrul"
+  },
+  {
+    "id": 31,
+    "topic": "Principiul biomecanic - sprijinul PPF",
+    "difficulty": "hard",
+    "question": "Care sunt tipurile de sprijin ale PPF în funcție de forma poligonului de susținere?",
+    "options": [
+      { "id": "A", "text": "PPF cu sprijin punctiform", "correct": true },
+      { "id": "B", "text": "PPF cu sprijin liniar", "correct": true },
+      { "id": "C", "text": "PPF cu sprijin poligonal (în suprafață)", "correct": true },
+      { "id": "D", "text": "PPF cu sprijin eliptic", "correct": false },
+      { "id": "E", "text": "PPF cu sprijin triunghiular", "correct": false }
+    ],
+    "explanation": "Sprijinul PPF depinde de numărul și morfologia radiculară a dinților stâlpi și de dispoziția lor pe arcadă, care determină forma poligonului de susținere: a. PPF cu sprijin 'punctiform', b. PPF cu sprijin 'liniar', c. PPF cu sprijin în suprafață (poligonal). Nu există sprijin eliptic sau triunghiular ca categorii distincte în curs.",
+    "source": "PPF-Curs-3.pdf, slide Sprijinul — tipuri de sprijin PPF"
+  },
+  {
+    "id": 32,
+    "topic": "Principiul biomecanic - sprijin poligonal",
+    "difficulty": "hard",
+    "question": "Care afirmații sunt CORECTE privind PPF cu sprijin POLIGONAL?",
+    "options": [
+      { "id": "A", "text": "Necesită minimum trei dinți stâlpi care nu sunt situați în linie dreaptă", "correct": true },
+      { "id": "B", "text": "Au 3 sau mai multe puncte de sprijin în planuri diferite", "correct": true },
+      { "id": "C", "text": "Sunt cele mai stabile (Beliard)", "correct": true },
+      { "id": "D", "text": "Forțele solicitante se neutralizează reciproc, cu excepția celor care acționează vertical", "correct": true },
+      { "id": "E", "text": "Sunt mai instabile decât PPF cu sprijin liniar", "correct": false }
+    ],
+    "explanation": "PPF cu sprijin poligonal: minimum 3 dinți stâlpi care NU sunt în linie dreaptă; 3+ puncte de sprijin în planuri diferite; sunt CELE MAI STABILE (Beliard); forțele solicitante se neutralizează reciproc, cu excepția celor verticale (care sunt direcția fiziologică de transmitere). Sunt mai STABILE decât cele cu sprijin liniar sau punctiform.",
+    "source": "PPF-Curs-3.pdf, slide Sprijinul — PPF cu sprijin poligonal"
+  },
+  {
+    "id": 33,
+    "topic": "Principiul biomecanic - echilibrul PPF",
+    "difficulty": "hard",
+    "question": "Când este PPF în ECHILIBRU?",
+    "options": [
+      { "id": "A", "text": "Când intermediarii PPF sunt proiectați în interiorul poligonului de sprijin", "correct": true },
+      { "id": "B", "text": "Când intermediarii PPF sunt proiectați în afara poligonului de sprijin", "correct": false },
+      { "id": "C", "text": "Când corpul de punte este realizat în arc de cerc și are săgeata mai mare decât distanța dintre stâlpii extremi", "correct": false },
+      { "id": "D", "text": "Când PPF are extensie și corpul de punte este în afara suprafeței de sustentație", "correct": false },
+      { "id": "E", "text": "Când sprijinul PPF este punctiform, cu un singur dinte stâlp", "correct": false }
+    ],
+    "explanation": "PPF este în echilibru când intermediarii PPF sunt proiectați în INTERIORUL poligonului de sprijin. Echilibrul este condiționat de designul și poziția intermediarilor față de dinții stâlpi. PPF în extensie (corpul de punte în afara poligonului) și PPF în arc de cerc cu săgeata > distanța dintre stâlpi extremi sunt situații clinice care NU respectă legea echilibrului.",
+    "source": "PPF-Curs-3.pdf, slide Echilibrul PPF"
+  },
+  {
+    "id": 34,
+    "topic": "Principiul biomecanic - PPF în arc de cerc",
+    "difficulty": "hard",
+    "question": "Când sunt echilibrate PPF ÎN ARC DE CERC?",
+    "options": [
+      { "id": "A", "text": "Când săgeata arcului de cerc este egală sau mai mică decât distanța dintre dinții stâlpi extremi", "correct": true },
+      { "id": "B", "text": "Când săgeata arcului de cerc este mai mare decât distanța dintre dinții stâlpi extremi", "correct": false },
+      { "id": "C", "text": "Când sunt realizate exclusiv din materiale cu rigiditate maximă (Cr-Co sau ceramică)", "correct": false },
+      { "id": "D", "text": "Când intermediarii PPF sunt proiectați în afara poligonului de sprijin", "correct": false },
+      { "id": "E", "text": "Când curbura arcadei frontale este maximă", "correct": false }
+    ],
+    "explanation": "PPF în arc de cerc (intermediarii curbi, la PPF frontale care reproduc curbura vestibulară a arcadei) sunt echilibrate când SĂGEATA arcului de cerc este EGALĂ sau MAI MICĂ decât distanța dintre dinții stâlpi extremi. Curbura redusă a arcadei în zona frontală este favorabilă echilibrului. Când săgeata este mai mare, apar forțe de basculare și flexiune.",
+    "source": "PPF-Curs-3.pdf, slide Echilibrul PPF — 2. PPF în arc de cerc"
+  }
+]

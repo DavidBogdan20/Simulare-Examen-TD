@@ -8,5 +8,10 @@
     "id": "ppf-curs-2",
     "name": "PPF Curs 2 — Componente, clasificare, câmp protetic",
     "file": "questions/ppf-curs-2.json"
+  },
+  {
+    "id": "ppf-curs-3",
+    "name": "PPF Curs 3 — Biomecanica PPF: principii de tratament",
+    "file": "questions/ppf-curs-3.json"
   }
 ]
